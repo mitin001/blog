@@ -6,3 +6,6 @@ Long ago, I saw a viral video of a [comedienne] storming out of an interview. Th
 [another interview]: https://www.chron.com/culture/main/article/joan-rivers-swears-at-morning-show-host-during-1745331.php
 [Comedy Central Roast of Joan Rivers]: https://www.imdb.com/title/tt1413788/
 [Pivot]: https://podcastindex.org/podcast/174725
+
+* [Pivot: 8/12/2025. David Remnick](/2025/09/23/pivot-2025-08-12.md)
+* [Pivot: 9/16/2025](/2025/09/23/pivot-2025-09-16.md)
