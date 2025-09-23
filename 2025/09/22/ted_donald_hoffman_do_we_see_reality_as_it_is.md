@@ -1,4 +1,4 @@
-# [Donald Hoffman: Do we see reality as it is?](https://www.ted.com/talks/donald_hoffman_do_we_see_reality_as_it_is/transcript)
+# [TED. Donald Hoffman: Do we see reality as it is?](https://www.ted.com/talks/donald_hoffman_do_we_see_reality_as_it_is/transcript)
 
 YouTube recommended this TED talk to me. While watching it, I realized it answered several questions I didn't even know I had.
 
