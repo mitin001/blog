@@ -1,11 +1,13 @@
 # [Donald Hoffman: Do we see reality as it is?](https://www.ted.com/talks/donald_hoffman_do_we_see_reality_as_it_is/transcript)
 
-* TOC
+YouTube recommended this TED talk to me. While watching it, I realized it answered several questions I didn't even know I had.
+
+1. TOC
 {:toc}
 
 ## How can one see the world as another person? How can one experience consciousness exactly the way another person experiences consciousness?
 
-Perhaps if you could connect your nervous tissue to a machine that could replicate every signal that travels through the nervous tissue of another person into your nervous tissue. It's been long known (since at least 1868) that an irritation of the nervous tissue produces the experience of consciousness, as documented by the kinds of questions the likes of Thomas Huxley were asking at the time.
+Perhaps if you could connect your nervous tissue to a machine that could replicate every signal that travels through the nervous tissue of another person into your nervous tissue. It's long been known (since at least 1868) that an irritation of the nervous tissue produces the experience of consciousness, as documented by the kinds of questions the likes of Thomas Huxley were asking at the time.
 
 > How it is that anything so remarkable as a state of consciousness comes about as the result of irritating nervous tissue?
 
@@ -13,7 +15,7 @@ Perhaps if you could connect your nervous tissue to a machine that could replica
 
 We are already there. [130-megapixel cameras] can be created by pairing a scanner with a manual photo lens. 130 megapixels is the image resolution of the human eye.
 
->  The eye has a lens that focuses an image on the back of the eye where there are 130 million photoreceptors, so the eye is like a 130-megapixel camera.
+> The eye has a lens that focuses an image on the back of the eye where there are 130 million photoreceptors, so the eye is like a 130-megapixel camera.
 
 ## How accurate is human vision? 
 
@@ -27,7 +29,7 @@ There's a trade-off between vision accuracy and processing speed. Natural select
 
 Natural selection is the great optimizer. It found the optimal intersection of vision accuracy and processing speed for the organism possessing these to get away from predators and other dangerous situations, survive, and reproduce.
 
->  Evolutionarily speaking, vision is useful precisely because it is so accurate.
+> Evolutionarily speaking, vision is useful precisely because it is so accurate.
 
 However, studies of living organisms that have undergone the same selection pressures as humans suggest that vision relies heavily on heuristics. For example, the male Australian jewel beetle mistake beer bottles for their females.
 
@@ -47,7 +49,7 @@ Just like a desktop metaphor is an abstraction for using a computer without gett
 
 ## Is it true that the more complex a species is, the more likely it is to go extinct when the environment changes?
 
-Yes, the complexity has arisen out of the species spending a long time in a specific, unchanging environment and adapting to it. The species becomes a tight fit for their environment. When the environment changes, the organisms inhabiting it are no longer a tight fit. Even when a species has successfully adapted to selection pressures in the past, it does not mean they can do so in the future. Quite the contrary: the organism has become more complex, and so it is harder to change. Every selection pressure is different: some lead to adaptation and others lead to extinction. The Australian jewel beetles give us an example of that. They've become reliant on a heuristic to find their mates so when humans introduced garbage into their environment that matched this heuristic better, they started mating with the garbage.
+Yes, the complexity has arisen out of the species spending a long time in a specific, unchanging environment and adapting to it. The species becomes a tight fit for its environment. When the environment changes, the organisms inhabiting it are no longer a tight fit. Even when a species has successfully adapted to selection pressures in the past, it does not mean it can do so in the future. Quite the contrary: the organism has become more complex, and so it is harder to change. Every selection pressure is different: some lead to adaptation and others lead to extinction. The Australian jewel beetles give us an example of that. They've become reliant on a heuristic to find their mates so when humans introduced garbage into their environment that matched this heuristic better, they started mating with the garbage.
 
 > The males had successfully found females for thousands, perhaps millions of years. It looked like they saw reality as it is, but apparently not. Evolution had given them a hack. A female is anything dimpled, glossy and brown, the bigger the better.
 
@@ -65,7 +67,7 @@ Even though our perception does not reveal to us the true nature of reality, Don
 
 ## If perception is not reality, then logic or mathematics is not the truth? 
 
-Not likely. The fact that there are selection pressures to make perception differ from reality in ways to make it more useful for the perceiver's survival does not mean that the same selection pressuress apply to math or logic. They have different selection pressures.
+Not likely. The fact that there are selection pressures to make perception differ from reality in ways to make it more useful for the perceiver's survival does not mean that the same selection pressures apply to math or logic. They have different selection pressures.
 
 > There are some selection pressures for our logic and our mathematics to be at least in the direction of truth.
 
