@@ -1,5 +1,8 @@
 # [Donald Hoffman: Do we see reality as it is?](https://www.ted.com/talks/donald_hoffman_do_we_see_reality_as_it_is/transcript)
 
+* TOC
+{:toc}
+
 ## How can one see the world as another person? How can one experience consciousness exactly the way another person experiences consciousness?
 
 Perhaps if you could connect your nervous tissue to a machine that could replicate every signal that travels through the nervous tissue of another person into your nervous tissue. It's been long known (since at least 1868) that an irritation of the nervous tissue produces the experience of consciousness, as documented by the kinds of questions the likes of Thomas Huxley were asking at the time.
