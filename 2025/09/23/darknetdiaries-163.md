@@ -5,7 +5,7 @@ While listening to this episode of [Darknet Diaries], I realized it answered two
 1. TOC
 {:toc}
 
-[Darknet Diaries]: /series/darknetdiaries.md
+[Darknet Diaries]: ../../../series/darknetdiaries.md
 
 ## What is privacy?
 
