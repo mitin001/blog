@@ -7,7 +7,7 @@ The Google news feed on my Android phone recommended a news story telling me tha
 
 ## How do Wikipedians feel about the Wikimedia Foundation?
 
-The Wikimedia Foundation is the non-profit company that hosts Wikipedia, and Wikipedians have major reservations about trusting this company. WMF's push to cram AI into Wikipedia shows it misunderstands the community and the project's mission. Loud disagreements broke out between the community and WMF over the foundation's AI push. A senior Wikipedia editor even predicted that this is what will finally kill Wikipedia.
+The Wikimedia Foundation is the non-profit company that hosts Wikipedia, and Wikipedians have major reservations about trusting this company. The WMF's push to cram AI into Wikipedia shows it misunderstands the community and the project's mission. Loud disagreements broke out between the community and WMF over the foundation's AI push. A senior Wikipedia editor even predicted that this is what will finally kill Wikipedia.
 
 > Introducing AI summaries would probably lead to a fork and an exodus. I would honestly be shocked if AI is not the final straw in the relationship between the WMF and the community.
 
