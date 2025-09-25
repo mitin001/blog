@@ -7,7 +7,11 @@ The Google news feed on my Android phone recommended a news story telling me tha
 
 ## How do Wikipedians feel about the Wikimedia Foundation?
 
-The Wikimedia Foundation is the non-profit company that hosts Wikipedia, and Wikipedians have major reservations about trusting this company. The WMF's push to cram AI into Wikipedia shows it misunderstands the community and the project's mission. Loud disagreements broke out between the community and WMF over the foundation's AI push. A senior Wikipedia editor even predicted that this is what will finally kill Wikipedia.
+The Wikimedia Foundation is the non-profit company that hosts Wikipedia, and Wikipedians have major reservations about trusting this company. The WMF's push to cram AI into Wikipedia shows it misunderstands the community and the project's mission. Loud disagreements broke out between the community and WMF over the foundation's AI push.
+
+> LLMs are nothing but unethical, mindless plagiarism-machines built with the stolen work of actual humans. Keep this techbro bubble out of Wikipedia.
+
+A senior Wikipedia editor even predicted that this is what will finally kill Wikipedia.
 
 > Introducing AI summaries would probably lead to a fork and an exodus. I would honestly be shocked if AI is not the final straw in the relationship between the WMF and the community.
 
@@ -23,6 +27,10 @@ Building your own independent AI model (that doesn't serve the interests of some
 
 > Being able to set a system prompt is not control, you'd have to train your own model, which means either copyright violations on a massive scale or training on model exclusively on Wikipedia data, meaning it would be completely inferior to what is available.
 
+Because LLMs are the lawlessly obtained abomination that they are, there is no place for them anywhere near Wikipedia.
+
+> Even just for the shady way that training data is used without permission (and in completely non-transparent way), LLMs should never be used in Wikipedia.
+
 By pushing AI into Wikipedia, the WMF seems to want to accelerate Wikipedia's demise. Had they allowed AI edits deep within articles, it would take some time to bury Wikipedia in AI slop. Instead, they want AI slop to greet Wikipedia readers from the lead of their article of interest.
 
 > Many readers would just glance at the summary instead of reading the article. Since the summary will form the glancers' entire impression of the subject, it needs to be extremely accurate. I suspect it is often not.
@@ -34,6 +42,10 @@ Not only is the WMF trying to push AI slop into Wikipedia and feature it more pr
 The authors proposed to protest the WMF's betrayal.
 
 > Let's intentionally skew the results! The WMF intentionally skewed it by picking who to show it to; the community should skew the results to tell the WMF to stop trying to put AI in Wikipedia!
+
+The WMF will assert that this is an experiment, and anything can be done in the spirit of experimentation. The representatives of the foundation don't seem to understand that an experiment on the whole world is no longer an experiment. When you foist an experiment on people without them signing up to be the subjects of said experiment, this should be considered a rollout to the general public.
+
+> This cannot be treated as "just" a test. Wikipedia will become the "main character" of social media for a day, as a villain. Thousands of people will hear about the feature, not examine it for themselves, conclude that Wikipedia doesn't care about fact-checking any more, and never learn that the test ended.
 
 This WMF-proposed feature will be Wikipedia's undoing, the community warns. The foundation's motives cannot be any more self-serving.
 
@@ -51,47 +63,71 @@ Wikipedia prides itself on its extensive multilingual support, something AI will
 
 > They want to dump this trash on multiple wikis, despite the fact that everyone who speaks languages other than English and English knows how much worse the experience in another language is, compared to English.
 
+It will also degrade's Wikipedia reputation as a reliable source of high-quality information.
+
+> Any use of AI to generate user-visitor content will torpedo Wikipedia's current reputation as the last bastion of actual facts on the internet.
+
+It will go against Wikipedia's premise, which is that humans have labored over the content presented to the reader, from phrasing to following notability guidelines to fact checking. Once Wikipedia is contaminated with AI, then all of this can be effectively thrown out. Everything AI touches must include a disclaimer urging people to no longer trust the text. Just think of what an AI-tainted Wikipedia will look like.
+
+> Every page has a disclaimer saying that our content is not guaranteed to be valid and so an assertion of validity would be sending a mixed message.
+
+Not to mention that the volunteers that have worked tirelessly to make Wikipedia what it was before AI don't want to be associated with AI.
+
+> It is generative AI material being presented to a reader under our name, and that is a line we should not cross.
+
 Wikipedians also ask the foundation whether its decision-makers realize that the volunteers will leave if that's how they want to fill their volunteer hours.
 
 > You think people are lining up to check the work of an AI model? Especially when summarizing complicated technical topics most people don't even understand?
+
+No one wants to be harnessed to the machine. No one wants to be a reverse-centaur. But the WMF didn't stop to consider this.
+
+> It shows a real lack of understanding about en-wiki's needs and priorities to propose inventing a new task for admins to deal with, let alone one so spirit-killing as AI cleanup.
 
 With the push for AI, the WMF is showing that it is intent on creating unnecessary problems for Wikipedians.
 
 > They're generating a huge and completely unnecessary cleanup problem for volunteers to handle.
 
-> Every article on Wikipedia has a WP:LEDE which summarizes the article. We do not need another summary to summarize that summary above the summary. This is a solution looking for a problem.
-
-> Any use of AI to generate user-visitor content will torpedo Wikipedia's current reputation as the last bastion of actual facts on the internet.
-
-> This cannot be treated as "just" a test. Wikipedia will become the "main character" of social media for a day, as a villain. Thousands of people will hear about the feature, not examine it for themselves, conclude that Wikipedia doesn't care about fact-checking any more, and never learn that the test ended.
-
-> Think of the poor multi-billion dollar AI company who now has to pay up to 2 dollars an hour for people to correct the output of their model! They really deserve our help, for free.
-
-> It shows a real lack of understanding about en-wiki's needs and priorities to propose inventing a new task for admins to deal with, let alone one so spirit-killing as AI cleanup.
-
-> When other LLMs ask for thumbs up/down feedback, they are assessing whether you liked the response, not whether you double-checked its accuracy. To implement that here will train models to reinforce reader preconceptions, rather than accurately summarize our articles.
-
-> In a world where Wikipedia is one of the only respected bastions against hallucinated bullshit information by LLMs, our response is to implement them onto the project?
+The WMF is showing that even a community of volunteers is not safe from the AI takeover.
 
 > We are not paid, obviously, but if this is implemented over the objection of the community, the Foundation would effectively be signalling intent for Wikipedia to become one more publication that has fired their editors, in part or in whole, in order to put out AI slop.
 
-> It sends the wrong signal to the users (namely that Wikipedia became enshittified).
+The WMF wants to repurpose the volunteers maintaining Wikipedia to training AI for free.
 
-> Let's keep Wikipedia AI-free – that's a strength, not a weakness.
+> Think of the poor multi-billion dollar AI company who now has to pay up to 2 dollars an hour for people to correct the output of their model! They really deserve our help, for free.
 
-> It is generative AI material being presented to a reader under our name, and that is a line we should not cross.
+The WMF has no right to demand this of the volunteers that have built up Wikipedia from the ground up. And if the foundation turns around and says that the volunteers don't have to check the AI outputs but show them anyway, that's worse. That's leaving it up to the reader to decide what is true or not. That's how society's biases become entrenched into algorithms.
+
+> When other LLMs ask for thumbs up/down feedback, they are assessing whether you liked the response, not whether you double-checked its accuracy. To implement that here will train models to reinforce reader preconceptions, rather than accurately summarize our articles.
+
+Wikipedia should not be the place where AI models are being fed biased decisions in a frictionless way. Wikipedia exists to enable people to do the due diligence to find their way to the truth.
 
 > Don't ruin our reputation by falling victim to the craze for dumbing down everything to the lowest possible attention span - and then add insult to injury by doing it with generative AI.
 
-> Every page has a disclaimer saying that our content is not guaranteed to be valid and so an assertion of validity would be sending a mixed message.
-
-> To properly evaluate what an AI writes takes a lot of brainpower. In my opinion it takes the same or more brainpower as just reading the sources/article yourself and writing it without AI.
-
-> Even just for the shady way that training data is used without permission (and in completely non-transparent way), LLMs should never be used in Wikipedia.
+The WMF began with the desire to push AI into Wikipedia and then thought up ways where this could fit.
 
 > This looks a bit like starting with the desire to integrate AI, and then working backward to find a place to fit it in.
 
-> LLMs are nothing but unethical, mindless plagiarism-machines built with the stolen work of actual humans. Keep this techbro bubble out of Wikipedia.
+Except, AI doesn't fit into article summaries.
+
+> Every article on Wikipedia has a WP:LEDE which summarizes the article. We do not need another summary to summarize that summary above the summary. This is a solution looking for a problem.
+
+AI doesn't fit anywhere on Wikipedia.
+
+> In a world where Wikipedia is one of the only respected bastions against hallucinated bullshit information by LLMs, our response is to implement them onto the project?
+
+Let's not cram AI into it.
+
+> It sends the wrong signal to the users (namely that Wikipedia became enshittified).
+
+Let's not enshittify Wikipedia. 
+
+> Let's keep Wikipedia AI-free – that's a strength, not a weakness.
+
+## Does AI make someone more efficient?
+
+It depends on what they're doing with it. If they use it to try to get quality information, then absolutely not.
+
+> To properly evaluate what an AI writes takes a lot of brainpower. In my opinion it takes the same or more brainpower as just reading the sources/article yourself and writing it without AI.
 
 ## Why is the AI trend still not dead?
 
@@ -151,6 +187,10 @@ Had the AI companies been interested in supplying their users with the most accu
 
 ## Why do people create solutions and then look for problems to which their solution could apply?
 
+Because salespeople like the term "integration." It gives them fodder for their sales pitches, even if the integrated features are useless. An AI summary of a Wikipedia article is a mess of randomly generated text filtered through a model trained on stolen copyrighted material to loosely fit together with the terms used in the article, through which process it loses the neutral tone of the article and makes up information not contained in it. No one wants to read it, and Wikipedia already has a summary of every article written by humans, but that didn't stop the WMF from trying to sell this feature to the Wikipedians and the public at large. AI exists to come up with keywords that could improve optical character recognition or audio transcription or Internet search. There's no reason it needs to be used to generate text that's passed off as informative, something it cannot do effectively. Similarly, Internet connectivity comes with risks. An oven doesn't need to be connected to the Internet.
+
 > I have an oven with a WiFi facility. That, too, is a solution looking for a problem. Apparenlty I can leave my cold, raw food in it all day going quietly rancid, and use my phone to switch it in when I am on my way home, thus poisonimng all who eat the (now cooked) food.
+
+Not only is it risky to let your devices accept connections from anyone on the open Internet, it is utterly unnessessary.
 
 > Perhaps I should thaw the pizza I my WiFi enabled tumble dryer, another solution looking for a problem, and then use the robot vacuum cleaner to transport it to the oven.
