@@ -1,6 +1,6 @@
 # [Wikipedians discuss simple summaries](https://en.m.wikipedia.org/wiki/Wikipedia:Village_pump_(technical)/Archive_221#h-Simple_summaries:_editor_survey_and_2-week_mobile_study-20250602182000)
 
-The Google news feed on my Android phone recommended a news story telling me that there's been an anti-AI protest at Wikipedia. I went to check out the heated discussion that ensued and came back with answers to six questions about AI and Wikipedia.
+The Google news feed on my Android phone recommended a news story telling me that there's been an anti-AI protest at Wikipedia. I went to check out the heated discussion that ensued and came back with answers to seven questions about AI and Wikipedia.
 
 1. TOC
 {:toc}
