@@ -15,7 +15,7 @@ The WMF majorly overstepped the boundary that should exist between the foundatio
 
 > The foundation cannot dictate content.
 
-Putting AI-generated content into Wikipedia means handing control over Wikipedia's content to the company that maintains the AI models (and presumably patches thiose models in ways that are beneficial to them). The WMF's idea to make generated content more prominent than written content adds insult to injury.
+Putting AI-generated content into Wikipedia means handing control over Wikipedia's content to the company that maintains the AI models (and presumably patches those models in ways that are beneficial to them). The WMF's idea to make generated content more prominent than written content adds insult to injury.
 
 > They are proposing giving the most important screen real estate we have (the WP:LEAD) of every article to a for-profit company.
 
@@ -27,7 +27,7 @@ By pushing AI into Wikipedia, the WMF seems to want to accelerate Wikipedia's de
 
 > Many readers would just glance at the summary instead of reading the article. Since the summary will form the glancers' entire impression of the subject, it needs to be extremely accurate. I suspect it is often not.
 
-Not only is the WMF trying to push AI slop into Wikipedia and feature it more prominently than anything else in any article, they are also not going through the channels established by the community for proposing changes. They created a survey outside of Wikipedia and asked Wikipedia's guests, not its authors, what they thought about the feature.
+Not only is the WMF trying to push AI slop into Wikipedia and feature it more prominently than anything else in any article, but they are also not going through the channels established by the community for proposing changes. They created a survey outside of Wikipedia and asked Wikipedia's guests, not its authors, what they thought about the feature.
 
 > Since the WMF is willing to be this sneaky, I don't think we should feel guilty if we fill in the survey a couple hundred times.
 
@@ -43,7 +43,7 @@ Wikipedia is about crowd-sourced knowledge, with a legion of volunteers intent o
 
 > The current climate gives Wikipedia a unique opportunity to be the answer to the AI-ification of everything. Why are we throwing that away?
 
-The crowd-sourcing nature of Wikipedia and the painstaking discussions that take place there ensure that everything in the articles is reliable and has a neutral point of view (NPOV), something AI does not do.
+The crowdsourcing nature of Wikipedia and the painstaking discussions that take place there ensure that everything in the articles is reliable and has a neutral point of view (NPOV), something AI does not do.
 
 > Yes, human editors can introduce reliabilty and NPOV issues. But as a collective mass, it evens out into a beautiful corpus. With Simple Article Summaries, you propose giving one singular editor with known reliabilty and NPOV issues a platform at the very top of any given article.
 
@@ -99,7 +99,7 @@ It should be, but it serves the interests of too many people to die without firs
 
 > Did a lot of work even go into this? It takes all of 5 minutes to set up the world's 327482th ChatGPT wrapper claiming to be a brand new feature. It feels slapdash and easy for them to throw up and it's such an insult to the community.
 
-The current AI craze is just another way to elevate lazy engineers into positions of power just because they traded their integrity for giving into a trend. Wikipedians do not want this for their beloved encyclopedia.
+The current AI craze is just another way to elevate lazy engineers into positions of power, just because they traded their integrity for giving in to a trend. Wikipedians do not want this for their beloved encyclopedia.
 
 > This would do immediate and irreversible harm to our readers and to our reputation as a decently trustworthy and serious source.
 
@@ -111,11 +111,11 @@ Meanwhile, no user wants AI in the products they find useful without it.
 
 > Haven’t we been getting good press for being a more reliable alternative to AI summaries in search engines? If they’re getting the wrong answers, let’s not copy their homework.
 
-Those who want to read AI-generated crap can find it in AI products. Integrating those into non-AI products does not help the consumer who benefitted from those non-AI products.
+Those who want to read AI-generated crap can find it in AI products. Integrating those into non-AI products does not help the consumer who benefited from those non-AI products.
 
 > AI consumers knowingly interact with is trained on Wikipedia, so they don't need wikipedia.org for that. So the WMF is proposing making a shittier version of something that already exists.
 
-Internet communities are not subject to game theory. They are not competing for the users' dollars. At least, Wikipedia isn't. It doesn't need to give into passing fads like AI overviews just because others do. Wikipedia and other Internet communities don't need to fear mutually assured destruction.
+Internet communities are not subject to game theory. They are not competing for the users' dollars. At least, Wikipedia isn't. It doesn't need to give in to passing fads like AI overviews just because others do. Wikipedia and other Internet communities don't need to fear mutually assured destruction.
 
 > It is not like a nuke, we don't need to have it just because others do.
 
@@ -133,7 +133,7 @@ Maybe AI really will destroy humanity by replacing all our written word with its
 
 ## Are LLMs capable of assisting, researching, or reasoning?
 
-No, despite the claims of their marketers. LLMs are sold to us as "assistants" or "researchers" capable of "reasoning." In reality, they are pattern-completion algorithms. They see words in your prompt and choose words that would likely go with them based on the paragraphs they've been trained on. Because of this, they generate syntactically correct sentences. The problem is that syntax is not semantics, and syntactically correct sentences can also be nonsense. Out of many ways to arrange words together in a syntactically correct manner, there are only few ways to come up with a sentence that actually makes sense. An AI will stumble into those occasionally, but most sentences it generates will inevitably be nonsensical.
+No, despite the claims of their marketers. LLMs are sold to us as "assistants" or "researchers" capable of "reasoning." In reality, they are pattern-completion algorithms. They see words in your prompt and choose words that would likely go with them based on the paragraphs they've been trained on. Because of this, they generate syntactically correct sentences. The problem is that syntax is not semantics, and syntactically correct sentences can also be nonsense. Out of many ways to arrange words together in a syntactically correct manner, there are only a few ways to come up with a sentence that actually makes sense. An AI will stumble into those occasionally, but most sentences it generates will inevitably be nonsensical.
 
 > LLMs are incapable of producing anything but inaccurate slop. "Hallucination" is just a fancy word to hide the fact their technology is garbage.
 
