@@ -3,6 +3,7 @@
 When you read, do you ever clip out quotes you like and write comments alongside them? What do you do with them afterwards? I decided to just publish mine on this blog.
 
 * [Feynman Lectures on Computation: 1. Introduction to Computers](2025/09/23/Feynman_Lectures_on_Computation_01.md)
+* [Wikipedians discuss simple summaries](2025/09/25/wikipedians-discuss-simple-summaries.md)
 
 I also scribble notes as I watch or listen to things.
 
