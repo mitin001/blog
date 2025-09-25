@@ -8,7 +8,7 @@ I also scribble notes as I watch or listen to things.
 
 * [Pivot](series/pivot.md)
 * [Rachel Maddow](series/maddow.md)
-* [Real Time with Bill Maher](series/real-ime.md)
+* [Real Time with Bill Maher](series/real-time.md)
 * [Darknet Diaries](series/darknetdiaries.md)
 * [TED. Donald Hoffman: Do we see reality as it is?](2025/09/22/ted_donald_hoffman_do_we_see_reality_as_it_is.md)
 
