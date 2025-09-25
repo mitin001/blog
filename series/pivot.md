@@ -8,4 +8,8 @@ Long ago, I saw a viral video of a [comedienne] storming out of an interview. Th
 [Pivot]: https://podcastindex.org/podcast/174725
 
 * [Pivot: 8/12/2025. David Remnick](../2025/09/23/pivot-2025-08-12.md)
+* [Pivot: 8/19/2025. Abby Phillip](../2025/09/24/pivot-2025-08-19.md)
+* [Pivot: 9/9/2025](../2025/09/24/pivot-2025-09-09.md)
+* [Pivot: 9/12/2025](../2025/09/23/pivot-2025-09-12.md)
 * [Pivot: 9/16/2025](../2025/09/23/pivot-2025-09-16.md)
+* [Pivot: 9/23/2025](../2025/09/25/pivot-2025-09-23.md)
