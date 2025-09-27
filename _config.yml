@@ -1,2 +1,11 @@
+markdown: GFM
+
 kramdown:
-  toc_levels: 2..6
+  input: GFM
+
+plugins:
+  - jekyll-toc
+
+toc:
+  min_level: 2
+  max_level: 6
