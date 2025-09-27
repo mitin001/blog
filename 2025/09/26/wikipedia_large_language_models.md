@@ -2,6 +2,11 @@
 
 After reading through an [explosive discussion] among the Wikipedians protesting the use of AI, I dug deeper into the project and found an essay on the matter. It answered three more questions I had about LLMs.
 
+1. TOC
+{:toc}
+
+[explosive discussion]: ../../../2025/09/25/wikipedians-discuss-simple-summaries.md
+
 ## If an LLM is an averaging machine, how can it output ideas never before seen anywhere?
 
 An LLM returns the average of all text it's been trained on, with filters. (The filters ensure only the text relevant to the query is considered.) Averaged text can consist of brand-new sentences. The phrases "original research" and "algorithmic bias" may exist in the same article (e.g., an essay by a Wikipedian), but an LLM can be prompted in such a way that it would create a brand-new phrase like "original bias" or "algorithmic research" in the context where these phrases have never been used before. Not every combination of words has been published before. Because AI is in the business of combining words together, it can occasionally stumble into a brand-new sentence. However, even though the words in such a "sentence" seem to occur together a lot does not mean they actually state a fact.
