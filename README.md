@@ -4,6 +4,8 @@ When you read, do you ever clip out quotes you like and write comments alongside
 
 * [Feynman Lectures on Computation: 1. Introduction to Computers](2025/09/23/Feynman_Lectures_on_Computation_01.md)
 * [Wikipedians discuss simple summaries](2025/09/25/wikipedians-discuss-simple-summaries.md)
+* [My new hobby: watching AI slowly drive Microsoft employees insane](2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md)
+* [Large language models](2025/09/26/wikipedia_large_language_models.md)
 
 I also scribble notes as I watch or listen to things.
 
