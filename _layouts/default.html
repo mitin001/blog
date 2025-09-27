@@ -14,7 +14,7 @@
       <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
       {% endif %}
 
-      {% include toc.html html=content %}
+      {% include toc.html html=content h_min=2 ordered=true %}
       {{ content }}
 
       {% if site.github.private != true and site.github.license %}
