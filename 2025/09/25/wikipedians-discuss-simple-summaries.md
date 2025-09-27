@@ -2,8 +2,6 @@
 
 The Google news feed on my Android phone recommended a news story telling me that there's been an anti-AI protest at Wikipedia. I went to check out the heated discussion that ensued and came back with answers to seven questions about AI and Wikipedia.
 
-{% toc %}
-
 ## How do Wikipedians feel about the Wikimedia Foundation?
 
 The Wikimedia Foundation is the non-profit company that hosts Wikipedia, and Wikipedians have major reservations about trusting this company. The WMF's push to cram AI into Wikipedia shows it misunderstands the community and the project's mission. Loud disagreements broke out between the community and WMF over the foundation's AI push.
