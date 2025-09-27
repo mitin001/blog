@@ -2,7 +2,6 @@
 
 The Google news feed on my Android phone recommended a news story telling me that there's been an anti-AI protest at Wikipedia. I went to check out the heated discussion that ensued and came back with answers to seven questions about AI and Wikipedia.
 
-1. TOC
 {::toc}
 
 ## How do Wikipedians feel about the Wikimedia Foundation?
