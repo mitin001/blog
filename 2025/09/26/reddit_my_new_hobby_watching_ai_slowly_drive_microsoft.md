@@ -2,9 +2,6 @@
 
 While reading the [discussion] thread reacting to an announcement that AI might be rearing its ugly head on Wikipedia, I clicked on a link in one of the responses, and it brought me to this delightful discussion on Reddit. Wikipedians are dead set against AI, and the same sentiment echoes through the software engineering community on Reddit.
 
-1. TOC
-{:toc}
-
 [discussion]: ../../../2025/09/25/wikipedians-discuss-simple-summaries.md
 
 ## What is the main use of AI?

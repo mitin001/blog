@@ -2,9 +2,6 @@
 
 After reading through an [explosive discussion] among the Wikipedians protesting the use of AI, I dug deeper into the project and found an essay on the matter. It answered three more questions I had about LLMs.
 
-1. TOC
-{:toc}
-
 [explosive discussion]: ../../../2025/09/25/wikipedians-discuss-simple-summaries.md
 
 ## If an LLM is an averaging machine, how can it output ideas never before seen anywhere?

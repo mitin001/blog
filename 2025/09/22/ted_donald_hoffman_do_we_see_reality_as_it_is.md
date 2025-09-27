@@ -2,9 +2,6 @@
 
 YouTube recommended this TED talk to me. While watching it, I realized it answered several questions I didn't even know I had.
 
-1. TOC
-{:toc}
-
 ## How can one see the world as another person? How can one experience consciousness exactly the way another person experiences consciousness?
 
 Perhaps if you could connect your nervous tissue to a machine that could replicate every signal that travels through the nervous tissue of another person into your nervous tissue. It's long been known (since at least 1868) that an irritation of the nervous tissue produces the experience of consciousness, as documented by the kinds of questions the likes of Thomas Huxley were asking at the time.

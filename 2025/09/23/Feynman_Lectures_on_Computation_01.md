@@ -2,9 +2,6 @@
 
 I have been a fan of Richard Feynman since college physics. Even though I went to college for computer science, I only just recently discovered that Feynman has written a book on computers. The first chapter finally explained to me how computers, made largely of logic gates, can perform mathematical operations, which operate on numbers, not just the two logical primitives (true and false, or 1 and 0).
 
-1. TOC
-{:toc}
-
 ## How do computers add numbers?
 
 They perform addition in terms of xor and carry operations on bits.
