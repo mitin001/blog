@@ -9,5 +9,3 @@ plugins:
 toc:
   min_level: 2
   max_level: 6
-
-toc: true
