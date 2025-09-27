@@ -2,3 +2,5 @@ markdown: GFM
 
 kramdown:
   input: GFM
+
+theme: minima
