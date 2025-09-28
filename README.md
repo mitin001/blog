@@ -8,6 +8,7 @@ When you read, do you ever clip out quotes you like and write comments alongside
 I also scribble notes as I watch or listen to things.
 
 * [Pivot](series/pivot.md)
+* [On with Kara Swisher](series/on-with-kara-swisher.md)
 * [Rachel Maddow](series/maddow.md)
 * [Real Time with Bill Maher](series/real-time.md)
 * [Darknet Diaries](series/darknetdiaries.md)
