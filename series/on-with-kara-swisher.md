@@ -4,4 +4,4 @@ I am a fan of [Pivot], Kara Swisher's other podcast, which regularly promotes th
 
 [Pivot]: pivot.md
 
-* [On with Kara Swisher: 7/21/2025. Adam Aleksic](2025/09/27/on-with-kara-swisher-2025-07-21-adam-aleksic.md)
+* [On with Kara Swisher: 7/21/2025. Adam Aleksic](../2025/09/27/on-with-kara-swisher-2025-07-21-adam-aleksic.md)

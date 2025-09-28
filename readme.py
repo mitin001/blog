@@ -22,8 +22,12 @@ elif '/darknetdiaries-' in md_filename:
 elif '/on-with-kara-swisher-' in md_filename:
     readme_filename = 'series/on-with-kara-swisher.md'
 
+prefix = ''
+if '/' in readme_filename:
+    prefix = '../'
+
 with open(readme_filename, 'a') as readme_file:
     # only add the link to the md file if the readme file doesn't already contain it
     if md_filename not in open(readme_filename, 'r').read():
         with open(md_filename, 'r', encoding='utf-8') as md_file:
-            readme_file.write(f"* [{md_to_txt(md_file.read())}]({md_filename})\n")
+            readme_file.write(f"* [{md_to_txt(md_file.read())}]({prefix}{md_filename})\n")
