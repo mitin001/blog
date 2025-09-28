@@ -8,7 +8,19 @@ def md_to_txt(md_str):
     return soup.get_text().split('\n')[0]
 
 md_filename = argv[1]
-readme_filename = argv[2]
+readme_filename = 'readme.md'
+if '/nnf-' in md_filename:
+    readme_filename = 'series/nnf.md'
+elif '/pivot-' in md_filename:
+    readme_filename = 'series/pivot.md'
+elif '/maddow-' in md_filename:
+    readme_filename = 'series/maddow.md'
+elif '/real-time-' in md_filename:
+    readme_filename = 'series/real-time.md'
+elif '/darknetdiaries-' in md_filename:
+    readme_filename = 'series/darknetdiaries.md'
+elif '/on-with-kara-swisher-' in md_filename:
+    readme_filename = 'series/on-with-kara-swisher.md'
 
 with open(readme_filename, 'a') as readme_file:
     # only add the link to the md file if the readme file doesn't already contain it
