@@ -1,5 +1,10 @@
 # [When to Rob a Bank]. 01-11. Would Paying Politicians More Attract Better Politicians?
 
+This section of the last [Freakonomics] volume answered two questions I had about politicians.
+
+[Freakonomics]: ../../../series/freakonomics.md
+[When to Rob a Bank]: https://www.google.com/books/edition/When_to_Rob_a_Bank/2lidBAAAQBAJ
+
 ## How to make politicians keep their campaign promises?
 
 Tie their pay to their promises, and they will start delivering on them. Misaligned incentives are the reason why politicians don't serve the people who elected them.
