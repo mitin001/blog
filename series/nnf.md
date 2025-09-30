@@ -4,3 +4,7 @@ A Russian television series full of fragments of other films and cool background
 
 * [Необъяснимо, но факт: 1. В объятиях смерти](../2025/09/27/nnf-001.md)
 * [Необъяснимо, но факт: 2. Кыштымский пришелец](../2025/09/25/nnf-002.md)
+
+*Необъяснимо, но факт* uses footage from the following films:
+
+* [Seven](../2025/09/29/nnf-se7en.md)
