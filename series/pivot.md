@@ -13,3 +13,4 @@ Long ago, I saw a viral video of a [comedienne] storming out of an interview. Th
 * [Pivot: 9/12/2025](../2025/09/23/pivot-2025-09-12.md)
 * [Pivot: 9/16/2025](../2025/09/23/pivot-2025-09-16.md)
 * [Pivot: 9/23/2025](../2025/09/25/pivot-2025-09-23.md)
+* [Pivot: 9/26/2025](../2025/09/27/pivot-2025-09-26.md)

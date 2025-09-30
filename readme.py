@@ -21,6 +21,10 @@ elif '/darknetdiaries-' in md_filename:
     readme_filename = 'series/darknetdiaries.md'
 elif '/on-with-kara-swisher-' in md_filename:
     readme_filename = 'series/on-with-kara-swisher.md'
+elif '/freakonomics-' in md_filename:
+    readme_filename = 'series/freakonomics.md'
+elif '/planet-money-' in md_filename:
+    readme_filename = 'series/planet-money.md'
 
 prefix = ''
 if '/' in readme_filename:
