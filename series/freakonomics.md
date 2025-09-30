@@ -1,6 +1,6 @@
 # Freakonomics
 
-I learned about the *Freakonomics* series from *Orange Is the New Black*, in which Big Boo referenced the book in explaining to Tiffany Doggett how the legalization of abortion had lowered the crime rate in America.
+I learned about the *Freakonomics* series from *Orange Is the New Black*, in which Big Boo referenced the first book in explaining to Tiffany Doggett how the legalization of abortion had lowered the crime rate in America.
 
 *[When to Rob a Bank] (2015)*:
 
