@@ -21,3 +21,4 @@ I also scribble notes as I watch or listen to things.
 Most of my writing is inspired by other people's writing (or speech). Most, but not all. There's much inspiration in work and hobbies, too.
 
 * [Guide: turn off community notifications on Reddit](2025/09/23/guide-turn-off-community-notifications-on-reddit.md)
+* [Finding matching frames across videos with Milvus](2025/10/04/finding-matching-frames-milvus.md)
