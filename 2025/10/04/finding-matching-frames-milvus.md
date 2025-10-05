@@ -62,15 +62,15 @@ For example, when we see the above line, we know we're 43/1041 through the loadi
 
 Then, we can drag the frame above into http://localhost:8001/ and see if there's a match:
 
-<img width="3108" height="1858" alt="image" src="https://github.com/user-attachments/assets/b1d4a23c-6c84-4ac3-ae8c-3effc35ab3c9" />
+<img width="3108" height="1858" alt="image" src="https://github.com/user-attachments/assets/b1d4a23c-6c84-4ac3-ae8c-3effc35ab3c9" style="max-width: 100%;height: auto;max-height: 1858px;" />
 
 It seems there is no match. But wait, we didn't specify the table. These are the images I've been loading with http://127.0.0.1:5000/img/load without specifying the table. The img-search-webclient doesn't let us specify the table conveniently, so we have to improvise. If we ask the browser to append `?table_name=nnf003` to every query to http://127.0.0.1:5000/img/search, that is use the table that contains the keyframes from the suspected origin film, we see that the frame of interest indeed matches a frame in the film whose keyframes just loaded into the Milvus table called nnf003:
 
-<img width="3096" height="1858" alt="image" src="https://github.com/user-attachments/assets/38665a31-55b0-48f3-9c9d-9ea06192e20c" />
+<img width="3096" height="1858" alt="image" src="https://github.com/user-attachments/assets/38665a31-55b0-48f3-9c9d-9ea06192e20c" style="max-width: 100%;height: auto;max-height: 1858px;" />
 
 One way to do so is through a browser extension called [Request Header/Query Param Override MV3](https://chromewebstore.google.com/detail/request-headerquery-param/cfgjehpalgepkcfekgjgmklehchiidgi). The query parameter `table_name` on the search endpoint is documented in http://localhost:5000/docs#/default/search_images_img_search_post. I actually loaded the keyframes without specifying the table above, but since there were already over 90k images in the root table, the performance was that much degraded, and so it didn't find the match, even though the matching image was loaded. So, keep your tables small if you want high accuracy. When Milvus isn't overwhelmed, its performance is magical.
 
-<img width="3134" height="723" alt="image" src="https://github.com/user-attachments/assets/aa509c43-443e-4269-92ca-cdcf7137a449" />
+<img width="3134" height="723" alt="image" src="https://github.com/user-attachments/assets/aa509c43-443e-4269-92ca-cdcf7137a449" style="max-width: 100%;height: auto;max-height: 723px;" />
 
 If you copy the image address, you will know exactly which frame was the match, e.g.:
 
