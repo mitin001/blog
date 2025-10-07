@@ -126,6 +126,10 @@ Typically, this requires a lot of tweaking if the prompt and/or response, amount
 
 Just don't become a bot.
 
+## Is it okay to plagiarize from a chatbot?
+
+No, even if you could argue that this is a victimless crime (since a chatbot cannot be hurt by you stealing from it), the actual victim of such an act of plagiarism is you, and it's perpetrated by the chatbot, against _you_. You got seduced by the chatbot into discarding your own thoughts and replacing them with its output. 
+
 ## Is it too draconian of a policy to ban anyone posts LLM-generated output on the spot? 
 
 No. It takes virtually no time to bury a discussion board in AI slop, so users who take a step toward this (by posting even a single LLM-generated wall of text) should be stopped before they do too much damage. An LLM is an instant spam generator. Any discussion should do all it can to protect itself from spammers.
@@ -179,7 +183,3 @@ Another possibility is a complete exclusion of humans from the Internet as it ge
 It's the enemy of the good. It's endlessly deliberating what the perfect solution might look like and, in the process, passing by the good solutions. The long discussion over the perfect policy proscribing AI use in discussions on Wikipedia was an exercise in perfectionism until one of the Wikipedians called it out for what it was and explained that a good but imperfect policy was a significant improvement over what they had and that it would be no problem to improve it further once it was implemented.
 
 > It's a step in the right direction. If it were implemented this way and some uncommon issue arose with that implementation, then we'd tweak it to address that micro-problem. We must not continue to avoid addressing the macro-problem just because someone can imagine edge cases that might not work out ideally.
-
-## Is it okay to plagiarize from a chatbot?
-
-No, even if you could argue that this is a victimless crime (since a chatbot cannot be hurt by you stealing from it), the actual victim of such an act of plagiarism is you, and it's perpetrated by the chatbot, against _you_. You got seduced by the chatbot into discarding your own thoughts and replacing them with its output. 
