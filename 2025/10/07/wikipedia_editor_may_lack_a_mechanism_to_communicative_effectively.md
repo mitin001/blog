@@ -10,7 +10,7 @@ LLMs have significant problems with plagiarism, misattribution of sources, incor
 
 ## What to say to someone turning in chatbot-generated text for work?
 
-Something along the lines of, "If you have a cognitive disability, trying to overcome it with AI is not a good strategy. AI is not an effective communicator. AI-generated text is disruptive in discussions." This is how a Wikipedian reacts to a user who have chosen to filter all of his communication with the community through an LLM chatbot.
+Something along the lines of, "You seem to be outsourcing your cognitive function to AI. If you have a cognitive disability, trying to overcome it with AI is not a good strategy. AI is not an effective communicator. AI-generated text is disruptive in discussions." This is how a Wikipedian reacts to a user who have chosen to filter all of his communication with the community through an LLM chatbot.
 
 > If they are unable to communicate using unaided cognition, and the technical adjunct they're using to assist them is also ineffective at communicating in a way in which our OI editors can interact, their contributions are having the effect of being disruptive.
 
