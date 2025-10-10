@@ -20,7 +20,7 @@ The higher the numbers of comments, likes, followers, and days active, the highe
 
 Any time an account posts an obvious tell from ChatGPT, it should be deactivated on the spot. It takes no time for an LLM-using bot to overrun Twitter and bury it in its grey goo of slop, so the reaction must be just as swift.
 
-<img src="https://live-production.wcms.abc-cdn.net.au/1d3a50f935b68fde277f17f46233bf33?src">
+![17601158153318616736384509918828](https://github.com/user-attachments/assets/c4e853c4-84d4-4f2c-a312-ddc8c5f93311)
 
 If a legitimate user posts an obvious ChatGPT tell, they should be able to get their account back after going through an appeals process that a bot wouldn't be able to go through.
 
