@@ -8,6 +8,8 @@ Due to regression toward the mean, a fundamental feature arising from the statis
 
 > LLMs (and artificial neural networks in general) use statistical algorithms to guess (infer) what should come next based on a large corpus of training material. It thus tends to regress to the mean; that is, the result tends toward the most statistically likely result that applies to the widest variety of cases. It can simultaneously be a strength and a "tell" for detecting AI-generated content. For example, LLMs are usually trained on data from the internet in which famous people are generally described with positive, important-sounding language. It will thus sand down specific, unusual, nuanced facts (which are statistically rare) and replace them with more generic, positive descriptions (which are statistically common). Thus the specific detail "invented a train-coupling device" might become "a revolutionary titan of industry." LLMs tend to smooth out unusual details and drift toward the most common, statistically probable way of describing a topic.
 
+The paradox is that when the words become more nondescript as to apply to a wider array of related topics, they become less neutral. This is similar to when a realtor has nothing good to say about a house she's selling, she stops describing it as granite or something else specific and instead opts for "wonderful," "great neighborhood," and exclamation points.
+
 > The subject becomes simultaneously less specific and more exaggerated.
 
 ## How to tell LLM-generated text from human-written text?
