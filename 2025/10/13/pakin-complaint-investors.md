@@ -11,3 +11,9 @@ The same reason people believe psychics or anyone who makes things up confidentl
 Pakin received comments from his users bewildered by the fact that his madlibs program produced something that others thought were true statements.
 
 > I have spent several hours today sending personalized complaints to all my friends. It's amazing how accurate they are! I posted a complaint about Bill Gates on alt.fan.bill-gates and I have received several thoughtful responses. One lady thought I was right on.
+
+A [different article](https://web.archive.org/web/20071016124831/http://pakin.org/complaint-info/cyburbia.html) notes two of the same human vulnerabilities that have made the automated complaint-letter generator a success: our blindness to what random chance gets wrong and our tendency to inject meaning into something that baffles us with nonsense.
+
+> People using his letters tend to pick up on the true statements that fit their situation and ignore the inaccuracies or the fact that the letters frequently use big words but don't really say anything.
+
+The people of the 1990s were describing something that will dominate our economy and the Internet 30 years later: large language models.
