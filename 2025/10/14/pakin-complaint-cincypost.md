@@ -4,7 +4,7 @@ This article was referenced by the [Wikipedia article about the automatic compla
 
 ## What is the automated complaint-letter generator?
 
-A website written in the 1990s that roasts on request.
+A [website](https://www.pakin.org/complaint) written in the 1990s that roasts on request.
 
 > Fires off whole paragraphs of invective to anyone you wish.
 
