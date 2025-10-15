@@ -2,7 +2,7 @@
 
 While reading the section on aptonyms in the last [Freakonomics] volume, I learned of the case of Limberhand, a man accused of public masturbation. The freakonomists remarked that by having invited such an accusation, this man has lived up to his name. The case itself answered four questions about the criminalization of homosexuality and the justice system.
 
-[Freakonomics]: ../../../series/freakonomics.md
+[Freakonomics]: ../../../2025/10/07/freakonomics-2015-when-to-rob-a-bank.md
 
 ## How do people get out of drug possession charges? 
 
