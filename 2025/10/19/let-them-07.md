@@ -10,7 +10,7 @@ It depends on how mature the adult is. Some throw the same kinds of temper tantr
 
 By observing a frustrated adult, you can assess their maturity level. If they act like children, they've not matured at all. If their behavior is different from a child's but just as coercive, then their development went in the wrong direction.
 
-Fig
+![17609306668751033801071138811274](https://github.com/user-attachments/assets/72e8b256-925a-47d1-b791-7e44a4694c65)
 
 Know that most people are like that, so frustrating situations are best to be avoided.
 
