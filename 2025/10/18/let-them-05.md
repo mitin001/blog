@@ -19,3 +19,9 @@ The only person you can count on is you. When other people disappoint you, get i
 Saying Let Them is a way for you to get in touch with your inner self. When you start to feel disappointed by another person, the unpleasantness you feel is your inner self making your sick in a desperate attempt to get your attention. This is because your inner self needs to steer you into a different direction at this moment, away from the disappointing person and toward something that will make you happy.
 
 > Your soul has been nudging you all along in the direction that is meant for you. Every time you say Let Them, you clear all of the noise and distraction on the surface and create space for something deeper: your voice, your intuition, your truth, and your unique path in life. It’s always been there. It’s just been buried beneath all this fear. As you use the Let Them Theory to free yourself of the burden of other people’s opinions, you’ll begin moving through life with your values, your needs, and your goals as your road map. Instead of anticipating what other people might think, you’ll navigate your life in a way that makes you proud of yourself.
+
+## Is following someone else's formula cheating? 
+
+No, formulas exist to people to follow. You're not cheating the world out of what would've been your unique contribution to it had you not used the formula. Even when you use a formula, you make your contribution your own. Your uniqueness comes through in your work whether or not you use a formula. Using a formula simply makes it more likely to succeed.
+
+> Let Them think you copied them. Because you did. And they copied the formula from someone else. Because they did. Formulas exist because they work time and time again. You will make it unique because you will be putting yourself into the formula. Do not reinvent the wheel. Follow the formula and use it to your advantage.
