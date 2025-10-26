@@ -1,6 +1,6 @@
 # 15. Unlock The Power of Your Influence
 
-This chapter of the book [Let Them](../../../2025/10/14/let-them.md) answered a question about motivation.
+This chapter of the book [Let Them](../../../2025/10/14/let-them.md) answered a question about motivation and showed me that I can answer a question about comforting a grieving person.
 
 ## How to motivate people?
 
@@ -59,3 +59,7 @@ Motivational interviewing ends the moment you start offering your feelings becau
 To get yourself to stop pressuring other people or sharing how you feel about their inability to act quickly enough, be honest with yourself. Understand why you so desperately want this person to change their behavior.
 
 > This is about you getting to the root cause of your frustration, and it will always have to do with their behavior making you feel a loss of control. Allow yourself to be honest. When you see that it’s been about YOU all along, and your need to control, it is easier to drop the pressure and Let Them be.
+
+## Why is it a bad idea to say to a grieving person that you know how it feels?
+
+You will be met with indignance. Don't try to justify that you know how it feels by recounting a painful experience from your life. It'll be meet with, "How dare you?" It'll make you relive your own painful experiences, and you will be stumped on by a person who, at this moment, doesn't know any better. Just let them be.  "It looks as if I'm just making it worse when I speak, so I'll just sit quietly with you." The excessiveness of the indignance that will come your way is exactly why everyone will tell you not to ever compare anyone's grief to your own to the grieving person.
