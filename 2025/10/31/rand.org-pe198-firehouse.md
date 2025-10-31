@@ -10,7 +10,7 @@ If one is employed as a Russian propaganda troll, at least 27,000 characters acr
 
 ## What determines when someone will seek information on Reddit vs. an expert? 
 
-Information volume.
+How much information is readily available on the subject at hand. Experts are sought when information is scarce, and Reddit is there to help parse through the information when it's abundant.
 
 > When information volume is low, recipients tend to favor experts, but when information volume is high, recipients tend to favor information from other users.
 
