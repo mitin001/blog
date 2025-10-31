@@ -28,7 +28,7 @@ The Russian propagandists are rapid because they have to be. This is what gives 
 
 > Russian propaganda has the agility to be first, which affords propagandists the opportunity to create the first impression. Then, the combination of high-volume, multichannel, and continuous messaging makes Russian themes more likely to be familiar to their audiences, which gives them a boost in terms of perceived credibility, expertise, and trustworthiness.
 
-Not only do people better remember their first impression about an event, but they also give it priority when confronted with more information about it. We are susceptible to confirmation bias. If the new information doesn't confirm what we've already learned from the propaganda, we discard it. This is how people end up in information bubbles where their understanding of the world is exactly opposite of the truth.
+Not only do people better remember their first impression of an event, but they also give it priority when confronted with more information about it. We are susceptible to confirmation bias. If the new information doesn't confirm what we've already learned from the propaganda, we discard it. This is how people end up in information bubbles where their understanding of the world is exactly opposite of the truth.
 
 > First impressions are very resilient: An individual is more likely to accept the first information received on a topic and then favor this information when faced with conflicting messages. Furthermore, repetition leads to familiarity, and familiarity leads to acceptance.
 
