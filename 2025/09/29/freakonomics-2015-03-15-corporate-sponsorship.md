@@ -1,8 +1,7 @@
 # [When to Rob a Bank]. 03-15. If Only God Had Had Corporate Sponsorship...
 
-This section of the last [Freakonomics] volume answered a question about brand management.
+This section of the last [Freakonomics](../../../2025/10/07/freakonomics-2015-when-to-rob-a-bank.md) volume answered a question about brand management.
 
-[Freakonomics]: ../../../series/freakonomics.md
 [When to Rob a Bank]: https://www.google.com/books/edition/When_to_Rob_a_Bank/2lidBAAAQBAJ
 
 ## How do marketing departments create surplus value for their employer?
