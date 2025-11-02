@@ -1,8 +1,6 @@
 # [On with Kara Swisher](https://podcastindex.org/podcast/5665900): [7/21/2025. Adam Aleksic](https://writecomments.com/transcripts/?md5=534ad543b81a6db9100a65ffa45f0cfc)
 
-This episode of [On with Kara Swisher] answered three questions about language in the information age.
-
-[On with Kara Swisher]: ../../../series/on-with-kara-swisher.md
+This episode of [On with Kara Swisher](../../../2025/11/02/on-with-kara-swisher.md) answered three questions about language in the information age.
 
 ## What is language?
 
