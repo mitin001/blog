@@ -1,8 +1,7 @@
 # [When to Rob a Bank]. 02-06. Announcing the Winners of Our Aptonym Contest
 
-This section of the last [Freakonomics] volume answered a question I didn't even know I had.
+This section of the last [Freakonomics](../../../2025/10/07/freakonomics-2015-when-to-rob-a-bank.md) volume defined _aptonym_.
 
-[Freakonomics]: ../../../series/freakonomics.md
 [When to Rob a Bank]: https://www.google.com/books/edition/When_to_Rob_a_Bank/2lidBAAAQBAJ
 
 ## What is an aptonym?
