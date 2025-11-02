@@ -1,8 +1,7 @@
 # [When to Rob a Bank]. 06-08. Is Cheating Good for Sports?
 
-This section of the last [Freakonomics] volume answered a question about doping but also got me thinking and made me realize I could answer a question about porn addiction.
+This section of the last [Freakonomics](../../../2025/10/07/freakonomics-2015-when-to-rob-a-bank.md) volume answered a question about doping but also got me thinking and made me realize I could answer a question about porn addiction.
 
-[Freakonomics]: ../../../series/freakonomics.md
 [When to Rob a Bank]: https://www.google.com/books/edition/When_to_Rob_a_Bank/2lidBAAAQBAJ
 
 ## Should doping be allowed in sports? 
