@@ -1,8 +1,6 @@
 # [On with Kara Swisher](https://podcastindex.org/podcast/5665900): [8/28/2025. Joy Reid](https://writecomments.com/transcripts/?md5=d6f673dae399c9fb8e65721a407ac122)
 
-This episode of [On with Kara Swisher] answered a question about leadership.
-
-[On with Kara Swisher]: ../../../series/on-with-kara-swisher.md
+This episode of [On with Kara Swisher](../../../2025/11/02/on-with-kara-swisher.md) answered a question about leadership.
 
 ## What is leadership? 
 
