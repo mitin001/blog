@@ -1,6 +1,6 @@
 # [TED. Donald Hoffman: Do we see reality as it is?](https://www.ted.com/talks/donald_hoffman_do_we_see_reality_as_it_is/transcript)
 
-YouTube recommended this TED talk to me. While watching it, I realized it answered several questions I didn't even know I had.
+This TED talk was recommended to me by [YouTube](../../../2025/10/17/youtube.md). It answered six questions about consciousness, objective reality, and evolution.
 
 ## How can one see the world as another person? How can one experience consciousness exactly the way another person experiences consciousness?
 
@@ -36,17 +36,17 @@ The inaccuracy of their vision almost caused these species to be wiped off the p
 
 > The species almost went extinct. Australia had to change its bottles to save its beetles.
 
-Vision is only as accurate as is necessary to let us survive and reproduce. The longer a species spends in an unchanging environment, the more their vision becomes an abstraction of this environment.
+Vision is only as accurate as is necessary to let us survive and reproduce. The longer a species spends in an unchanging environment, the more its vision becomes an abstraction of this environment.
 
 > Perception of reality goes extinct. In almost every simulation, organisms that see none of reality but are just tuned to fitness drive to extinction all the organisms that perceive reality as it is. So the bottom line is, evolution does not favor veridical, or accurate perceptions.
 
-Just like a desktop metaphor is an abstraction for using a computer without getting bogged down by the details of its inner workings like circuits and instructions, so is human vision is an abstraction that hides the inner workings of reality.
+Just like a desktop metaphor is an abstraction for using a computer without getting bogged down by the details of its inner workings, like circuits and instructions, so is human vision an abstraction that hides the inner workings of reality.
 
 > Evolution has given us an interface that hides reality and guides adaptive behavior. Space and time, as you perceive them right now, are your desktop. Physical objects are simply icons in that desktop.
 
 ## Is it true that the more complex a species is, the more likely it is to go extinct when the environment changes?
 
-Yes, the complexity has arisen out of the species spending a long time in a specific, unchanging environment and adapting to it. The species becomes a tight fit for its environment. When the environment changes, the organisms inhabiting it are no longer a tight fit. Even when a species has successfully adapted to selection pressures in the past, it does not mean it can do so in the future. Quite the contrary: the organism has become more complex, and so it is harder to change. Every selection pressure is different: some lead to adaptation and others lead to extinction. The Australian jewel beetles give us an example of that. They've become reliant on a heuristic to find their mates so when humans introduced garbage into their environment that matched this heuristic better, they started mating with the garbage.
+Yes, the complexity has arisen out of the species spending a long time in a specific, unchanging environment and adapting to it. The species becomes a tight fit for its environment. When the environment changes, the organisms inhabiting it are no longer a tight fit. Even when a species has successfully adapted to selection pressures in the past, it does not mean it can do so in the future. Quite the contrary: the organism has become more complex, and so it is harder to change. Every selection pressure is different: some lead to adaptation and others lead to extinction. The Australian jewel beetles give us an example of that. They've become reliant on a heuristic to find their mates, so when humans introduced garbage into their environment that matched this heuristic better, they started mating with the garbage.
 
 > The males had successfully found females for thousands, perhaps millions of years. It looked like they saw reality as it is, but apparently not. Evolution had given them a hack. A female is anything dimpled, glossy and brown, the bigger the better.
 
