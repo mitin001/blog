@@ -1,8 +1,6 @@
 # [Darknet Diaries. Ep 163: Ola](https://darknetdiaries.com/transcript/163/)
 
-While listening to this episode of [Darknet Diaries], I realized it answered two questions I didn't even know I had.
-
-[Darknet Diaries]: ../../../series/darknetdiaries.md
+This episode of [Darknet Diaries](../../../2025/10/22/darknet-diaries.md) answered two questions about privacy.
 
 ## What is privacy?
 
