@@ -1,0 +1,15 @@
+# [Sarah Jeong joining the New York Times](https://www.vox.com/2018/8/3/17644704/sarah-jeong-new-york-times-tweets-backlash-racism)
+
+This article was referenced by [an article on online trolling](../../../2025/10/26/theguardian-how-to-handle-a-troll.md). It answered a question about the line one can't cross on social media. It also showed me I can answer a question about the value to reviewing one's social media history.
+
+## What is the line you can't cross on social media if you want to keep your job?
+
+It's somewhere between Sarah Jeong and Quinn Norton. Sarah Jeong has come right up to this line but hasn't crossed it, whereas Quinn Norton has, and was promptly fired.
+
+> Norton’s old tweets were an attempt to fit in with a toxic community, and used actually harmful, homophobic, ableist, and racist slurs that could have made others around her uncomfortable — especially given that her defense of her friendship with a neo-Nazi was both recent and ongoing. By contrast, Jeong’s tweets were, at best, mean to some white people, and were written in a context reasonably understood to be a sarcastic response to people who were perpetually harassing her on the basis of her gender and race.
+
+Trolling a troll in self-defense seems to be acceptable, but trolling others as you're working undercover to expose the trolling community is not. Also, if the problematic behavior is in your past, that's more acceptable than if it's in your present.
+
+## When we encounter a person online, should we review their social media history?
+
+Only if you're going to engage with them personally. Not if you're engaging with their work. Never meet your heros. Seeing someone's social media posts and comments is a useful window into their personality, and it can alert you to their psychopathic or narcissistic traits, a clear red flag if you're trying to date this person or otherwise engage with them personally. However, the social media history of someone whose work you want to read or watch is best left unseen. Thoughts are a reflection of your inner world, and if your inner world is rich enough, it will include dark places. Consequently, you will have dark thoughts. Most people keep dark thoughts to themselves, but social media has made it so easy to post your thoughts that sometimes that's where they end up. It's worth it to read the work of everyone, even psychopathic or narcissistic individuals. They could offer insights you couldn't get from empathetic or emotionally mature people. No one knew which dark thoughts intellectuals had pre-social media, and the world is richer with their work still being accessible to us. The reason we erase the work of people if we encounter their problematic thoughts on social media is because it's a PR scandal for their employer. A newspaper will have to fire a journalist if their problematic social media posts are discovered simply because their readers may make a snap, emotional decision to boycott the newspaper over the outrage at their employee's dark thoughts.
