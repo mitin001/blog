@@ -1,6 +1,6 @@
 # [Hacker's Manifesto](https://phrack.org/issues/7/3)
 
-While reading Ctrl+Alt+Chaos, I learned of the Hacker's Manifesto. It answered some questions I had about the psychology of hacking.
+While reading Ctrl+Alt+Chaos, a book recommended by [Darknet Diaries](../../../2025/10/22/darknet-diaries.md), I learned of the Hacker's Manifesto. It answered some questions I had about the psychology of hacking.
 
 ## What are hackers looking for on the other side of the computer screen? 
 
