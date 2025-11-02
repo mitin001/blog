@@ -1,6 +1,6 @@
 # Seven
 
-Seven is, at times, gruesome, but it is also a stunning film. It caught my attention because fragments of it were embedded in [Необъяснимо, но факт](../../../series/nnf.md).
+Seven is, at times, gruesome, but it is also a stunning film. It caught my attention because fragments of it were embedded in [Необъяснимо, но факт](../../../2025/10/27/nnf.md).
 
 <img src="https://s3.amazonaws.com/writecomments.com/nnf/se7en/00_05_53.065 frame=8465.jpg" height=150>
 <img src="https://s3.amazonaws.com/writecomments.com/nnf/se7en/00_05_28.749 frame=7882.jpg" height=150>
