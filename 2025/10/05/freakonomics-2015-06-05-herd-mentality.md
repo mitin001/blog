@@ -1,8 +1,7 @@
 # [When to Rob a Bank]. 06-05. Herd Mentality
 
-This section of the last [Freakonomics] volume answered a question about capturing the attention of a large group of people in public.
+This section of the last [Freakonomics](../../../2025/10/07/freakonomics-2015-when-to-rob-a-bank.md) volume answered a question about capturing the attention of a large group of people in public.
 
-[Freakonomics]: ../../../series/freakonomics.md
 [When to Rob a Bank]: https://www.google.com/books/edition/When_to_Rob_a_Bank/2lidBAAAQBAJ
 
 ## How to draw attention to your public speech? 
