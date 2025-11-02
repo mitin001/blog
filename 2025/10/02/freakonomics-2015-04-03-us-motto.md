@@ -1,8 +1,7 @@
 # [When to Rob a Bank]. 04-03. Contest: A Six-Word Motto for the U.S.
 
-This section of the last [Freakonomics] volume answered an age-old question about the American exceptionalism.
+This section of the last [Freakonomics](../../../2025/10/07/freakonomics-2015-when-to-rob-a-bank.md) volume answered an age-old question about the American exceptionalism.
 
-[Freakonomics]: ../../../series/freakonomics.md
 [When to Rob a Bank]: https://www.google.com/books/edition/When_to_Rob_a_Bank/2lidBAAAQBAJ
 
 ## What makes America exceptional?
