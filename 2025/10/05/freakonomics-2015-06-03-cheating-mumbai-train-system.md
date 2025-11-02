@@ -1,8 +1,7 @@
 # [When to Rob a Bank]. 06-03. How to Cheat the Mumbai Train System
 
-This section of the last [Freakonomics] volume answered a question about cheating I didn't even know I had.
+This section of the last [Freakonomics](../../../2025/10/07/freakonomics-2015-when-to-rob-a-bank.md) volume answered a question about cheating.
 
-[Freakonomics]: ../../../series/freakonomics.md
 [When to Rob a Bank]: https://www.google.com/books/edition/When_to_Rob_a_Bank/2lidBAAAQBAJ
 
 ## What is ticketless travel insurance?
