@@ -1,8 +1,7 @@
 # [When to Rob a Bank]. 05-12. The Cost of Fearing Strangers
 
-This section of the last [Freakonomics] volume answered two questions about crime.
+This section of the last [Freakonomics](../../../2025/10/07/freakonomics-2015-when-to-rob-a-bank.md) volume answered two questions about crime.
 
-[Freakonomics]: ../../../series/freakonomics.md
 [When to Rob a Bank]: https://www.google.com/books/edition/When_to_Rob_a_Bank/2lidBAAAQBAJ
 
 ## If you're investigating a violent crime, where should you start looking for the offender?
