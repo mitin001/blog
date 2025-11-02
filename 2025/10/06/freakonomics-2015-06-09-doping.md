@@ -1,8 +1,7 @@
 # [When to Rob a Bank]. 06-09. Should We Just Let the Tour de France Dopers Dope Away?
 
-This section of the last [Freakonomics] volume answered a question about the history of sports and doping.
+This section of the last [Freakonomics](../../../2025/10/07/freakonomics-2015-when-to-rob-a-bank.md) volume answered a question about the history of sports and doping.
 
-[Freakonomics]: ../../../series/freakonomics.md
 [When to Rob a Bank]: https://www.google.com/books/edition/When_to_Rob_a_Bank/2lidBAAAQBAJ
 
 ## When in the history of sports did athletes begin doping?
