@@ -1,6 +1,6 @@
 # [How refrigeration took over the world](https://www.npr.org/transcripts/nx-s1-5553615)
 
-This episode of Planet Money answered three questions about refrigerator history I didn't even know I had.
+This episode of [Planet Money](../../../2025/10/23/planet-money.md) answered three questions about refrigerator history I didn't even know I had.
 
 ## How did refrigerators contribute to the feminist movement?
 
