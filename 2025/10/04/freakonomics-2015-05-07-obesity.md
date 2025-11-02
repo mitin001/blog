@@ -1,8 +1,7 @@
 # [When to Rob a Bank]. 05-07. Does Obesity Kill?
 
-This section of the last [Freakonomics] volume answered a question about obesity in the context of public health.
+This section of the last [Freakonomics](../../../2025/10/07/freakonomics-2015-when-to-rob-a-bank.md) volume answered a question about obesity in the context of public health.
 
-[Freakonomics]: ../../../series/freakonomics.md
 [When to Rob a Bank]: https://www.google.com/books/edition/When_to_Rob_a_Bank/2lidBAAAQBAJ
 
 ## Why is one individual's obesity a concern of the public at large?
