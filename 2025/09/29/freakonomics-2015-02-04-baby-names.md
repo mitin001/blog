@@ -1,8 +1,7 @@
 # [When to Rob a Bank]. 02-04. The Unpredictability of Baby Names
 
-This section of the last [Freakonomics] volume answered the age-old question about the power of exposure.
+This section of the last [Freakonomics](../../../2025/10/07/freakonomics-2015-when-to-rob-a-bank.md) volume answered the age-old question about the power of exposure.
 
-[Freakonomics]: ../../../series/freakonomics.md
 [When to Rob a Bank]: https://www.google.com/books/edition/When_to_Rob_a_Bank/2lidBAAAQBAJ
 
 ## Is there such a thing as bad publicity?
