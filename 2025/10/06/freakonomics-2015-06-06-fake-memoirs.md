@@ -1,8 +1,7 @@
 # [When to Rob a Bank]. 06-06. An Experiment for Fake Memoirs
 
-This section of the last [Freakonomics] volume answered a question about the optimal price point of nonsense.
+This section of the last [Freakonomics](../../../2025/10/07/freakonomics-2015-when-to-rob-a-bank.md) volume answered a question about the optimal price point of nonsense.
 
-[Freakonomics]: ../../../series/freakonomics.md
 [When to Rob a Bank]: https://www.google.com/books/edition/When_to_Rob_a_Bank/2lidBAAAQBAJ
 
 ## If you're selling a product that doesn't work, where should you set its price?
