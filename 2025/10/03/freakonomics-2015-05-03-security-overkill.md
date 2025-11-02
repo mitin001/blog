@@ -1,8 +1,7 @@
 # [When to Rob a Bank]. 05-03. Security Overkill, Diaper-Changing Edition
 
-This section of the last [Freakonomics] volume answered an age-old question about the American exceptionalism.
+This section of the last [Freakonomics](../../../2025/10/07/freakonomics-2015-when-to-rob-a-bank.md) volume answered a question about the social norms.
 
-[Freakonomics]: ../../../series/freakonomics.md
 [When to Rob a Bank]: https://www.google.com/books/edition/When_to_Rob_a_Bank/2lidBAAAQBAJ
 
 ## Why does society engage in security theater?
