@@ -1,8 +1,7 @@
 # [When to Rob a Bank]. 06-01. Cheating to Be Hot
 
-This section of the last [Freakonomics] volume answered a question about the state of our society.
+This section of the last [Freakonomics](../../../2025/10/07/freakonomics-2015-when-to-rob-a-bank.md) volume answered a question about the state of our society.
 
-[Freakonomics]: ../../../series/freakonomics.md
 [When to Rob a Bank]: https://www.google.com/books/edition/When_to_Rob_a_Bank/2lidBAAAQBAJ
 
 ## Why is our society so interested in the true crime genre?
