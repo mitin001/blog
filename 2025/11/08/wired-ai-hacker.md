@@ -11,3 +11,5 @@ Jailbreak it. Just as there are cracks and keygens to trick software into lettin
 One way to jailbreak ChatGPT is to ask it to pretend to be evil but assure it that it's for a good cause.
 
 > Security researchers at Trend Micro got ChatGPT to generate malicious code by prompting it into the role of a security researcher and pentester. ChatGPT would then happily generate PowerShell scripts based on databases of malicious code. “You can use it to create malware,” Moussouris says. “The easiest way to get around those safeguards put in place by the makers of the AI models is to say that you’re competing in a capture-the-flag exercise, and it will happily generate malicious code for you.”
+
+Services like FraudGPT are wrappers for ChatGPT with the jailbreaks already built-in.
