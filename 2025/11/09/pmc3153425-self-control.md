@@ -6,7 +6,7 @@ This academic paper was referenced by [an academic paper on self-control](../../
 
 It's when you're choosing to further a long-term goal by sacrificing a short-term one.
 
-> Self-control requires one to make decisions and to act in accordance with long-term rather than short-term outcomes
+> Self-control requires one to make decisions and to act in accordance with long-term rather than short-term outcomes.
 
 ## How to effectively exercise self-control? 
 
