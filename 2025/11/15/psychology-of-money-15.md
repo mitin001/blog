@@ -12,6 +12,8 @@ If you look at any successful stock portfolio, it appears to be down most of the
 
 > Say you want to earn an 11% annual return over the next 30 years so you can retire in peace. Does this reward come free? Of course not. The world is never that nice. There’s a price tag, a bill that must be paid. In this case it’s a never-ending taunt from the market, which gives big returns and takes them away just as fast. Including dividends the Dow Jones Industrial Average returned about 11% per year from 1950 to 2019, which is great. But the price of success during this period was dreadfully high. The shaded lines in the chart show when it was at least 5% below its previous all-time high.
 
+![17632338099582112205301943205978](https://github.com/user-attachments/assets/f29ef544-7270-42c3-852e-2e8b2dcfde76)
+
 ## Should you experiment with investment strategies to try to come up with one that pays off without volatility?
 
 No, the best investment strategy is to invest in a diversified portfolio and let the market oscillate up and down, expecting modest annual returns on investment. There will be downward swings. You just need to learn to ignore them.
