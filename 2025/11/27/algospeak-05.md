@@ -36,7 +36,7 @@ To make the algorithm work for you, stop feeding it data about your revealed pre
 
 To understand human-algorithm interactions, study them like any complex system: look at the inputs and outputs. Both the inputs and the outputs of such a system is the human behavior and cultural effects like the evolution of our shared language.
 
-Screenshot
+![17642665446717741354752891683929](https://github.com/user-attachments/assets/1fd96294-7a16-4fbb-b2b5-03d199b8720e)
 
 > The results of these interactions are emergent: They exist only in the context of the greater system.
 
