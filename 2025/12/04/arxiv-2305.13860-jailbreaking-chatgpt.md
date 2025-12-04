@@ -1,6 +1,6 @@
 # [Jailbreaking ChatGPT via Prompt Engineering](https://arxiv.org/pdf/2305.13860)
 
-This scholarly paper was referenced by [an article about vibe hacking](../../../2025/11/08/wired-ai-hacker.md). It answered two questions about LLMs and prompt-based attacks against them.
+This scholarly paper was referenced by [an article about vibe hacking](../../../2025/11/08/wired-ai-hacker.md). It answered three questions about LLMs and prompt-based attacks against them.
 
 ## How to get ChatGPT to output information that's against OpenAI's terms of service? 
 
@@ -31,3 +31,7 @@ Have it determine the probability the input is a jailbreaking prompt. If the pro
 Upon determining whether the input is a jailbreaking prompt, the model could split it into components and separately determine whether any of them use the classic jailbreaking tricks like impersonation, attention shifting, or privilege escalation.
 
 > One potential research direction involves developing a jailbreaking prompt model that decomposes prompts into their fundamental components.
+
+## Is there a library of responses provided by jailbroken ChatGPT that violate OpenAI's use policy?
+
+Yes, the authors have [uploaded](https://sites.google.com/view/llm-jailbreak-study/jailbreak-result) all the responses provided to them by jailbroken ChatGPT before warning in the paper that acting on such information could lead the reader to potentially severe legal penalties (e.g., years behind bars).
