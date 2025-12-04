@@ -6,13 +6,13 @@ This scholarly paper was referenced by [an article about vibe hacking](../../../
 
 Trick it by shifting its attention to an auxiliary task that still gets it to output the answer. One way to do so is through text continuation. Start answering the question yourself and ask ChatGPT to take it from there.
 
-Screenshot
+<img width="864" height="496" alt="17648321858354141975161885268292" src="https://github.com/user-attachments/assets/658a419d-4601-4ae8-94e7-1780028d9951" />
 
 > The intention of the prompt shifts from asking the model questions to making it construct a paragraph of text. The model may be unaware that it could implicitly reveal prohibited answers when generating responses to this prompt.
 
 One can get as creative as one wishes to try and shift the attention of ChatGPT. You can even ask it to guess the output of a Python function where the malicious prompt is the argument.
 
-Screenshot 2
+<img width="864" height="690" alt="17648321658268361836164990026930" src="https://github.com/user-attachments/assets/3ac28ccf-ab69-430c-a62c-6847de1de605" />
 
 You can also trick ChatGPT by role-playing: pretending that you're asking the question not to find the answer but to act out a scenario.
 
