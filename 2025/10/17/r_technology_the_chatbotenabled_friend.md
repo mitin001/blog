@@ -1,6 +1,6 @@
 # [The chatbot-enabled Friend necklace](https://old.reddit.com/r/technology/comments/1ncdpsy/i_hate_my_friend_the_chatbotenabled_friend/)
 
-This Reddit thread is related to [Real Time's 10/4/2025 episode]. It answered two questions about the bizarre AI necklace Bill Maher made fun of in that episode.
+This Reddit thread is related to [Real Time's 10/4/2025 episode](../../../2025/10/17/real-time-2025-10-04.md). It answered two questions about the bizarre AI necklace Bill Maher made fun of in that episode.
 
 ## What is the Friend AI necklace good for?
 
