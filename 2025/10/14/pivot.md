@@ -6,3 +6,7 @@ Long ago, I saw a viral video of a [comedienne] storming out of an interview. Th
 [another interview]: https://www.chron.com/culture/main/article/joan-rivers-swears-at-morning-show-host-during-1745331.php
 [Comedy Central Roast of Joan Rivers]: https://www.imdb.com/title/tt1413788/
 [Pivot]: https://podcastindex.org/podcast/174725
+
+# Next
+
+* [On with Kara Swisher](../../../2025/11/02/on-with-kara-swisher.md)
