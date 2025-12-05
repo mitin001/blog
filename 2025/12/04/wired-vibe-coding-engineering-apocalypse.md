@@ -41,3 +41,7 @@ No, there are different levels of programming languages. Machines understand the
 In the evolution of the software engineering discipline, AI is simply continuing where Python left off. That doesn't mean other languages and the demand for engineers skilled in them will disappear.
 
 > New languages have typically broadened the appeal of programming and increased the number of practitioners. AI could similarly increase the number of people capable of producing working code.
+
+# Next
+
+* [Vibe Coding](../../../2025/12/04/x-karpathy-vibe-coding.md)

@@ -183,3 +183,16 @@ Another possibility is a complete exclusion of humans from the Internet as it ge
 It's the enemy of the good. It's endlessly deliberating what the perfect solution might look like and, in the process, passing by the good solutions. The long discussion over the perfect policy proscribing AI use in discussions on Wikipedia was an exercise in perfectionism until one of the Wikipedians called it out for what it was and explained that a good but imperfect policy was a significant improvement over what they had and that it would be no problem to improve it further once it was implemented.
 
 > It's a step in the right direction. If it were implemented this way and some uncommon issue arose with that implementation, then we'd tweak it to address that micro-problem. We must not continue to avoid addressing the macro-problem just because someone can imagine edge cases that might not work out ideally.
+
+# Next
+
+* [Prof accused of being AI bot](../../../2025/10/07/prof-accused-of-being-ai-bot.md)
+* [Editor may lack a mechanism to communicative effectively](../../../2025/10/07/wikipedia_editor_may_lack_a_mechanism_to_communicative_effectively.md)
+* [Twitter is becoming a 'ghost town' of bots](../../../2025/10/10/abc.net.au-twitter-x-bot-problem.md)
+* [Signs of AI writing](../../../2025/10/11/wikipedia-signs-of-ai-writing.md)
+* [Are you chatting with a pro-Israeli AI-powered superbot?](../../../2025/10/12/aljazeera-are-you-chatting-with-an-ai-powered-superbot.md)
+* [Don't bludgeon the process](../../../2025/10/12/wikipedia-dont-bludgeon.md)
+* [The Investor's Business Journal's article about the complaint-letter generator](../../../2025/10/13/pakin-complaint-investors.md)
+* [The XS magazine article about the complaint-letter generator](../../../2025/10/13/pakin-complaint-xs.md)
+* [Biggest e-mail blunder](../../../2025/10/14/austin360-biggest-email-blunder.md)
+* [Let computer write pesky love, hate notes](../../../2025/10/14/pakin-complaint-cincypost.md)

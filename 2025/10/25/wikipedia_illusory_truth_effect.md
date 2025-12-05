@@ -33,3 +33,7 @@ Our minds operate heuristically. They take shortcuts and avoid any unnecessary p
 After hearing statement X, some time later followed by the statement "X is a myth," all we hear is the statement X. Our minds often don't take the time to determine that the two statements cancel each other out. Do not overestimate the extent of your audience's cognitive load. If there's a simple way to say something (e.g., a direct statement rather than a refutation of a myth), then make it simple.
 
 > Subjective, tangential properties such as ease of processing can matter when people evaluate sourced information.
+
+# Next
+
+* [Knowledge Does Not Protect Against Illusory Truth](../../../2025/11/01/doi-10.1037-xge0000098-illusory-truth.md)

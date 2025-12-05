@@ -17,3 +17,7 @@ Another tactic to use is to call out your opponent's bullshit.
 It is weaponized pedantry. You find an inconsequential flaw in your opponent's argument, make a big deal out of it, and call the person's credibility into question. That is, if this person is misstating one fact, what else could he be misstating?
 
 > The galloper listens to the opponent's rebuttal; finds an error, approximation, or omission; then attacks that as a way to attack the opponent's credibility. For example, if the correct value is 43 and the opponent says "40" instead of "about 40", then the galloper can use that to suggest the opponent is sloppy and their other arguments are full of errors.
+
+# Next
+
+* [Firehose of falsehood](../../../2025/10/24/wikipedia_firehose_of_falsehood.md)

@@ -39,3 +39,9 @@ Such writers may think that if their reader can't solve their little riddles, th
 It's called elegant variation in jest. Elegant variation is an antiphrasis: it is everything but elegant.
 
 > The English lexicographer H. W. Fowler coined "elegant variation" as an ironic criticism of this strategy.
+
+# Next
+
+* [The Objectively Objectionable Grammatical Pet Peeve](../../../2025/10/28/newyorker-grammatical-pet-peeve.md)
+* [Elegant variation](../../../2025/10/28/wikipedia_elegant_variation.md)
+* [The Twitter Account That Collects Awkward, Amusing Writing](../../../2025/10/29/newyorker-second-mentions.md)

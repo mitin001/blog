@@ -157,3 +157,7 @@ However, those appear to have been made between 2005 and 2008 while *Необъ�
 Translation:
 
 > The image quality of these films has been optimally reduced to minimize MPEG file sizes and simplify downloading and uploading. The original image quality of the film can be ordered in VHS format in the ORDER section.
+
+# Next
+
+* [Необъяснимо, но факт: 4. Озеро безумия](../../../2025/10/12/nnf-004.md)

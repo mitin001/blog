@@ -17,3 +17,9 @@ Not with your critical thinking skills. Rather, you need critical ignoring skill
 > The goal of disinformation is to capture attention, and critical thinking is deep attention. It would be comforting to think that when you engage deeply and earnestly with neo-Nazi literature or tobacco-company research that you come out more informed, provided you note all the logical traps and rhetorical fallacies. In reality, whenever you give your attention to a bad actor, you allow them to steal your attention from better treatments of an issue, and give them the opportunity to warp your perspective.
 
 Recognize propaganda for what it is early and often, and turn your attention elsewhere. 
+
+# Next
+
+* [Post-Truth Politics](../../../2025/11/12/niskanencenter-post-truth-politics.md)
+* [Cynicism and Online Information Literacy](../../../2025/12/02/hapgood-cynicism-and-online-information-literacy.md)
+* [Learning To Spot Fake News](../../../2025/12/04/npr-learning-to-spot-fake-news.md)

@@ -9,3 +9,7 @@ No, if you have to reach for words outside of your mind, then you're doing it wr
 > Variation, and how to achieve it, has obsessed people across languages and cultures—the thesaurus has been cashing this check for centuries.
 
 I assure you, everything you need to write is already in your head. If you can't come up with a response to a writing prompt, then read something, live your life, and collect life experience. You'll soon have something to write about. If you can't come up with a word, however, then just think harder. It will come to you, and it will fit your story perfectly. If you find a word somewhere other than in your mind, you may be relieved that the search is over, but you won't be satisfied. The word won't be yours; a patch pasted from elsewhere will stick out; it won't belong in your story. 
+
+# Next
+
+* [@nyt-first-said](../../../2025/10/29/github-nyt-first-said.md)

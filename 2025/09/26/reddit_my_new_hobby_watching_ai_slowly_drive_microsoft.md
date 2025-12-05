@@ -251,3 +251,7 @@ After our major corporations mindlessly give away their business to AI, they wil
 > I'm convinced the whole AI programming trend is just a social engineering experiment to waste people's time and destroy people's productivity.
 
 [Build keynote]: https://youtu.be/KqWUsKp5tmo?t=403
+
+# Next
+
+* [The Argument for Letting AI Burn It All Down](../../../2025/11/06/wired-ai-plateaus.md)

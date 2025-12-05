@@ -27,3 +27,7 @@ To Stock, the countless accounts of real trans individuals, the subjects of her 
 Such thinking becomes dangerous when it seeps into the justice system. Trans rights get denied simply on the basis of the existence of a group of conspiracy theorists who dislike trans people. 
 
 > Stock's claims of persecution and suppression were cited in multiple U.S. Supreme Court briefs arguing that anti-trans workplace discrimination should be legal, in one specifically as evidence that the medical consensus about trans people's needs should not be trusted.
+
+# Next
+
+* [Why Trans Philosophers are Angry at Stock](../../../2025/12/04/medium-leomollica-why-trans-philosophers-are-angry-at-stock.md)

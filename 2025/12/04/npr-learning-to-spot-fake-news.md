@@ -29,3 +29,7 @@ The authors give an example of such a claim.
 > A recent Stanford University report found that more than 80 percent of middle schoolers didn't understand that the phrase "sponsored content" meant "advertising."
 
 This is what useful information sounds like. It's not flashy, but it's closer to the truth. It can be easily fact-checked, and thus, it deserves your trust.
+
+# Next
+
+* [Web Literacy for Student Fact Checkers](../../../2025/12/04/webliteracy.md)

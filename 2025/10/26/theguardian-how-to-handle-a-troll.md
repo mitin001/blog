@@ -15,3 +15,8 @@ Call out a troll for others to see, and don't engage further.
 It's tricky because once you've realized you're being sealioned, you've already engaged with this person or bot a fair amount. Simply find a high-quality source that would answer their endless questions and direct them there. If you've mistakenly misidentified someone's good-faith attempt to learn more about the subject, they'll check out the link. If this was indeed a sea lion, you've subverted their attack by putting a stop to it early. You're no longer sinking your time and energy into the unproductive conversation.
 
 > A suspected sea lion may in fact just be a genuinely curious individual looking to learn more. So rather than ignoring them outright or devoting precious time to discussing the individual merits and drawbacks of a point with them, courteously directing them to a third-party resource – a couple of links to news stories about the matter at hand – can help nullify their attempts to derail your day. What to say: “Here’s a peer-reviewed, academically rigorous link explaining all the information you need. Have a great day!” *Block*
+
+# Next
+
+* [Triple-brackets](../../../2025/10/26/theguardian-echoes-triple-brackets.md)
+* [Sarah Jeong joining the New York Times](../../../2025/11/02/vox-sarah-jeong-new-york-times-tweets-backlash-racism.md)

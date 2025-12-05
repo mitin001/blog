@@ -39,3 +39,9 @@ Facebook encourages its advertisers to find the most incendiary language possibl
 > Unscrupulous content generators can exploit this bias and can continually refine their messages by monitoring the success (measured by engagement and sharing) of different versions—a facility, known as “A/B testing,” that is at the heart of Facebook’s advertising system.
 
 What is incendiary, attention-getting language? The language that was found by A/B testing to hijack people's attention the most.
+
+# Next
+
+* [Recalibrating Our Approach to Misinformation](../../../2025/11/03/edsurge-recalibrating-our-approach-to-misinformation.md)
+* [Choosing a hypothesis to test on Facebook](../../../2025/11/03/facebook-business-help-hypothesis.md)
+* [Situational Strategies for Self-Control](../../../2025/11/04/pmc4736542-self-control.md)

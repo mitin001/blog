@@ -29,3 +29,8 @@ If a legitimate user posts an obvious ChatGPT tell, they should be able to get t
 An AI slop scammer specializing in obituaries. Apparently, there's a market for this stuff.
 
 > "Obituary pirates" are using AI to create YouTube videos of people summarising the obituaries of strangers, sometimes fabricating details about their deaths, in order to capture search traffic.
+
+# Next
+
+* [Jake Ward pulled off an SEO heist using AI](../../../2025/10/11/x.com-jake-ward-seo-heist.md)
+* [Using AI to rip off other outlets’ articles](../../../2025/10/14/crikey-worthview-group-toowoomba-minute-ai.md)

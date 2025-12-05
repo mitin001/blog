@@ -719,3 +719,7 @@ The psychopath.
 <img src="https://s3.amazonaws.com/writecomments.com/nnf/se7en/02_01_47.304 frame=175201.jpg" height=150>
 
 Taking the psychopath on a ride.
+
+# Next
+
+* [Необъяснимо, но факт: 3. Треугольник смерти](../../../2025/10/04/nnf-003.md)

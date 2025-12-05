@@ -37,3 +37,7 @@ Detach.
 > Imagining ourselves as a third-party spectator, rather than a first-person combatant, in arguments with our spouse can preserve marital satisfaction.
 
 Approach the situation like an anthropologist studying the art of human arguing. Make observations (silently to yourself) about the tactic your loved one is using on you to try to get their way (e.g., "she's trying to upset me so I can feel the same negative emotions she's feeling with the same intensity—emotional contagion", "she's using the silent treatment to try to manipulate me into paying attention to her", etc).
+
+# Next
+
+* [Construal Levels and Self-Control](../../../2025/11/09/pmc3153425-self-control.md)

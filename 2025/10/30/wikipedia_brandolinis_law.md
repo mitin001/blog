@@ -13,3 +13,7 @@ Frédéric Bastiat expressed a similar sentiment.
 > Our adversaries have a marked advantage over us in the discussion. In very few words they can announce a half-truth; and in order to demonstrate that it is incomplete, we are obliged to have recourse to long and dry dissertations.
 
 The adversaries of truth, i.e., bullshitters, now have a powerful tool for churning out vast amounts of bullshit. Do not become one of them. Prioritize facts.
+
+# Next
+
+* [Empty and Misleading Communication Takes Over Organizations](../../../2025/11/16/doi-10.1177-2631787720929704-bullshit.md)

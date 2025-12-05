@@ -69,3 +69,7 @@ The defendant would've been able to masturbate in a stall of a public bathroom w
 Had the defendant himself peered through the hole outside of the stall, as was the case in a different court case, that would cause him to lose his Fourth Amendment protections.
 
 > Defendant's conduct of peering through holes in wall while in the stall indicated to the police officer that there was no expectation of privacy.
+
+# Next
+
+* [Kroehler v. Scott](../../../2025/10/16/case-kroehler-v-scott.md)

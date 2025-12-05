@@ -7,3 +7,9 @@ Google must've been watching me read [a Reddit thread on Copilot](../../../2025/
 It'll go back to being a niche technical subject, with individuals or small groups of people working on finding more performance ways of training very specific models. GPTs will remain for as long as companies can make profits on it, so expect enshittification.
 
 > It’ll still be a huge industry, just not the only industry. People will still have the same light in their eyes. They’ll stand up with their undesigned, clunky decks, and say: _Look what I made!_ And it’s not money.
+
+# Next
+
+* [The Worst Thing About AI Is That People Can’t Shut Up About It](../../../2025/11/06/wired-worst-thing-about-ai.md)
+* [Vibe Hacking](../../../2025/11/08/wired-ai-hacker.md)
+* [Vibe Coding Is Coming for Engineering Jobs](../../../2025/12/04/wired-vibe-coding-engineering-apocalypse.md)

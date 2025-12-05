@@ -43,3 +43,8 @@ Wasting people's time by nitpicking their opinions and forcing responses out of 
 > It may be taken as especially disruptive to attempt stalling out the consensus-building process with repeated unreasonable demands for re-explanation of that which has already been clearly explained, as if incapable of "getting it".
 
 Sealioning is one way an LLM can be used for evil. One can ask an LLM to point out faults in a person's argument and request explanations from them, and then having gotten those explanations, one can request an LLM to do the same on the explanations, and so on ad infinitum.
+
+# Next
+
+* [Sealioning](../../../2025/10/20/wikipedia-sealioning.md)
+* [Gish gallop](../../../2025/10/21/wikipedia-gish-gallop.md)

@@ -7,3 +7,7 @@ This article was referenced by an [article on the proliferation of LLM bots on T
 It doesn't appear that they do. There was even a website that was supposed to clone a local news site for a town in Australia but ended up cloning an American website for a town that had a similar name but was on the other side of the world.
 
 > Articles from Queensland local news sites are strikingly similar to content from the ABC, the government and even from a US-based newspaper for a city that shares a name with an Australian town.
+
+# Next
+
+* [Nearly 50 news websites are AI-generated](../../../2025/10/14/theguardian-ai-generated-news-websites.md)

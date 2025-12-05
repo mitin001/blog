@@ -35,3 +35,9 @@ The LLM's designers think an answer to every question needs to mention challenge
 AI-generated images hide their tells in the details.
 
 > They look acceptable at first glance, but specific details tend to be blurry and malformed. This is especially true for background objects and text.
+
+# Next
+
+* [The problem with elegant variation](../../../2025/10/15/wikipedia_the_problem_with_elegant_variation.md)
+* [AI Is Ruining Your Students’ Writing](../../../2025/10/17/chronicle-ai-is-ruining-your-students-writing.md)
+* [People who frequently use ChatGPT for writing tasks are accurate and robust detectors of AI-generated text](../../../2025/10/24/arxiv-2501.15654-chatgpt-detectors.md)

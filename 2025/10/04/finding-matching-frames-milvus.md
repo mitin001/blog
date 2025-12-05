@@ -79,3 +79,9 @@ http://127.0.0.1:5000/data?image_path=/data/Udb9yuZYzgo.mp4-keyframes/Udb9yuZYzg
 ```
 
 That is, the frame 58785 of *Необъяснимо, но факт: 3. Треугольник смерти (2005)* matches the frame 14880 of *Дети великого августа (2001)*. You could put all of the above in a shell script that accepts two videos as parameters, and it will output a table of matching frames with two columns: the frame number in video 1, the matching frame number in video 2. You could easily establish a mapping between the two videos, frame by frame.
+
+# Next
+
+* [Необъяснимо, но факт: 1. В объятиях смерти](../../../2025/09/27/nnf-001.md)
+* [Необъяснимо, но факт: 2. Кыштымский пришелец](../../../2025/09/25/nnf-002.md)
+* [Необъяснимо, но факт: 4. Озеро безумия](../../../2025/10/12/nnf-004.md)

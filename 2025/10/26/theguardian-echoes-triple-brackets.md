@@ -15,3 +15,7 @@ Bracketing sometime is to point the firehouse of abuse on them.
 The practice was subverted when Twitter users started bracketing themselves en-masse.
 
 > It’s a bit like the urban legend about the Danish king wearing a yellow star during the occupation. As the myth has it, King Christian X wore a star in response to Nazi requests that he solve his “Jewish problem”, and all the Danish people followed suit, which led the identifier to become meaningless.
+
+# Next
+
+* [The Secret Symbol Neo-Nazis Use to Target Jews Online](../../../2025/11/03/mic.com-the-secret-symbol-neo-nazis-use-to-target-jews-online.md)

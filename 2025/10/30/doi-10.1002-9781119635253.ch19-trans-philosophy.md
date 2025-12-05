@@ -43,3 +43,8 @@ Meanwhile, transphobic philosophers are allowed to ignore contributions of trans
 > A conversational tactic that uses repeated bad-faith questions to derail and exhaust one’s interlocutors.
 
 Trolls now feed people's comments into LLMs and prompt them generate questions, which they then paste into the discussion. When the person posts his responses to those questions, the trolls goes right back to the LLM for more questions, prompting it with the responses to the previous questions. The LLM can keep generating questions forever, but the patience of the human responder can run out very quickly. This is why LLM-generated text and tactics like sealioning must be recognized and called out on the spot and the trolls using them should not be engaged with beyond that point. 
+
+# Next
+
+* [Kathleen Stock, OBE](../../../2025/11/10/praile-kathleen-stock-obe.md)
+* [Insinuation, Common Ground, and the Conversational Record](../../../2025/11/24/philpapers-camicg-insinuation.md)

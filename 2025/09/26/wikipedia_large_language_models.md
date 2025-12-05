@@ -29,3 +29,7 @@ Wikipedians asked Gemini about a fictitious species of pademelon, and its confid
 AI will never contradict the prompt, and it will fit the words from its training data to it, just based on similarity of the words, even when they make for false statements.
 
 > LLM's can offer statements with a confident tone even when that information is factually incorrect or unverifiable.
+
+# Next
+
+* [Chatbot comments in discussions](../../../2025/10/07/wikipedia_chatbot_comments_in_discussions.md)

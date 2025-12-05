@@ -9,3 +9,7 @@ No, do not repeat myths, even in the context of debunking them. Human cognition 
 > Repeating a lie, even to refute it, can help ingrain a false claim rather than dispel it.
 
 Instead, confidently present true statements that contradict myths without naming them. Do not say "it is a myth that vaccines are unsafe." Say "vaccines are safe." A true statement resonates better than a negation of a falsehood. Humans will sometimes miss a negation, and their takeaway will be the falsehood, especially if they've encountered it before, presented as the truth.
+
+# Next
+
+* [Obvious lies make great propaganda](../../../2025/10/25/vox-propaganda.md)

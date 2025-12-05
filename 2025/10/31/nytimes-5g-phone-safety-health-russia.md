@@ -7,3 +7,9 @@ This article was referenced by [Wikipedia's article about the firehouse of false
 So the Americans would demand the government put a stop to the development of the infrastructure for this technology. This way, Russia, where the development of 5G is in full swing, can get ahead.
 
 > The Kremlin would really enjoy getting democratic governments tied up in fights over 5G’s environmental and health hazards.
+
+# Next
+
+* [Study of Cellphone Risks Finds ‘Some Evidence’ of Link to Cancer, at Least in Male Rats](../../../2025/11/03/nytimes-cellphone-radiation-cancer.md)
+* [When Science Is Lost in a Legal Maze](../../../2025/11/10/nytimes-when-science-is-lost-in-a-legal-maze.md)
+* [Distinguishing Polemic From Commentary in Science](../../../2025/11/30/doi.org-10.1111-cdev.13013-polemics.md)

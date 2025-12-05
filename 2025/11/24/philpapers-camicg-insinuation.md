@@ -51,3 +51,7 @@ Just as if the request to commit a crime was direct, as long as the plaintiff ca
 > Legal and administrative standards recognize that even indirect, insinuated contents can be genuinely meant, and that speakers can sometimes be held liable even for statements designed to be deniable—so long as the plaintiff can demonstrate that the relevant suggestions and refusals were in fact made.
 
 The same applies to a request for a quid pro quo sexual favor. If the defendant insinuates it but the plaintiff refuses it directly, the defendant can be held criminally liable for the transgressive statement, even if indirect. 
+
+# Next
+
+* [Rationales for indirect speech: The theory of the strategic speaker](../../../2025/11/28/doi-10.1037-a0019688-indirect-speech.md)

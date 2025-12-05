@@ -109,3 +109,7 @@ Perhaps. Men seem to struggle differentiating between their individual friends.
 Kara Swisher has recognized this pattern in her own family.
 
 > My daughter has individual friends, and my sons have _the boys_.
+
+# Next
+
+* [Let Them](../../../2025/10/14/let-them.md)

@@ -191,3 +191,9 @@ Because salespeople like the term "integration." It gives them fodder for their 
 Not only is it risky to let your devices accept connections from anyone on the open Internet, it is utterly unnessessary.
 
 > Perhaps I should thaw the pizza I my WiFi enabled tumble dryer, another solution looking for a problem, and then use the robot vacuum cleaner to transport it to the oven.
+
+# Next
+
+* [My new hobby: watching AI slowly drive Microsoft employees insane](../../../2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md)
+* [Large language models](../../../2025/09/26/wikipedia_large_language_models.md)
+* [Large language models and copyright](../../../2025/09/29/wikipedia_large_language_models_and_copyright.md)

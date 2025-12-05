@@ -17,3 +17,7 @@ Something along the lines of, "You seem to be outsourcing your cognitive functio
 Or something along the lines of, "AI chatbots do not follow the rules in our employee handbook." A Wikipedian made this point when justifying an indefinite ban on a Wikipedia contributor who uses AI chatbots in his contributions and discussions.
 
 > The problem with LLMs is that they don't understand the rules of Wikipedia. A user who is copy/pasting LLM responses is unlikely to learn the rules of Wikipedia, precisely because the user trusts the LLM to provide adequate answers.
+
+# Next
+
+* [Humans sharing accounts with machines](../../../2025/10/07/wikipedia_humans_sharing_accounts_with_machines.md)

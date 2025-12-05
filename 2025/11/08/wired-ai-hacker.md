@@ -13,3 +13,7 @@ One way to jailbreak ChatGPT is to ask it to pretend to be evil but assure it th
 > Security researchers at Trend Micro got ChatGPT to generate malicious code by prompting it into the role of a security researcher and pentester. ChatGPT would then happily generate PowerShell scripts based on databases of malicious code. “You can use it to create malware,” Moussouris says. “The easiest way to get around those safeguards put in place by the makers of the AI models is to say that you’re competing in a capture-the-flag exercise, and it will happily generate malicious code for you.”
 
 Services like FraudGPT and GhostGPT are wrappers for ChatGPT with the jailbreaks already built-in. There seem to be infinite ways to prompt AI chatbots into doing evil things, and people are discovering them faster than AI companies can fix them. AI companies now have bug bounty programs where they pay people for the prompts that can jailbreak their chatbots.
+
+# Next
+
+* [Jailbreaking ChatGPT via Prompt Engineering](../../../2025/12/04/arxiv-2305.13860-jailbreaking-chatgpt.md)

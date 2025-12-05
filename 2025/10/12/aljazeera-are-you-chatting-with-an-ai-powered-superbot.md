@@ -15,3 +15,7 @@ A massive number of posts for which to generate such replies would be found by a
 Do not waste your time talking to a bot. It's prompted to stall you by filibustering the discussion and sealioning your every word. 
 
 > If the original poster replies to the bot’s comment, the “conversation” gets going and the superbot can be relentless.
+
+# Next
+
+* [The AI trickery shaping India’s 2024 election](../../../2025/10/13/aljazeera.com-the-ai-trickery-shaping-indias-elections.md)

@@ -23,3 +23,7 @@ The Democratic Party is especially bad about this. Adam Aleksic says it's becaus
 > Start thinking about how to Trojan horse through ideas. There's always gonna be a group that doesn't want to hear your ideas. You need to push it through by packaging it inside a carrier meme that is more funny or more compelling.
 
 In the information age, we communicate through memes, and the most effective way of convincing people is through humor. Because Republicans have abandoned a coercive means to spread their message (fear) and adopted something different (memes) doesn't automatically make the latter coercive. Learn from the Republicans.
+
+# Next
+
+* [Algospeak by Adam Aleksic](../../../2025/11/20/algospeak.md)
