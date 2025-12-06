@@ -1,6 +1,6 @@
-# [Feynman Lectures on Computation](https://www.google.com/books/edition/Feynman_Lectures_on_Computation/V4yGzwEACAAJ): 1. Introduction to Computers
+# 1. Introduction to Computers
 
-I have been a fan of Richard Feynman since college physics. Even though I went to college for computer science, I only just recently discovered that Feynman has written a book on computers. The first chapter finally explained to me how computers, made largely of logic gates, can perform mathematical operations, which operate on numbers, not just the two logical primitives (true and false, or 1 and 0).
+This chapter of [Feynman Lectures on Computation](../../../2025/12/05/Feynman_Lectures_on_Computation.md) finally explained to me how computers, made largely of logic gates, can perform mathematical operations, which operate on numbers, not just the two logical primitives (true and false, or 1 and 0).
 
 ## How do computers add numbers?
 
