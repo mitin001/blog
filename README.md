@@ -19,3 +19,5 @@ Most of my writing is inspired by other people's writing (or speech). Most, but 
 
 * [Travel](2025/10/18/travel.md)
 * [Getting more out of a computer](2025/12/05/getting-more-out-of-a-computer.md)
+
+The links on this page are the roots of my inquiry. Everything I deem bloggable begins with one of those, and from there on, a rabbit hole forms that, if I'm not careful, could reach China. Follow the chain of links in the Next sections of their linked posts to see what I mean.
