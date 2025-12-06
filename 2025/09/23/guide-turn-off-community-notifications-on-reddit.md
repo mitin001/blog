@@ -1,5 +1,7 @@
 # Guide: turn off community notifications on Reddit
 
+This guide came from an exercise of trying to [get more](../../../2025/12/05/getting-more-out-of-a-computer.md) out of Reddit than what its interface allows.
+
 You go on Reddit, and you see a red dot on the bell icon, indicating that you have a notification. Surely this means someone has reacted to something you posted. This feels good. You get a dopamine hit. Until you actually check to see what the notification is. You open your [notifications] and find that it was simply an ad for you to go check some post you don't care about.
 
 <img width="862" height="244" alt="image" src="https://github.com/user-attachments/assets/30ebb9dc-51f9-422a-8144-26a1494bbcf3" />
