@@ -1,37 +1,25 @@
-from sys import argv
+import sys
 import markdown
 from bs4 import BeautifulSoup
 
+
 def md_to_txt(md_str):
     html = markdown.markdown(md_str)
-    soup = BeautifulSoup(html, 'html.parser')
-    return soup.get_text().split('\n')[0]
+    soup = BeautifulSoup(html, "html.parser")
+    return soup.get_text().split("\n")[0]
 
-md_filename = argv[1]
-readme_filename = 'readme.md'
-if '/nnf-' in md_filename:
-    readme_filename = 'series/nnf.md'
-elif '/pivot-' in md_filename:
-    readme_filename = 'series/pivot.md'
-elif '/maddow-' in md_filename:
-    readme_filename = 'series/maddow.md'
-elif '/real-time-' in md_filename:
-    readme_filename = 'series/real-time.md'
-elif '/darknetdiaries-' in md_filename:
-    readme_filename = 'series/darknetdiaries.md'
-elif '/on-with-kara-swisher-' in md_filename:
-    readme_filename = 'series/on-with-kara-swisher.md'
-elif '/freakonomics-' in md_filename:
-    readme_filename = 'series/freakonomics.md'
-elif '/planet-money-' in md_filename:
-    readme_filename = 'series/planet-money.md'
 
-prefix = ''
-if '/' in readme_filename:
-    prefix = '../'
+def get_link_text(filename):
+    with open(filename, encoding="utf-8") as f:
+        return md_to_txt(f.readline().strip())
 
-with open(readme_filename, 'a') as readme_file:
-    # only add the link to the md file if the readme file doesn't already contain it
-    if md_filename not in open(readme_filename, 'r').read():
-        with open(md_filename, 'r', encoding='utf-8') as md_file:
-            readme_file.write(f"* [{md_to_txt(md_file.read())}]({prefix}{md_filename})\n")
+
+with open("readme.md", "r") as f:
+    with open("readme.md", "a") as readme_file:
+        content = f.read()
+        for line in sys.stdin:
+            next_file = line.strip()
+            link_text = get_link_text(next_file)
+            if next_file not in content:
+                # only add the link to the md file if the readme file doesn't already contain it
+                readme_file.write("* [%s](%s)\n" % (link_text, next_file))
