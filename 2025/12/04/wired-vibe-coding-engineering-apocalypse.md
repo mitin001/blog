@@ -45,3 +45,4 @@ In the evolution of the software engineering discipline, AI is simply continuing
 # Next
 
 * [Vibe Coding](../../../2025/12/04/x-karpathy-vibe-coding.md)
+* [In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet](../../../2025/12/06/arstechnica-javascript-turns-30.md)

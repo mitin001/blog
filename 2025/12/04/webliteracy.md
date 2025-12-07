@@ -6,3 +6,5 @@ This book was referenced by [an article about spotting false claims](../../../20
 
 * [1. Why This Book?](../../../2025/12/04/webliteracy-01.md)
 * [2. Four Moves](../../../2025/12/04/webliteracy-02.md)
+* [3. Building a Fact-Checking Habit](../../../2025/12/06/webliteracy-03.md)
+* [6. Wikipedia](../../../2025/12/06/webliteracy-06.md)
