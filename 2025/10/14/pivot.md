@@ -27,3 +27,5 @@ Long ago, I saw a viral video of a [comedienne] storming out of an interview. Th
 * [Pivot: 11/12/2025](../../../2025/11/16/pivot-2025-11-12.md)
 * [Pivot: 11/17/2025](../../../2025/11/26/pivot-2025-11-17.md)
 * [Pivot: 11/21/2025](../../../2025/11/28/pivot-2025-11-21.md)
+* [Pivot: 11/18/2025](../../../2025/12/06/pivot-2025-11-18.md)
+* [Pivot: 11/25/2025](../../../2025/12/07/pivot-2025-11-25.md)

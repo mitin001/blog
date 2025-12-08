@@ -125,3 +125,7 @@ Behold the animatronics, mechatronics, immunotronics, etc.
 Bullshitter-politicians. These people know that serious people won't trust them, so they do all they can to break the trust many have placed in serious institutions.
 
 > One standard move of populist politicians has been to project the lack of trust others have for them outwards onto other people or institutions.
+
+# Next
+
+* [Bullshit as a Problem of Social Epistemology](../../../2025/12/07/doi-10.1177-0735275117692835-bullshit-as-a-problem-of-social-epidemiology.md)

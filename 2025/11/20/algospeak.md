@@ -12,3 +12,4 @@ This book was referenced by [an episode of On with Kara Swisher](../../../2025/0
 * [5. The Algorithm Really Knows Me](../../../2025/11/27/algospeak-05.md)
 * [6. Wordpilled Slangmaxxing](../../../2025/11/29/algospeak-06.md)
 * [7. It’s Giving Appropriation](../../../2025/12/02/algospeak-07.md)
+* [8. What Are We Wearing This Summer?](../../../2025/12/07/algospeak-08.md)

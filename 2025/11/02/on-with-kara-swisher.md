@@ -6,3 +6,4 @@ I am a fan of [Pivot](../../../2025/10/14/pivot.md), Kara Swisher's other podcas
 
 * [On with Kara Swisher: 7/21/2025. Adam Aleksic](../../../2025/09/27/on-with-kara-swisher-2025-07-21-adam-aleksic.md)
 * [On with Kara Swisher: 8/28/2025. Joy Reid](../../../2025/09/29/on-with-kara-swisher-2025-08-28-joy-reid.md)
+* [On with Kara Swisher: 12/1/2025. Tig Notaro](../../../2025/12/07/on-with-kara-swisher-2025-12-01-tig-notaro.md)
