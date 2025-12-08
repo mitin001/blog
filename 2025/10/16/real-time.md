@@ -4,6 +4,7 @@ I saw this show on Family Guy, and I haven't looked away from it since.
 
 # Next
 
+* [Club Random: Michael Rapaport](../../../2025/12/07/club-random-michael-rapaport.md)
 * [Real Time: 8/23/2025](../../../2025/09/30/real-time-2025-08-23.md)
 * [Real Time: 9/6/2025](../../../2025/09/25/real-time-2025-09-06.md)
 * [Real Time: 9/9/2025](../../../2025/09/25/real-time-2025-09-09.md)
@@ -15,4 +16,3 @@ I saw this show on Family Guy, and I haven't looked away from it since.
 * [Real Time: 10/25/2025](../../../2025/11/01/real-time-2025-10-25.md)
 * [Real Time: 11/8/2025](../../../2025/11/17/real-time-2025-11-08.md)
 * [Real Time: 11/15/2025](../../../2025/11/16/real-time-2025-11-15.md)
-* [Club Random: Michael Rapaport](../../../2025/12/07/club-random-michael-rapaport.md)
