@@ -106,7 +106,7 @@ Bullshitting. A lie is simply a negation of the truth. It is easy to counter it 
 
 When you bullshit someone enough, they will stop looking for the truth. A society that drowns in bullshit will not have any certainty of anything. It will become cynical and easy to control.
 
-## Does telling a lie making someone a liar? 
+## Does telling a lie make someone a liar? 
 
 Not necessarily, argues St. Augustine.
 
