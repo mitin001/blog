@@ -3,6 +3,7 @@ When you read, do you ever clip out quotes you like and write comments alongside
 * [When to Rob a Bank](2025/10/07/freakonomics-2015-when-to-rob-a-bank.md)
 * [Feynman Lectures on Computation](2025/12/05/Feynman_Lectures_on_Computation.md)
 * [Wikipedians discuss simple summaries](2025/09/25/wikipedians-discuss-simple-summaries.md)
+* [How Lady Gaga Found Herself Again](2025/12/09/rollingstone-lady-gaga-mayhem-tour-grammys-cover-story-interview.md)
 
 I also scribble notes as I watch or listen to things.
 
