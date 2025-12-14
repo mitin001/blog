@@ -23,3 +23,8 @@ Mostly infrared.
 > Bright sunlight provides an irradiance of just over 1 kilowatt per square meter at sea level. Of this energy, 527 watts is infrared radiation, 445 watts is visible light, and 32 watts is ultraviolet radiation.
 
 Sunlight is the main source of ultraviolet radiation, and yet, it is only 3% ultraviolet radiation. Note that the sun is so hot that its thermal radiation includes ionizing radiation (e.g., UV-C). When you're out in the sun, your body is irradiated with infrared radiation with the power density of over 500 W/m², visible light with the power density of over 400 W/m², and UV radiation with the power density of over 30 W/m². You can feel the photons getting absorbed by your body as its temperature rises, especially on the surface. An antenna is like the sun in the sense that it irradiates us with electromagnetic radiation, except it's all radiofrequency radiation (far less energetic than infrared) with the power density of no more than [10 W/m²](https://apps.fcc.gov/els/GetAtt.html?id=112567) (averaged over 30 minutes of sustained exposure). If the FCC allowed manufacture of antennas emitting radiation at a much higher power density, we would be able to feel the thermal effects from that, just like the sun, even as the energy of the emitted photons is much lower.
+
+# Next
+
+* [Cellphones Do Not Give You Brain Cancer](../../../2025/12/12/fivethirtyeight-cellphones-do-not-give-you-brain-cancer.md)
+* [Static Electric and Magnetic Fields and Human Health](../../../2025/12/12/mcw-radiationoncology-static-fields.md)

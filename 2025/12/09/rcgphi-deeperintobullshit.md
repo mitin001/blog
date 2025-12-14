@@ -41,3 +41,7 @@ If the statement is not bullshit, it can be clarified. An unprofound statement t
 It means to be the opposite of articulate. A statement exists on a continuum between articulateness and suggestiveness, explains Fung Yu-lan.
 
 > The more an expression is articulate, the less it is suggestive—just as the more an expression is prosaic, the less it is poetic.
+
+# Next
+
+* [On Bullshit](../../../2025/12/13/mcgill.ca-bs.md)

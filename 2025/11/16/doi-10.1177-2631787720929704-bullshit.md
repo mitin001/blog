@@ -129,3 +129,5 @@ Bullshitter-politicians. These people know that serious people won't trust them,
 # Next
 
 * [Bullshit as a Problem of Social Epistemology](../../../2025/12/07/doi-10.1177-0735275117692835-bullshit-as-a-problem-of-social-epidemiology.md)
+* [The role of bullshit in organisations](../../../2025/12/09/doi-10.3917-mana.165.0653-bullshit-in-organizations.md)
+* [Deeper into Bullshit](../../../2025/12/09/rcgphi-deeperintobullshit.md)

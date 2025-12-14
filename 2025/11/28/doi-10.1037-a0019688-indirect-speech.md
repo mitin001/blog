@@ -96,3 +96,7 @@ Anything that stands in the way of meeting basic needs is a top-priority obstacl
 To assert dominance.
 
 > Terms of solidarity like _chum_, _amigo_, and _buddy_ are often used aggressively, as in _Listen to me, pal!_ and _All right, mate, you want it, you can come and get it!_ Presumably this is because a presumption of intimacy when none exists is seen as a perquisite of a dominant individual.
+
+# Next
+
+* [Using Language](../../../2025/12/14/using-language.md)

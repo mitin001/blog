@@ -18,3 +18,4 @@ Services like FraudGPT and GhostGPT are wrappers for ChatGPT with the jailbreaks
 
 * [Jailbreaking ChatGPT via Prompt Engineering](../../../2025/12/04/arxiv-2305.13860-jailbreaking-chatgpt.md)
 * [FraudGPT](../../../2025/12/06/netenrich-fraudgpt.md)
+* [Cybercriminals experiment with AI on the dark web](../../../2025/12/08/kaspersky-ai-in-darknet.md)

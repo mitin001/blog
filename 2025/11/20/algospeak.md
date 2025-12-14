@@ -13,3 +13,5 @@ This book was referenced by [an episode of On with Kara Swisher](../../../2025/0
 * [6. Wordpilled Slangmaxxing](../../../2025/11/29/algospeak-06.md)
 * [7. It’s Giving Appropriation](../../../2025/12/02/algospeak-07.md)
 * [8. What Are We Wearing This Summer?](../../../2025/12/07/algospeak-08.md)
+* [9. OK Boomer](../../../2025/12/09/algospeak-09.md)
+* [10. Are We Cooked?](../../../2025/12/13/algospeak-10.md)

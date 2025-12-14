@@ -87,3 +87,7 @@ Because automation has reduced the number of real jobs, so people had to make up
 > The rise of highly productive technologies during the early 20th century – such as factory automation - coupled with the extensive outsourcing of most manufacturing to countries like China has meant that there is less need for labour in Western countries. People need to work less but they seem to do more. It is this, Greaber argues, that has caused the advent of bullshit jobs. Ultimately he sees these empty and meaningless jobs as a way of corralling the surplus time available in Western society into the controlling structure of the work place.
 
 People in power can't just give everyone universal basic income and make work optional because they fear that if people are left to their own devices, they'll rise up against them. 
+
+# Next
+
+* [Bullshit Jobs](../../../2025/12/13/bullshit-jobs.md)

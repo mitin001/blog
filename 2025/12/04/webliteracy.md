@@ -8,3 +8,4 @@ This book was referenced by [an article about spotting false claims](../../../20
 * [2. Four Moves](../../../2025/12/04/webliteracy-02.md)
 * [3. Building a Fact-Checking Habit](../../../2025/12/06/webliteracy-03.md)
 * [6. Wikipedia](../../../2025/12/06/webliteracy-06.md)
+* [12. Tracking the Source of Viral Photos](../../../2025/12/10/webliteracy-12.md)
