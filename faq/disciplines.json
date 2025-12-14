@@ -1,0 +1,52 @@
+{
+  "Humanities": [
+    "Performing arts",
+    "Visual arts",
+    "History",
+    "Languages and literature",
+    "Law",
+    "Philosophy",
+    "Religious studies",
+    "Divinity",
+    "Theology",
+    "Religion"
+  ],
+  "Social science": [
+    "Anthropology",
+    "Business",
+    "Economics",
+    "Futurology",
+    "Geography",
+    "Linguistics",
+    "Political science",
+    "Psychology",
+    "Sociology",
+    "Interdisciplinary studies"
+  ],
+  "Natural science": [
+    "Physical Science",
+    "Life science"
+  ],
+  "Formal science": [
+    "Computer science",
+    "Logic",
+    "Mathematics"
+  ],
+  "Applied science": [
+    "Agriculture",
+    "Architecture and design",
+    "Education",
+    "Engineering and technology",
+    "Environmental studies and forestry",
+    "Family and consumer science",
+    "Human physical performance and recreation",
+    "Journalism, media studies and communication",
+    "Library and museum studies",
+    "Medicine and health",
+    "Military sciences",
+    "Public administration",
+    "Public policy",
+    "Social work",
+    "Transportation"
+  ]
+}
