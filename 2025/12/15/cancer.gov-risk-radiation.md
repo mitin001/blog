@@ -1,12 +1,12 @@
 # [Risk Factors for Cancer: Radiation](https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation)
 
-This FAQ was referenced by [an FAQ on cell phones and cancer](../../../2025/11/27/cancer.gov-cell-phones-fact-sheet.md). It answered four questions about diagnostic and therapeutic uses of ionizing radiation.
+This article was referenced by [an FAQ on cell phones and cancer](../../../2025/11/27/cancer.gov-cell-phones-fact-sheet.md). It answered four questions about diagnostic and therapeutic uses of ionizing radiation.
 
 ## How are chest x-rays taken?
 
 A beam of x-rays is shone on a person's chest. As they pass through the person's body, the photons that haven't gotten absorbed by the body are captured by film or its digital equivalent directly behind the person.
 
-Image
+![17657819622108011472166217609211](https://github.com/user-attachments/assets/decbe134-9129-4609-8efb-84a83dfbebcf)
 
 > An x-ray is a type of high-energy radiation that can pass through the body and onto film or a computer, making pictures of areas inside the body.
 
@@ -20,7 +20,7 @@ The machinery of a CT scan is more extensive than that used for an ordinary x-ra
 
 > The patient lies on a table that slides through the CT machine, which takes x-ray pictures of the inside of the body.
 
-Image
+![17657819778894111068121429135392](https://github.com/user-attachments/assets/7ef2f601-5b82-4aa8-b66d-9d66392ddbe6)
 
 ## What is a PET scan? 
 
