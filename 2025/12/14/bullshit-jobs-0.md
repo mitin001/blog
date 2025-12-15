@@ -24,7 +24,7 @@ This is one of those rare instances where a conspiracy theory accurately describ
 
 > It’s as if someone were out there making up pointless jobs for the sake of keeping us all working.
 
-## Why do greedy corporations not get rid of the bullshitters leeching on them?
+## Why do greedy corporations not get rid of the bullshitters leeching off them?
 
 Because the pretense of job creation gives them enough of the government subsidies and goodwill to pay for the leeches. Because the upper management thinks up _roles_ and not the responsibilities that come with those roles. Because it is an open secret that the higher up the chain of command you go in a corporation the more acceptable it becomes to hold a job without doing a job.
 
