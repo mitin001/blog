@@ -23,7 +23,7 @@ The closing credits should not be overlooked either.
 
 *American Horror Story: Hotel* heavily borrows from this film, from the biblical serial killer to a knife dildo to Somerset speaking with Tracy like Hahn speaking with Alex to the crazy opening credits.
 
-## Is there interesting original footage in this film?
+## Is there interesting original footage in Se7en?
 
 <img src="https://s3.amazonaws.com/writecomments.com/nnf/se7en/00_01_24.922 frame=2036.jpg" height=150>
 <img src="https://s3.amazonaws.com/writecomments.com/nnf/se7en/00_01_25.673 frame=2054.jpg" height=150>
