@@ -28,4 +28,6 @@ Yes, breast cancer can develop in both women and men, but it is very rare in men
 
 > The most common type of breast cancer is ductal carcinoma, which begins in the lining of the milk ducts (thin tubes that carry milk from the lobules of the breast to the nipple). Another type of breast cancer is lobular carcinoma, which begins in the lobules (milk glands) of the breast.
 
+![17660421641881149646733849277889](https://github.com/user-attachments/assets/8837cc41-413a-4c87-badb-e799d54f1ef2)
+
 Lobular carcinoma is particularly rare in men became breast lobules are rare in men.
