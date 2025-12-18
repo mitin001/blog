@@ -1,6 +1,6 @@
 # [YouTube](https://www.youtube.com/)
 
-In the parlance of *Infinite Jest*, YouTube is *the entertainment*, a never-ending supply of video recommendations.
+In the parlance of *Infinite Jest*, YouTube is *the entertainment*, a never-ending supply of recommended videos.
 
 # Next
 
