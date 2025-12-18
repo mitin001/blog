@@ -34,7 +34,7 @@ This is why the better we are at speaking a language, the better we are at findi
 
 ## What is the proper way to conduct one's life? 
 
-Play by its rules. For example, in conversation, as in all life, if it is to be effective, the speakers must take turns and advance it by properly responding to what was previously said. Nothing worthwhile comes from ignoring the other speaker, speaking out of turn, or trying to prolong a conversation that has ended. The proper way to live life resembles a proper conversation: after taking an action, appreciate all the externalities and the unintended consequences of your action and address them in your next action. Do not pretend they don't exist. Let life guide you.
+Play by its rules. For example, in conversation, as in all life, if it is to be effective, the speakers must take turns and advance it by properly responding to what was previously said. Nothing worthwhile comes from ignoring the other speaker, speaking out of turn, or trying to prolong a conversation that has ended. The proper way to live life resembles a proper conversation: after taking an action, appreciate all the externalities and the unintended consequences of your action and address them in your next action. Do not pretend they don't exist. Let life guide you. Live one step at a time. Take one step; then, let the universe take the next one before you make your next move. That's how you let the universe guide your life.
 
 > When we take an action, we foresee, even intend, many of its consequences, but other consequences simply emerge. That is, actions have two broad products: anticipated products and emergent products.
 
