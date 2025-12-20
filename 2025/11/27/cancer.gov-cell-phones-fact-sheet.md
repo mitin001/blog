@@ -39,3 +39,8 @@ If we compared two groups and found a difference between them to be statisticall
 ## What is the difference between morbidity and mortality? 
 
 Mortality rate refers to the percentage of people for which a disease is fatal. For example, when the mortality rate of a disease is 40%, then out of 10 people who develop the disease, we expect 4 to die from it. Morbidity refers to the percentage of people who develop a disease. For example, when a disease has 25% morbidity rate in a certain population, we expect 1 in 4 people in this population to develop the disease.
+
+# Next
+
+* [Risk Factors for Cancer: Radiation](../../../2025/12/15/cancer.gov-risk-radiation.md)
+* [Electromagnetic Fields and Cancer](../../../2025/12/18/cancer.gov-electromagnetic-fields-fact-sheet.md)

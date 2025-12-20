@@ -8,3 +8,4 @@ Google Podcasts recommended this podcast to me a few years ago. It made me reali
 * [TikTok’s Trojan Horse Strategy](../../../2025/10/23/npr-tiktok-trojan-horse-strategy.md)
 * [A new experiment in remote work](../../../2025/11/11/planet-money-remote-work-on-the-inside.md)
 * [AI is your job interviewer](../../../2025/12/05/the-indicator-ai-interviewer.md)
+* [Hurricanes became a hot investment](../../../2025/12/14/planet-money-catastrophe-bonds.md)

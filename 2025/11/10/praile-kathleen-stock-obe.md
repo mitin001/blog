@@ -31,3 +31,4 @@ Such thinking becomes dangerous when it seeps into the justice system. Trans rig
 # Next
 
 * [Why Trans Philosophers are Angry at Stock](../../../2025/12/04/medium-leomollica-why-trans-philosophers-are-angry-at-stock.md)
+* [Women in Philosophy](../../../2025/12/14/apaonline-women-in-philosophy.md)
