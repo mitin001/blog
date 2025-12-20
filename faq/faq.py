@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import sys
 import json
+from hash import github_heading_id
 
 if len(sys.argv) != 5:
     print("Usage: python script.py questions.json topics.json disciplines.json faq.md")
@@ -26,4 +27,4 @@ with open(output_file, "a", encoding="utf-8") as out:
                 out.write(f"\n### {sub}\n\n")
                 for q_num in topics[sub]:
                     (md_file, question) = questions[str(q_num)]
-                    out.write(f"* [{question.strip()}]({md_file})\n")
+                    out.write(f"* [{question.strip()}]({md_file}#{github_heading_id(question)})\n")
