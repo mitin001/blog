@@ -1,6 +1,9 @@
 # Harun Yahya
 
-Harun Yahya led an Islamic sex cult. When his disciples were not being sexually abused, they were made to take the best-looking clips from various documentaries purchased with their parents' money and repackage them into propaganda. Their work spread from Turkey across the world, even to Russia, where it was [put on television](../../../2025/10/27/nnf.md), also as archival footage made to support an entirely different voiceover.
+Harun Yahya led an Islamic sex cult. When his disciples were not being sexually abused, they were made to take the best-looking clips from various documentaries purchased with their parents' money and repackage them into propaganda. Their work spread from Turkey across the world, even to Russia, where it was [put on television](../../../2025/10/27/nnf.md), also as archival footage made to support an entirely different voiceover. The Russians seemed to be eating this up, and not just because they saw it on TV. Such footage usually appears on TV uncredited. And yet, this sex cult propaganda has found its way into the hearts and minds of many Russians. The [Russian Harun Yahya channel] has four times the number of subscribers as the [Turkish Harun Yahya channel].
+
+[Turkish Harun Yahya channel]: https://www.youtube.com/@harunyahyaturkce
+[Russian Harun Yahya channel]: https://www.youtube.com/@harunyahyarusskiy
 
 ## Which Harun Yahya films could have been the source of the archival footage in Необъяснимо, но факт?
 
