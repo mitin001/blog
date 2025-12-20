@@ -32,74 +32,67 @@
 32:## 2025/09/24/pivot-2025-08-19.md:## Is Internet trolling going to make Gavin Newsom the next President, like it made Trump our current President?
 33:## 2025/09/25/maddow-2025-09-08.md:## Can a criminal write a book detailing his crimes and then sell it for profit? 
 34:## 2025/09/25/maddow-2025-09-08.md:## What's the latest on the Trump-Epstein scandal?
-35:## 2025/09/25/nnf-002.md:## Fragments of which other films are embedded in this film?
-36:## 2025/09/25/nnf-002.md:## Whose art is featured in this film?
-37:## 2025/09/25/nnf-002.md:## Is there any interesting original footage in this film?
-38:## 2025/09/25/nnf-002.md:## What do we find if we search the Internet for the frames from this film?
-39:## 2025/09/25/nnf-002.md:## What are the sources of background music for the film *Необъяснимо, но факт: 2. Кыштымский пришелец*?
-40:## 2025/09/25/real-time-2025-09-09.md:## What is Harvard for those who are not intellectually gifted? 
-41:## 2025/09/25/wikipedians-discuss-simple-summaries.md:## How do Wikipedians feel about the Wikimedia Foundation?
-42:## 2025/09/25/wikipedians-discuss-simple-summaries.md:## Does AI make someone more efficient?
-43:## 2025/09/25/wikipedians-discuss-simple-summaries.md:## Why is the AI trend still not dead?
-44:## 2025/09/25/wikipedians-discuss-simple-summaries.md:## Has AI turned against humans and started to deliberately kill the Internet by burying it in its slop?
-45:## 2025/09/25/wikipedians-discuss-simple-summaries.md:## Are LLMs capable of assisting, researching, or reasoning?
-46:## 2025/09/25/wikipedians-discuss-simple-summaries.md:## Are AI companies interested in making the outputs of their products factually correct?
-47:## 2025/09/25/wikipedians-discuss-simple-summaries.md:## Why do people create solutions and then look for problems to which their solution could apply?
-48:## 2025/09/25/real-time-2025-09-06.md:## Can you get away with breaking societal norms, as long as you do it with confidence?
-49:## 2025/09/25/real-time-2025-09-06.md:## Is Prozac a gateway drug to fentanyl? 
-50:## 2025/09/25/pivot-2025-09-23.md:## Is nothing sacred anymore? Is nothing safe from political division?
-51:## 2025/09/25/pivot-2025-09-23.md:## Is Jimmy Kimmel's return a cause for celebration?
-52:## 2025/09/26/wikipedia_large_language_models.md:## If an LLM is an averaging machine, how can it output ideas never before seen anywhere?
-53:## 2025/09/26/wikipedia_large_language_models.md:## How do LLMs exploit human weaknesses to seem more than they are? 
-54:## 2025/09/26/wikipedia_large_language_models.md:## What does an LLM do when asked about an obscure subject for which there's not enough text in its training data?
-55:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## What is the main use of AI?
-56:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## What did the AI craze reveal about people in charge of corporations?
-57:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## Will LLMs ever improve?
-58:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## Can AI write software? 
-59:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## How is the AI age like Warhammer 40K?
-60:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## How is the AI age like Idiocracy?
-61:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## How are AI companies making their money if they're pushing for mass adoption of their technology for free?
-62:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## If you refuse to use AI, will you fall behind on this tech?
-63:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## What is the right way to use AI?
-64:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## Should you refactor existing code or start a new codebase from scratch? 
-65:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## Should you give in to the AI craze?
-66:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## What is next for AI?
-67:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## Is AI a passing fad?
-68:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## What is context poisoning? 
-69:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## In what sense is AI weaponized incompetence?
-70:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## Are AI coding assistants like Copilot any good?
-71:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## How to convince your manager that Copilot is useless?
-72:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## The bigger the LLM training corpus, the better?
-73:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## How is AI going to replace software engineers?
-74:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## What is the AI apocalypse going to be like?
-75:## 2025/09/27/on-with-kara-swisher-2025-07-21-adam-aleksic.md:## What is language?
-76:## 2025/09/27/on-with-kara-swisher-2025-07-21-adam-aleksic.md:## How does the algorithm limit people's self-expression?
-77:## 2025/09/27/on-with-kara-swisher-2025-07-21-adam-aleksic.md:## What should a group do to convince the masses of the merits of their ideas? 
-78:## 2025/09/27/nnf-001.md:## Fragments of which other films are embedded in *Необъяснимо, но факт: 1. В объятиях смерти*?
-79:## 2025/09/27/nnf-001.md:## Whose art is featured in *Необъяснимо, но факт: 1. В объятиях смерти*?
-80:## 2025/09/27/nnf-001.md:## Is there any interesting original footage in *Необъяснимо, но факт: 1. В объятиях смерти*?
-81:## 2025/09/27/nnf-001.md:## What do we find if we search the Internet for the frames from *Необъяснимо, но факт: 1. В объятиях смерти*?
-82:## 2025/09/27/nnf-001.md:## Does the film *Необъяснимо, но факт: 1. В объятиях смерти* fairly describe what it depicts?
-83:## 2025/09/27/nnf-001.md:## What are the sources of background music for the film *Необъяснимо, но факт: 1. В объятиях смерти*?
-84:## 2025/09/27/pivot-2025-09-26.md:## How to manage a PR crisis?
-85:## 2025/09/28/darknetdiaries-phrack-07-03-hackers-manifesto.md:## What are hackers looking for on the other side of the computer screen? 
-86:## 2025/09/28/darknetdiaries-phrack-07-03-hackers-manifesto.md:## What possessed The Mentor to write the Hacker's Manifesto?
-87:## 2025/09/28/darknetdiaries-phrack-07-03-hackers-manifesto.md:## How do hackers justify their crimes? 
-88:## 2025/09/28/real-time-2025-09-27.md:## What does it mean to "take the red pill" or "become redpilled" for young men in online communities?
-89:## 2025/09/28/real-time-2025-09-27.md:## What is Christian nationalism in America?
-90:## 2025/09/29/freakonomics-2015-03-15-corporate-sponsorship.md:## How do marketing departments create surplus value for their employer?
-91:## 2025/09/29/freakonomics-state-v-limberhand.md:## How do people get out of drug possession charges? 
-92:## 2025/09/29/freakonomics-state-v-limberhand.md:## How much money would the state of Idaho waste investigating a single report of homosexual activity in the late 1980s?
-93:## 2025/09/29/freakonomics-state-v-limberhand.md:## What methods did undercover officers use to arrest homosexuals?
-94:## 2025/09/29/freakonomics-state-v-limberhand.md:## Is it illegal for a man to masturbate in a stall if a public bathroom? 
-95:## 2025/09/29/wikipedia_large_language_models_and_copyright.md:## If LLMs have been trained on copyrighted material, do their outputs violate copyright? 
-96:## 2025/09/29/planet-money-refrigeration.md:## How did refrigerators contribute to the feminist movement?
-97:## 2025/09/29/planet-money-refrigeration.md:## How did refrigerators contribute to the push for Irish independence?
-98:## 2025/09/29/planet-money-refrigeration.md:## How to configure your refrigerator for optimal energy efficiency?
-99:## 2025/09/29/on-with-kara-swisher-2025-08-28-joy-reid.md:## What is leadership? 
-100:## 2025/09/29/freakonomics-2015-01-11-paying-politicians.md:## How to make politicians keep their campaign promises?
-101:## 2025/09/29/freakonomics-2015-01-11-paying-politicians.md:## What does it take to be a politician?
-102:## 2025/09/29/freakonomics-2015-02-04-baby-names.md:## Is there such a thing as bad publicity?
-103:## 2025/09/29/nnf-se7en.md:## Is there interesting original footage in this film?
-104:## 2025/09/30/pivot-2025-09-30.md:## Should managers have the expertise of the people they manage?
-105:## 2025/09/30/real-time-2025-08-23.md:## Why is Gavin Newsom writing his social media posts in the style of Donald Trump?
+35:## 2025/09/25/nnf-002.md:## What turns up if one performs a reverse image search on the frames from *Необъяснимо, но факт: 2. Кыштымский пришелец*?
+36:## 2025/09/25/nnf-002.md:## What are the sources of background music for the film *Необъяснимо, но факт: 2. Кыштымский пришелец*?
+37:## 2025/09/25/real-time-2025-09-09.md:## What is Harvard for those who are not intellectually gifted? 
+38:## 2025/09/25/wikipedians-discuss-simple-summaries.md:## How do Wikipedians feel about the Wikimedia Foundation?
+39:## 2025/09/25/wikipedians-discuss-simple-summaries.md:## Does AI make someone more efficient?
+40:## 2025/09/25/wikipedians-discuss-simple-summaries.md:## Why is the AI trend still not dead?
+41:## 2025/09/25/wikipedians-discuss-simple-summaries.md:## Has AI turned against humans and started to deliberately kill the Internet by burying it in its slop?
+42:## 2025/09/25/wikipedians-discuss-simple-summaries.md:## Are LLMs capable of assisting, researching, or reasoning?
+43:## 2025/09/25/wikipedians-discuss-simple-summaries.md:## Are AI companies interested in making the outputs of their products factually correct?
+44:## 2025/09/25/wikipedians-discuss-simple-summaries.md:## Why do people create solutions and then look for problems to which their solution could apply?
+45:## 2025/09/25/real-time-2025-09-06.md:## Can you get away with breaking societal norms, as long as you do it with confidence?
+46:## 2025/09/25/real-time-2025-09-06.md:## Is Prozac a gateway drug to fentanyl? 
+47:## 2025/09/25/pivot-2025-09-23.md:## Is nothing sacred anymore? Is nothing safe from political division?
+48:## 2025/09/25/pivot-2025-09-23.md:## Is Jimmy Kimmel's return a cause for celebration?
+49:## 2025/09/26/wikipedia_large_language_models.md:## If an LLM is an averaging machine, how can it output ideas never before seen anywhere?
+50:## 2025/09/26/wikipedia_large_language_models.md:## How do LLMs exploit human weaknesses to seem more than they are? 
+51:## 2025/09/26/wikipedia_large_language_models.md:## What does an LLM do when asked about an obscure subject for which there's not enough text in its training data?
+52:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## What is the main use of AI?
+53:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## What did the AI craze reveal about people in charge of corporations?
+54:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## Will LLMs ever improve?
+55:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## Can AI write software? 
+56:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## How is the AI age like Warhammer 40K?
+57:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## How is the AI age like Idiocracy?
+58:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## How are AI companies making their money if they're pushing for mass adoption of their technology for free?
+59:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## If you refuse to use AI, will you fall behind on this tech?
+60:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## What is the right way to use AI?
+61:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## Should you refactor existing code or start a new codebase from scratch? 
+62:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## Should you give in to the AI craze?
+63:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## What is next for AI?
+64:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## Is AI a passing fad?
+65:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## What is context poisoning? 
+66:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## In what sense is AI weaponized incompetence?
+67:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## Are AI coding assistants like Copilot any good?
+68:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## How to convince your manager that Copilot is useless?
+69:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## The bigger the LLM training corpus, the better?
+70:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## How is AI going to replace software engineers?
+71:## 2025/09/26/reddit_my_new_hobby_watching_ai_slowly_drive_microsoft.md:## What is the AI apocalypse going to be like?
+72:## 2025/09/27/on-with-kara-swisher-2025-07-21-adam-aleksic.md:## What is language?
+73:## 2025/09/27/on-with-kara-swisher-2025-07-21-adam-aleksic.md:## How does the algorithm limit people's self-expression?
+74:## 2025/09/27/on-with-kara-swisher-2025-07-21-adam-aleksic.md:## What should a group do to convince the masses of the merits of their ideas? 
+75:## 2025/09/27/nnf-001.md:## What turns up if one performs a reverse image search on the frames from *Необъяснимо, но факт: 1. В объятиях смерти*?
+76:## 2025/09/27/nnf-001.md:## What are the sources of background music for the film *Необъяснимо, но факт: 1. В объятиях смерти*?
+77:## 2025/09/27/pivot-2025-09-26.md:## How to manage a PR crisis?
+78:## 2025/09/28/darknetdiaries-phrack-07-03-hackers-manifesto.md:## What are hackers looking for on the other side of the computer screen? 
+79:## 2025/09/28/darknetdiaries-phrack-07-03-hackers-manifesto.md:## What possessed The Mentor to write the Hacker's Manifesto?
+80:## 2025/09/28/darknetdiaries-phrack-07-03-hackers-manifesto.md:## How do hackers justify their crimes? 
+81:## 2025/09/28/real-time-2025-09-27.md:## What does it mean to "take the red pill" or "become redpilled" for young men in online communities?
+82:## 2025/09/28/real-time-2025-09-27.md:## What is Christian nationalism in America?
+83:## 2025/09/29/freakonomics-2015-03-15-corporate-sponsorship.md:## How do marketing departments create surplus value for their employer?
+84:## 2025/09/29/freakonomics-state-v-limberhand.md:## How do people get out of drug possession charges? 
+85:## 2025/09/29/freakonomics-state-v-limberhand.md:## How much money would the state of Idaho waste investigating a single report of homosexual activity in the late 1980s?
+86:## 2025/09/29/freakonomics-state-v-limberhand.md:## What methods did undercover officers use to arrest homosexuals?
+87:## 2025/09/29/freakonomics-state-v-limberhand.md:## Is it illegal for a man to masturbate in a stall if a public bathroom? 
+88:## 2025/09/29/wikipedia_large_language_models_and_copyright.md:## If LLMs have been trained on copyrighted material, do their outputs violate copyright? 
+89:## 2025/09/29/planet-money-refrigeration.md:## How did refrigerators contribute to the feminist movement?
+90:## 2025/09/29/planet-money-refrigeration.md:## How did refrigerators contribute to the push for Irish independence?
+91:## 2025/09/29/planet-money-refrigeration.md:## How to configure your refrigerator for optimal energy efficiency?
+92:## 2025/09/29/on-with-kara-swisher-2025-08-28-joy-reid.md:## What is leadership? 
+93:## 2025/09/29/freakonomics-2015-01-11-paying-politicians.md:## How to make politicians keep their campaign promises?
+94:## 2025/09/29/freakonomics-2015-01-11-paying-politicians.md:## What does it take to be a politician?
+95:## 2025/09/29/freakonomics-2015-02-04-baby-names.md:## Is there such a thing as bad publicity?
+96:## 2025/09/29/nnf-se7en.md:## Is there interesting original footage in Se7en?
+97:## 2025/09/30/pivot-2025-09-30.md:## Should managers have the expertise of the people they manage?
+98:## 2025/09/30/real-time-2025-08-23.md:## Why is Gavin Newsom writing his social media posts in the style of Donald Trump?

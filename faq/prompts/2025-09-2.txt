@@ -34,74 +34,67 @@ Cluster the following questions into the following categories: Performing arts, 
 32 Is Internet trolling going to make Gavin Newsom the next President, like it made Trump our current President?
 33 Can a criminal write a book detailing his crimes and then sell it for profit? 
 34 What's the latest on the Trump-Epstein scandal?
-35 Fragments of which other films are embedded in this film?
-36 Whose art is featured in this film?
-37 Is there any interesting original footage in this film?
-38 What do we find if we search the Internet for the frames from this film?
-39 What are the sources of background music for the film *Необъяснимо, но факт: 2. Кыштымский пришелец*?
-40 What is Harvard for those who are not intellectually gifted? 
-41 How do Wikipedians feel about the Wikimedia Foundation?
-42 Does AI make someone more efficient?
-43 Why is the AI trend still not dead?
-44 Has AI turned against humans and started to deliberately kill the Internet by burying it in its slop?
-45 Are LLMs capable of assisting, researching, or reasoning?
-46 Are AI companies interested in making the outputs of their products factually correct?
-47 Why do people create solutions and then look for problems to which their solution could apply?
-48 Can you get away with breaking societal norms, as long as you do it with confidence?
-49 Is Prozac a gateway drug to fentanyl? 
-50 Is nothing sacred anymore? Is nothing safe from political division?
-51 Is Jimmy Kimmel's return a cause for celebration?
-52 If an LLM is an averaging machine, how can it output ideas never before seen anywhere?
-53 How do LLMs exploit human weaknesses to seem more than they are? 
-54 What does an LLM do when asked about an obscure subject for which there's not enough text in its training data?
-55 What is the main use of AI?
-56 What did the AI craze reveal about people in charge of corporations?
-57 Will LLMs ever improve?
-58 Can AI write software? 
-59 How is the AI age like Warhammer 40K?
-60 How is the AI age like Idiocracy?
-61 How are AI companies making their money if they're pushing for mass adoption of their technology for free?
-62 If you refuse to use AI, will you fall behind on this tech?
-63 What is the right way to use AI?
-64 Should you refactor existing code or start a new codebase from scratch? 
-65 Should you give in to the AI craze?
-66 What is next for AI?
-67 Is AI a passing fad?
-68 What is context poisoning? 
-69 In what sense is AI weaponized incompetence?
-70 Are AI coding assistants like Copilot any good?
-71 How to convince your manager that Copilot is useless?
-72 The bigger the LLM training corpus, the better?
-73 How is AI going to replace software engineers?
-74 What is the AI apocalypse going to be like?
-75 What is language?
-76 How does the algorithm limit people's self-expression?
-77 What should a group do to convince the masses of the merits of their ideas? 
-78 Fragments of which other films are embedded in *Необъяснимо, но факт: 1. В объятиях смерти*?
-79 Whose art is featured in *Необъяснимо, но факт: 1. В объятиях смерти*?
-80 Is there any interesting original footage in *Необъяснимо, но факт: 1. В объятиях смерти*?
-81 What do we find if we search the Internet for the frames from *Необъяснимо, но факт: 1. В объятиях смерти*?
-82 Does the film *Необъяснимо, но факт: 1. В объятиях смерти* fairly describe what it depicts?
-83 What are the sources of background music for the film *Необъяснимо, но факт: 1. В объятиях смерти*?
-84 How to manage a PR crisis?
-85 What are hackers looking for on the other side of the computer screen? 
-86 What possessed The Mentor to write the Hacker's Manifesto?
-87 How do hackers justify their crimes? 
-88 What does it mean to "take the red pill" or "become redpilled" for young men in online communities?
-89 What is Christian nationalism in America?
-90 How do marketing departments create surplus value for their employer?
-91 How do people get out of drug possession charges? 
-92 How much money would the state of Idaho waste investigating a single report of homosexual activity in the late 1980s?
-93 What methods did undercover officers use to arrest homosexuals?
-94 Is it illegal for a man to masturbate in a stall if a public bathroom? 
-95 If LLMs have been trained on copyrighted material, do their outputs violate copyright? 
-96 How did refrigerators contribute to the feminist movement?
-97 How did refrigerators contribute to the push for Irish independence?
-98 How to configure your refrigerator for optimal energy efficiency?
-99 What is leadership? 
-100 How to make politicians keep their campaign promises?
-101 What does it take to be a politician?
-102 Is there such a thing as bad publicity?
-103 Is there interesting original footage in this film?
-104 Should managers have the expertise of the people they manage?
-105 Why is Gavin Newsom writing his social media posts in the style of Donald Trump?
+35 What turns up if one performs a reverse image search on the frames from *Необъяснимо, но факт: 2. Кыштымский пришелец*?
+36 What are the sources of background music for the film *Необъяснимо, но факт: 2. Кыштымский пришелец*?
+37 What is Harvard for those who are not intellectually gifted? 
+38 How do Wikipedians feel about the Wikimedia Foundation?
+39 Does AI make someone more efficient?
+40 Why is the AI trend still not dead?
+41 Has AI turned against humans and started to deliberately kill the Internet by burying it in its slop?
+42 Are LLMs capable of assisting, researching, or reasoning?
+43 Are AI companies interested in making the outputs of their products factually correct?
+44 Why do people create solutions and then look for problems to which their solution could apply?
+45 Can you get away with breaking societal norms, as long as you do it with confidence?
+46 Is Prozac a gateway drug to fentanyl? 
+47 Is nothing sacred anymore? Is nothing safe from political division?
+48 Is Jimmy Kimmel's return a cause for celebration?
+49 If an LLM is an averaging machine, how can it output ideas never before seen anywhere?
+50 How do LLMs exploit human weaknesses to seem more than they are? 
+51 What does an LLM do when asked about an obscure subject for which there's not enough text in its training data?
+52 What is the main use of AI?
+53 What did the AI craze reveal about people in charge of corporations?
+54 Will LLMs ever improve?
+55 Can AI write software? 
+56 How is the AI age like Warhammer 40K?
+57 How is the AI age like Idiocracy?
+58 How are AI companies making their money if they're pushing for mass adoption of their technology for free?
+59 If you refuse to use AI, will you fall behind on this tech?
+60 What is the right way to use AI?
+61 Should you refactor existing code or start a new codebase from scratch? 
+62 Should you give in to the AI craze?
+63 What is next for AI?
+64 Is AI a passing fad?
+65 What is context poisoning? 
+66 In what sense is AI weaponized incompetence?
+67 Are AI coding assistants like Copilot any good?
+68 How to convince your manager that Copilot is useless?
+69 The bigger the LLM training corpus, the better?
+70 How is AI going to replace software engineers?
+71 What is the AI apocalypse going to be like?
+72 What is language?
+73 How does the algorithm limit people's self-expression?
+74 What should a group do to convince the masses of the merits of their ideas? 
+75 What turns up if one performs a reverse image search on the frames from *Необъяснимо, но факт: 1. В объятиях смерти*?
+76 What are the sources of background music for the film *Необъяснимо, но факт: 1. В объятиях смерти*?
+77 How to manage a PR crisis?
+78 What are hackers looking for on the other side of the computer screen? 
+79 What possessed The Mentor to write the Hacker's Manifesto?
+80 How do hackers justify their crimes? 
+81 What does it mean to "take the red pill" or "become redpilled" for young men in online communities?
+82 What is Christian nationalism in America?
+83 How do marketing departments create surplus value for their employer?
+84 How do people get out of drug possession charges? 
+85 How much money would the state of Idaho waste investigating a single report of homosexual activity in the late 1980s?
+86 What methods did undercover officers use to arrest homosexuals?
+87 Is it illegal for a man to masturbate in a stall if a public bathroom? 
+88 If LLMs have been trained on copyrighted material, do their outputs violate copyright? 
+89 How did refrigerators contribute to the feminist movement?
+90 How did refrigerators contribute to the push for Irish independence?
+91 How to configure your refrigerator for optimal energy efficiency?
+92 What is leadership? 
+93 How to make politicians keep their campaign promises?
+94 What does it take to be a politician?
+95 Is there such a thing as bad publicity?
+96 Is there interesting original footage in Se7en?
+97 Should managers have the expertise of the people they manage?
+98 Why is Gavin Newsom writing his social media posts in the style of Donald Trump?
