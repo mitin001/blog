@@ -1,6 +1,6 @@
 # [The Prof G Pod](https://podcastindex.org/podcast/498128?episode=46564988757): [The AI Dilemma — with Tristan Harris](https://writecomments.com/transcripts/?md5=4053296515c45f430cfb26b9e0c7813f)
 
-This episode of The Prof G Pod was referenced by the [12/12/2025 episode of Pivot](../../../2025/12/19/pivot-2025-12-12.md). It answered
+This episode of The Prof G Pod was referenced by the [12/12/2025 episode of Pivot](../../../2025/12/19/pivot-2025-12-12.md). It answered five questions about how technology is hastening the coming of the doomsday.
 
 ## What happens when lay people start dispensing psychological advice on social media? 
 
