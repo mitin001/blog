@@ -1,6 +1,6 @@
 # [Limiting exposure to time-varying electric and magnetic fields](https://www.icnirp.org/cms/upload/publications/ICNIRPLFgdl.pdf)
 
-This scholarly paper was referenced by [an FAQ on radiofrequency radiation and cancer](../../../2025/12/18/cancer.gov-electromagnetic-fields-fact-sheet.md). It answered two questions about physics.
+This scholarly paper was referenced by [an FAQ on radiofrequency radiation and cancer](../../../2025/12/18/cancer.gov-electromagnetic-fields-fact-sheet.md). It answered three questions about physics.
 
 ## How to determine the force exerted on a given object?
 
