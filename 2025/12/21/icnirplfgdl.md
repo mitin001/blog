@@ -28,7 +28,7 @@ This is why the field strength threshold values for the general public CNS expos
 
 <img width="864" height="589" alt="17666478944758512370346222561738" src="https://github.com/user-attachments/assets/2a948fdf-afcf-4bb7-bb74-d7d8d62c7ee1" />
 
-The threshold exposure for PNS is higher still because electric fields need to be of a considerably higher strength to cause harmful effects (e.g., annoyance or pain) in the PNS. The human body has an even higher tolerance of electric fields with frequencies above 3 kHz (but below infrared).
+The threshold exposure for PNS is higher still because electric fields need to be of a considerably higher strength to cause harmful effects (e.g., annoyance or pain) in the PNS. The human body has an even higher tolerance of electric fields with frequencies above 3 kHz (but below infrared). The threshold exposure values to higher radio frequencies are expressed not in electric field strengths but in specific absorption rates (power densities expressed in W/kg). Those values are set so the radiation doesn't perceptibly raise the body temperature (or the temperature of the body part being exposed to it). Different frequencies have different rates of absorption, so the threshold values don't always vary linearly with the frequencies.
 
 ## Does 50 Hz radiation from power lines have thermal effects on your body?
 
