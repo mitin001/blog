@@ -24,7 +24,7 @@ Potentially. That's why ICNIRP recommends one to not enter areas where the stren
 
 > For frequencies in the range 10 Hz to 25 Hz, occupational exposure should be limited to fields that induce electric field strengths in CNS tissue of the head (i.e., the brain and retina) of less than 50 mV/m in order to avoid the induction of retinal phosphenes.
 
-This is why the field strength threshold values for the general public CNS exposure to an electric field in this frequency range is set to the lowest possible value. The threshold values are five times higher for occupational exposure because workers would have undergone occupational training during which they would be informed of the harmlessness of the phosphenes, how to better protect themselves from the electric fields causing them, etc.
+This is why the field strength threshold values for the general public CNS exposure to an electric field in this frequency range is set to the lowest possible value. The threshold values are five times higher for occupational exposure because workers would have undergone occupational training during which they would be informed of the harmlessness of the phosphenes, how to better shield themselves from the electric fields causing them, etc.
 
 <img width="864" height="589" alt="17666478944758512370346222561738" src="https://github.com/user-attachments/assets/2a948fdf-afcf-4bb7-bb74-d7d8d62c7ee1" />
 
