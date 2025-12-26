@@ -12,6 +12,6 @@ Because apparently the most loyal of Trump's appointees is in charge of the agen
 
 > This Trump appointee who runs this obscure mortgage data agency, who seems to have been the source for all of these weird criminal cases against Trump's political enemies, that guy last week fired the inspector general at that agency.
 
-The reason for Joe Allen's dismissal appears to be that he tried to turn over information that was pertinent to the investigation. It appears that Trump's loyalist Bill Pulte didn't want extra eyes on how he was trying to use the mortgage data to go after the people inconvenient to the Trump administration.
+The reason for Joe Allen's dismissal appears to be that he tried to turn over information that was pertinent to the investigation. It appears that the Trump loyalist Bill Pulte didn't want extra eyes on how he was trying to use the mortgage data to go after the people inconvenient to the Trump administration.
 
 > The inspector general received notice of his termination from the White House after he made efforts to provide key information to prosecutors in the Eastern District of Virginia.
