@@ -38,7 +38,7 @@ We speak in conversational implicatures because we don't want to expend too much
 
 An act of using language to get someone to do something. Perlocution encapsulates illocution (the speaker's intent), which encapsulates locution (the literal meaning of the words), which encapsulates rhetics (use of words with a given sense and reference), which encapsulate phatics (the words), which encapsulate phonetics (the sounds of which words are made).
 
-p.146
+<img width="864" height="242" alt="1766799998384456742735434436258" src="https://github.com/user-attachments/assets/787ee6de-9777-4a15-926e-5e41eed67566" />
 
 John Austin coined the term _illocution_ not as the opposite of _locution_ but as a contraction of "into locution" as in "putting some intent into one's locution."
 
