@@ -38,11 +38,11 @@ Cryogens are needed to keep the coils within the magnet system from overheating 
 
 At 300 Hz, the wavelength is 1000 km. Then, as you multiply the frequency by a factor of 10, divide the wavelength by the same factor of 10. For example, for the microwave near-infrared frequency 300 GHz (300 * 10^9 Hz), the wavelength is 1000/10^9 km = 1/10^6 km = 1/10^3 m = 1 mm.
 
-p.24
+<img width="864" height="976" alt="17668676781108699944036936984645" src="https://github.com/user-attachments/assets/b95e3558-126e-4425-bb96-723644bdfffb" />
 
 The photon with the wavelength of 1 mm (one that travels 1 mm in a vacuum before its E-vector completes a full phase) has the energy of 1.2 meV. As you divide the wavelength by a factor of 10, multiply the photon energy by the same factor of 10.
 
-p.28
+<img width="864" height="283" alt="17668677057527913453455319828919" src="https://github.com/user-attachments/assets/b3bd6c3c-7ea9-44d5-adf9-779a8a06603d" />
 
 For example, the photon with the wavelength of 100 nm has the energy of 12 eV, the ionization threshold (if a photon with this or higher energy encounters an electron, it will separate it from its atom, unless the atom's ionization energy is higher).
 
