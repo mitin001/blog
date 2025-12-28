@@ -31,3 +31,7 @@ Yes, breast cancer can develop in both women and men, but it is very rare in men
 ![17660421641881149646733849277889](https://github.com/user-attachments/assets/8837cc41-413a-4c87-badb-e799d54f1ef2)
 
 Lobular carcinoma is particularly rare in men became breast lobules are rare in men.
+
+# Next
+
+* [Limiting exposure to time-varying electric and magnetic fields](../../../2025/12/21/icnirplfgdl.md)

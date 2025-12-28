@@ -5,3 +5,4 @@ Sometimes, a computer application doesn't quite do what I want it to do, so I ha
 # Next
 
 * [Guide: turn off community notifications on Reddit](../../../2025/09/23/guide-turn-off-community-notifications-on-reddit.md)
+* [Conversations with AI chatbots](../../../2025/12/28/chatbots.md)

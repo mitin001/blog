@@ -9,3 +9,4 @@ Google Podcasts recommended this podcast to me a few years ago. It made me reali
 * [A new experiment in remote work](../../../2025/11/11/planet-money-remote-work-on-the-inside.md)
 * [AI is your job interviewer](../../../2025/12/05/the-indicator-ai-interviewer.md)
 * [Hurricanes became a hot investment](../../../2025/12/14/planet-money-catastrophe-bonds.md)
+* [The summer I turned binge-y](../../../2025/12/26/planet-money-binge-worthy-tv.md)
