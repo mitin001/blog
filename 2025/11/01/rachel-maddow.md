@@ -7,9 +7,9 @@ Rachel is not particularly charitable in her analysis of the Trump administratio
 # Next
 
 * [MSLIVE ’25: The State of U.S. Democracy with Rachel Maddow and Lawrence O’Donnell: 10/23/2025](../../../2025/11/02/mslive25-rachel-maddow-lawrence-odonnell.md)
+* [A conversation with Rachel Maddow and Timothy Snyder: 12/13/2025](../../../2025/12/26/rachel-maddow-2025-12-13.md)
 * [The Rachel Maddow Show: 9/8/2025](../../../2025/09/25/maddow-2025-09-08.md)
 * [The Rachel Maddow Show: 9/16/2025](../../../2025/09/23/maddow-2025-09-16.md)
 * [The Rachel Maddow Show: 9/22/2025. Kamala Harris](../../../2025/09/24/maddow-2025-09-22.md)
 * [The Rachel Maddow Show: 11/11/2025](../../../2025/12/25/rachel-maddow-2025-11-11.md)
-* [A conversation with Rachel Maddow and Timothy Snyder: 12/13/2025](../../../2025/12/26/rachel-maddow-2025-12-13.md)
 * [The Rachel Maddow Show: 12/15/2025](../../../2025/12/26/rachel-maddow-2025-12-15.md)
