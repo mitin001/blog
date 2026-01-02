@@ -28,7 +28,7 @@ Imperative statements are prone to being misconstrued, but we keep using them be
 
 The imperative statement "sit here" doesn't confer how it was meant to be taken until the respondent chooses how to take it.
 
-p.213
+<img width="864" height="206" alt="17673270845168708246463318969845" src="https://github.com/user-attachments/assets/1ff02791-2f19-471e-8d70-4ece36f66db7" />
 
 A respondent can clarify their construal by signaling their uptake of the speaker's utterance, as Kate does to Jack in the author's example.
 
