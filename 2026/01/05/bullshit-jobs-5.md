@@ -2,7 +2,7 @@
 
 This chapter of [Bullshit Jobs](../../../2025/12/13/bullshit-jobs.md) answered eight questions about our society's ills and how there are no incentives to change things.
 
-## What has caused the bullshittization of the private section?
+## What has caused the bullshittization of the private sector?
 
 The industry that has pioneered bullshittization: finance. The people in this industry have decided that it was fine to distract people with unnecessarily complex org charts and financing schemes while they take all the money. They did so with a believable cover story. We indeed live in a complicated world.
 
