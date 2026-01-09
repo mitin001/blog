@@ -1,4 +1,4 @@
-# [Stupid Journal Tricks](https://pressbooks.pub/webliteracy/chapter/stupid-journal-tricks/)
+# [20. Stupid Journal Tricks](https://pressbooks.pub/webliteracy/chapter/stupid-journal-tricks/)
 
 This chapter of [Web Literacy](../../../2025/12/04/webliteracy.md) answered two questions about evaluating original research and media reports.
 
