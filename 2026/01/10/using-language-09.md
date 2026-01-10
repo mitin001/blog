@@ -38,7 +38,7 @@ Most of all, editing expressions are devices used by the speaker to save face in
 
 Editing expressions may contain apologies.
 
-> And now, Van C M burn playing Tchaikovsky's Piano Concerto Number One in Blee Fat Mi nor...I beg your pardon, that should be Fee Blat Minor.
+> And now, Van C M burn playing Tchaikovsky's Piano Concerto Number One in Blee Fat Minor...I beg your pardon, that should be Fee Blat Minor.
 
 They may contain excuses.
 
@@ -76,9 +76,9 @@ When people elongate their vowels, their speech appears more fluent than if they
 
 Whether you knew if the person was paying attention at the start of your turn or not. If you only discovered they weren't paying attention halfway through your turn, then you simply pause to get their attention and finish what you were saying once you have it.
 
-p.279 mid
+![17680414424259142986618204875118](https://github.com/user-attachments/assets/c4f6236f-3963-461a-abee-b1b9eb731ffc)
 
-p.279 bt
+![17680414607043671577129316156180](https://github.com/user-attachments/assets/c21c7550-5694-4948-875d-b61190445b06)
 
 > Speakers tend to choose mid-turn delays when they haven't yet gazed at their addressees, but turn restarts when they have.
 
