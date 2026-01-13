@@ -1,4 +1,4 @@
-# [AI bubble](https://www.npr.org/transcripts/nx-s1-5672643)
+# [An AI bubble](https://www.npr.org/transcripts/nx-s1-5672643)
 
 This episode of [Planet Money](../../../2025/10/23/planet-money.md) answered six questions about economic bubbles.
 
