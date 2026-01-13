@@ -4,13 +4,17 @@ This episode of [Planet Money](../../../2025/10/23/planet-money.md) answered six
 
 ## What is an economic bubble?
 
-> The textbook definition of a bubble is that it's when people start buying and selling something at prices way above what it's actually worth
+It's when the pricing model established by the market stops making sense in the face of misguided investment decisions of the public.
 
-Robin Greenwood is a professor of finance at Harvard Business School
+> It's when people start buying and selling something at prices way above what it's actually worth.
+
+When confronted with a high price of something, Robin Greenwood urges consumers to ask themselves whether it really delivers the value that could match the price.
 
 > A bubble is something that we can point to as being irrationally valued relative to the value that it delivers.
 
-> that price just keeps going up, and up, and up, until one day, it pops. The price crashing down to reality. And a lot of people lose their money or lose their jobs.
+If the stock price is high but worth it to you because you think it might make you rich, take into account the probability that the stock will become worthless before you have the chance to sell it. Would it still be worth its price for you?
+
+> That price just keeps going up, and up, and up, until one day, it pops. The price crashing down to reality. And a lot of people lose their money or lose their jobs.
 
 ## What are the conditions for the formation of a bubble?
 
@@ -18,9 +22,11 @@ Mainly uncertainty brought on by a new, exciting technology, especially one that
 
 > AI is new and exciting. And no one really knows how big of a deal it's going to be. There's all this uncertainty.
 
-Robin Greenwood
+Robin Greenwood notes that the optimism in AI-related companies could be misplaced because people don't understand the limits of this technology.
 
 > Precisely because it is hard to figure out what the value of NVIDIA is, many different narratives about what NVIDIA could be can survive in the market.
+
+When enough people misunderstand a technology, it becomes easy to convince a large segment of the population in myths surrounding it. The larger such a segment is, the larger sway their misguided optimism has: on the investment decisions of the broader public, the conventional wisdom surrounding the technology, etc.
 
 > Economists call it a bubble when the delusional narratives have taken over the market.
 
@@ -42,15 +48,15 @@ Is the optimism and confidence in the company's sky-high projections misplaced?
 
 > A really high price to earnings ratio is a sign of optimism about the future.
 
-The NVIDIA stock also exhibits high volatility.
+Another clue we're in a bubble is that the NVIDIA stock also exhibits high volatility.
 
 > That's when you see individual stock prices in an industry just jumping around a lot.
 
-However, not every clue that could point to the formation of a bubble is there with AI.
+However, that's the last argument in favor of the claim that we're in an AI bubble. Other clues are not there. At least, not yet.
 
 > There hasn't been that much new stock issuance. The big companies involved in AI, like Meta, and Microsoft, and Google, they aren't funding their new data centers by selling more shares to investors. They're getting their money in other ways. And also, there aren't that many private AI companies that are going public right now.
 
-There isn't as much of a boom of new companies with AI in their names, not like what it was in the 1990s with the dot-coms springing up everywhere. Also, investment into AI is mostly private, not public, so the stock insurance clue is not there. It's also not clear whether the acceleration clue is there either.
+There isn't as much of a boom of new companies with AI in their names, not like what it was in the 1990s with the dot-coms springing up everywhere. Also, the investment into AI is mostly private, not public, so the stock issuance clue is not there yet. It's also not clear whether the acceleration clue is there either.
 
 > Prices for companies like Meta and Amazon, they are going up. But recently, they have not been going up faster and faster.
 
@@ -58,13 +64,13 @@ An exponential growth in the stock price is the strongest predictor of a bubble 
 
 > The price kind of looks like it's ramping up rather than going up steadily.
 
-So, by these metrics, we're either very early in the bubble formation phase or there's no bubble formation going on at all. However, these metrics are very crude and don't have as much predictive power as one would hope.
+So, by these metrics, we're either very early in the bubble formation phase or there's no bubble at all. However, these metrics are very crude and don't have as much predictive power as one would hope.
 
 > If you look back at all those price spikes in the stock market over the past century, these clues could help you pick out the bubbles, like, maybe 60% of the time.
 
-## Will the burst of the AI bubble bring about a great recession?
+## Will the burst of the AI bubble, if it's real, bring about a great recession?
 
-Not necessarily, AI is mostly funded privately, not publicly. So, it will likely only be a crisis for the investors. 
+Not necessarily, AI is mostly funded privately, not publicly. So, it will likely only be a crisis for the investors.
 
 > AI companies aren't really borrowing directly from banks that much. They're mostly borrowing from investors, like from private credit. So for the moment, at least, even if this AI boom is a bubble, it seems like less of a threat to the backbone of our financial system.
 
@@ -88,6 +94,6 @@ However, as the world noticed that some of this technology was promising, a sudd
 
 > If, somehow, there's a bubble in some high-tech industry, investors will start throwing money at those companies. And the argument is, maybe society will end up with more of the R&D that we need.
 
-So, now there may indeed be an AI renaissance that could bring us some truly exciting technology, or at least something we could find useful at a later time. Much of the infrastructure of fiber-optic cables were a vestige of the dot-com bubble, and we make us of it now to improve our Internet speeds.
+So, now there may indeed be an AI renaissance that could bring us some truly exciting technology, or at least something we could find useful at a later time. Much of the present-day infrastructure of fiber-optic cables are a vestige of the dot-com bubble, and we make use of it now to improve our Internet speeds.
 
 > During the dot-com bubble, there was all this internet hype. So companies spent billions of dollars putting fiber-optic cables into the ground, you know, to transfer people's data. After the dot-com bubble popped, a lot of that fiber just sat there unused. It was called dark fiber. But that didn't turn out to be a total waste of money. Eventually, companies did start using that so-called dark fiber. It arguably catapulted us into the era of broadband. A lot of that fiber is now carrying all the streaming video we're watching these days.
