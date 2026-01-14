@@ -6,7 +6,7 @@ This chapter of [Feynman Lectures on Computation](../../../2025/12/05/Feynman_Le
 
 An adder of two bits takes two inputs, A and B, and outputs bits S (sum) and C (carry). S = A XOR B. C = A AND B. Therefore, an adder of two bits can be constructed with two gates: XOR and AND.
 
-Table 1
+<img width="864" height="402" alt="17683787560473417017218168615847" src="https://github.com/user-attachments/assets/2ac1a3a2-d226-4849-9d30-e8009c06c927" />
 
 <img width="200" alt="17683749971478206496679556961864" src="https://github.com/user-attachments/assets/92323365-ff38-45e6-8e89-368b19d9d2eb" />
 
@@ -66,7 +66,7 @@ With a decoder, we take the binary representation of a memory address (e.g., 101
 
 Suppose conductor Q holds the value of the register: if current flows through Q, then it's 1, otherwise, it's 0. We need a mechanism to set the register value to 1 (set, accomplished by sending current through conductor S) and a mechanism for setting it to 0 (reset, accomplished by sending current through conductor R). So, if S=1, then Q=1, and if R=1, then Q=0.
 
-Table 4
+<img width="864" height="516" alt="17683787825182402948973765240312" src="https://github.com/user-attachments/assets/d2c457b8-0e02-469a-81f3-e55750c66070" />
 
 We can design a logic circuit that satisfies this truth table.
 
