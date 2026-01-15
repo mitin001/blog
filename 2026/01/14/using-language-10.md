@@ -50,8 +50,9 @@ They either make them whole or make excuses, Walster et al. explain.
 
 The justification for the need of what's being requested, the convincing argument that the person fulfilling the request can do so easily and at otherwise low cost to themselves, and the openness to return the favor at a later time.
 
-p.304
-p.305 top
+![17684927697405431952829807057000](https://github.com/user-attachments/assets/64744766-f368-4eaa-8695-be11c00a6b80)
+
+![17684927558851192384978197498429](https://github.com/user-attachments/assets/b4a6741c-dd8c-43a7-b146-6cad2371af0a)
 
 A request to borrow money can fulfill all of these if the payback will come shortly and the requester needs the money urgently.
 
@@ -63,11 +64,11 @@ By including all the necessary parts in the request, the requestor ensures that 
 
 Justifications are especially important. One study has shown significantly higher success rates for those favors that included justifications. 
 
-p.313 bottom
+![17684927246649121820929839987313](https://github.com/user-attachments/assets/e39c04f6-cb35-43c7-aaa8-1f0d68a5191d)
 
 Another study found that giving someone your name in exchange for a favor raised the odds of said favor being granted.
 
-p.313 top
+![17684927373002612592712090493058](https://github.com/user-attachments/assets/27ff3033-eb6d-4cc9-bbe4-a4ad482ebc3e)
 
 Any justification is better than no justification.
 
@@ -91,11 +92,13 @@ Think through all the possible obstacles when deciding on what makes for the gre
 
 > There are many potential obstacles to negotiating a joint purpose.
 
-p.306 mid
+![17684926642398802810456867113254](https://github.com/user-attachments/assets/060a60d4-6323-4227-b477-1fde675c3b68)
 
 Then, formulate a pre-request that checks on the greatest one among these obstacles.
 
-p.307 mid, bottom
+![17684926502105410655272543524393](https://github.com/user-attachments/assets/8960e59b-c81e-42ed-8261-499ff9e3d329)
+
+![17684926370578727445257500989231](https://github.com/user-attachments/assets/83c5982c-62ff-4b09-882a-f596012d1647)
 
 By thinking in terms of the greatest obstacle, you've shown that you've already started overcoming it on your side and that your addressee is only to meet you halfway. Your thoughtful framing is earning you goodwill in the eyes of your addressee.
 
@@ -133,7 +136,7 @@ Even from those from which it could be omitted, it would change the framing of t
 
 Because they anticipate those questions from the assumption that your question had a larger purpose than the one stated explicitly. For example, when a customer asks the store manager whether the store has a certain item, the implication is that the customer wants to buy it, so the manager helps the customer advance faster toward her goal by anticipating the next question (the price of the item) and answering it right away.
 
-p.300 middle
+![17684926869321839365452877359910](https://github.com/user-attachments/assets/780afd56-bd8e-4d43-8d03-0d39deaee3d7)
 
 Conversations take effort, so people want to reduce the effort through efficiency.
 
