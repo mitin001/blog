@@ -1,6 +1,6 @@
 # 2. Computer Organization
 
-This chapter of [Feynman Lectures on Computation](../../../2025/12/05/Feynman_Lectures_on_Computation.md) answer it five questions about the applications of logic circuits.
+This chapter of [Feynman Lectures on Computation](../../../2025/12/05/Feynman_Lectures_on_Computation.md) answered five questions about applications of logic circuits.
 
 ## What does an adder of two numbers look like as a logic circuit? Can it be constructed as a successive application of only one kind logic function on the parameters and their intermediate values, i.e., with many logic gates but all of only one type?
 
