@@ -1,6 +1,6 @@
 # 10. Joint commitment
 
-This chapter of [Using Language](../../../2025/12/14/using-language.md) answered nine questions about the intersection of equity theory and language.
+This chapter of [Using Language](../../../2025/12/14/using-language.md) answered ten questions about the intersection of equity theory and language.
 
 ## Why do people hesitate in accepting gifts or favors, especially those of high value?
 
@@ -38,13 +38,27 @@ They either make them whole or make excuses, Walster et al. explain.
 
 > Exploiters tend to use either justification techniques or compensation techniques to restore equity.
 
-> He can compensate B for the costs of act k. He can punish himself, placing equal costs on himself. He can minimize B’s suffering, convincing himself that what he did was actually equitable. He can blame or derogate B, saying she deserved the harm she incurred. He can even deny having done k. Finally, he can apologize to B.
+The easiest thing to do is to restore equity by imposing an equivalent cost on oneself for the benefit of the other person. However, this option is not always available, and that's when one gets creative.
 
-> Victims, it has been found, are especially motivated to right inequities. B can demand compensation—a benefit to match the cost. B can retaliate, returning the cost to A. When impotent to do either of these, B can justify the inequity other ways. Victims of an injustice, for example, sometimes convince themselves that the exploiter deserved the benefits he got, or that they deserved the harm that was done to them. B can also devalue A’s act—it wasn’t really as costly as it appeared.
+> He can punish himself, placing equal costs on himself. He can minimize B’s suffering, convincing himself that what he did was actually equitable. He can blame or derogate B, saying she deserved the harm she incurred. He can even deny having done k. Finally, he can apologize to B.
+
+If the person who should be restoring the balance of equity is not doing so (at least, not sufficiently, as judged by the person on the other end of the inequity), the other person may also get creative in taking back what they've lost.
+
+> Victims, it has been found, are especially motivated to right inequities. B can demand compensation—a benefit to match the cost. B can retaliate, returning the cost to A. When impotent to do either of these, B can justify the inequity other ways.
+
+## What to do when you lose something that was of great value to you?
+
+When someone takes something of great value to you, it might be comforting to reduce its value, to convince yourself that you haven't suffered as great a loss as it first seemed. It might also be helpful to convince yourself that the person needed it more than you did.
+
+> Victims of an injustice, for example, sometimes convince themselves that the exploiter deserved the benefits he got, or that they deserved the harm that was done to them. B can also devalue A’s act—it wasn’t really as costly as it appeared.
 
 ## How does an apology restore equity?
 
-> Apologies can restore equity in several different ways. They may restore actual equity by humbling A and exalting B. They may explain how much A has already suffered, and so equity has already been restored. They may be attempts to convince B that A’s act was justified. Or they may be attempts to convince B to forgive A since there is no other way to restore equity.
+An apology is a justification for someone behaving inequitably (in the eyes of the other). It could reframe the situation in a way where the perceived inequity is viewed as false inequity: upon hearing an apology, B is to pretend that equity was not balanced before A had imposed a cost on B, and the act that seemed to B to be a violation of equity had actually restored equity.
+
+> They may restore actual equity by humbling A and exalting B. They may explain how much A has already suffered, and so equity has already been restored. They may be attempts to convince B that A’s act was justified. Or they may be attempts to convince B to forgive A since there is no other way to restore equity.
+
+An apology is a signal that one is to accept an inequity and move on.
 
 ## When asking someone for something, what components of the request the requester must not gloss over?
 
