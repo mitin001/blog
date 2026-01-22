@@ -8,4 +8,4 @@ The suffix -pilled means letting something become your whole personality, being 
 
 > Convinced into a lifestyle.
 
-In _redpilled_, _red_ refers to Republican (_blue_ would be Democratic). That is, being redpilled means being convinced to become a Republican.
+In _redpilled_, _red_ refers to Republican (_blue_ would be Democratic). That is, being redpilled means being convinced into the Republican lifestyle.
