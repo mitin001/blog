@@ -1,24 +1,29 @@
 import os
 import time
-import sqlite3
-import librosa
-import numpy as np
-from scipy.ndimage import maximum_filter
-from concurrent.futures import ProcessPoolExecutor, wait, FIRST_COMPLETED
+import struct
+import hashlib
+from dataclasses import dataclass
+from concurrent.futures import ThreadPoolExecutor, wait, FIRST_COMPLETED
 from multiprocessing import cpu_count
 from sys import argv
 
-# ---------------- CONFIG ----------------
+import librosa
+import numpy as np
+from scipy.ndimage import maximum_filter
 
-DB_FILE = argv[1]
+# ---------------- CONFIG ----------------
+# Usage:
+#   python fingerprint_rocksdb.py /path/to/db_dir /path/to/album_dir
+#
+# Example:
+#   python fingerprint_rocksdb.py ./fingerprints.rocks ./music_album
+
+DB_DIR = argv[1]
 ALBUM_DIR = argv[2]
 
 MAX_WORKERS = cpu_count()
-MAX_IN_FLIGHT = MAX_WORKERS * 2
+MAX_IN_FLIGHT = MAX_WORKERS * 4
 FUTURE_TIMEOUT = 300  # seconds per file
-
-# How many successfully-inserted tracks to commit per transaction (tune as needed)
-COMMIT_EVERY = 50
 
 AUDIO_EXTS = (".mp3", ".wav", ".flac", ".ogg", ".m4a", ".aac")
 
@@ -32,165 +37,151 @@ FAN_VALUE = 15
 MIN_DT = 1
 MAX_DT = 200
 
+# RocksDB column families
+CF_TRACKS = "tracks"
+CF_FP = "fp"
+
 # ---------------- AUDIO ----------------
 
-def load_audio(path):
+def load_audio(path: str) -> np.ndarray:
     y, _ = librosa.load(path, sr=SR, mono=True)
     return y
 
-def suppress_vocals(y):
-    """
-    Simple harmonic-percussive separation.
-    Harmonic keeps instrumental structure.
-    """
+def suppress_vocals(y: np.ndarray) -> np.ndarray:
+    """Simple harmonic-percussive separation; harmonic keeps instrumental structure."""
     harmonic, _ = librosa.effects.hpss(y)
     return harmonic
 
-def spectrogram(y):
+def spectrogram(y: np.ndarray) -> np.ndarray:
     S = np.abs(librosa.stft(y, n_fft=FFT_SIZE, hop_length=HOP))
     return librosa.amplitude_to_db(S, ref=np.max)
 
 # ---------------- PEAKS ----------------
 
-def find_peaks(S):
+def find_peaks(S: np.ndarray) -> np.ndarray:
     local_max = maximum_filter(S, size=PEAK_NEIGHBORHOOD)
     peaks = (S == local_max) & (S > AMP_MIN)
     return np.argwhere(peaks)
 
-def generate_hashes(peaks):
+def generate_hashes(peaks: np.ndarray):
+    """
+    Returns list of (fingerprint_u64, t1_int).
+    We pack (f1, f2, dt) into a 64-bit int for compactness.
+    """
     peaks = sorted(peaks, key=lambda x: x[1])
-    hashes = []
+    out = []
 
+    # Typical frequency bins with FFT_SIZE=4096 => ~2049 bins => fits in 12 bits.
+    # dt is bounded to <= 200 => fits in 9 bits.
+    # Pack layout (low bits on the right):
+    #   [ f1:12 | f2:12 | dt:9 ] = 33 bits total
+    # Stored in u64.
     for i in range(len(peaks)):
-        f1, t1 = peaks[i]
+        f1, t1 = int(peaks[i][0]), int(peaks[i][1])
         for j in range(1, FAN_VALUE):
             if i + j >= len(peaks):
                 break
-
-            f2, t2 = peaks[i + j]
+            f2, t2 = int(peaks[i + j][0]), int(peaks[i + j][1])
             dt = t2 - t1
-
             if MIN_DT <= dt <= MAX_DT:
-                h = f"{f1}|{f2}|{dt}"
-                hashes.append((h, int(t1)))
+                fp = ((f1 & 0xFFF) << (12 + 9)) | ((f2 & 0xFFF) << 9) | (dt & 0x1FF)
+                out.append((fp, t1))
+    return out
 
-    return hashes
+# ---------------- ROCKSDB (rocksdict) ----------------
 
-# ---------------- DATABASE ----------------
+def stable_track_id_u64(track_name: str) -> int:
+    """
+    Stable 64-bit track id derived from name.
+    Avoids needing a global autoincrement counter under concurrency.
+    Collision probability is negligible for typical libraries.
+    """
+    h = hashlib.blake2b(track_name.encode("utf-8"), digest_size=8).digest()
+    return struct.unpack(">Q", h)[0]
 
-def init_db(db_file):
-    conn = sqlite3.connect(db_file)
-    cur = conn.cursor()
+def u64be(x: int) -> bytes:
+    return struct.pack(">Q", x)
 
-    cur.execute("""
-        CREATE TABLE IF NOT EXISTS tracks (
-            id INTEGER PRIMARY KEY AUTOINCREMENT,
-            name TEXT UNIQUE
-        )
-    """)
+def u32be(x: int) -> bytes:
+    return struct.pack(">I", x)
 
-    cur.execute("""
-        CREATE TABLE IF NOT EXISTS fingerprints (
-            hash TEXT,
-            track_id INTEGER,
-            time INTEGER,
-            FOREIGN KEY(track_id) REFERENCES tracks(id)
-        )
-    """)
+def track_key(track_name: str) -> bytes:
+    return b"n:" + track_name.encode("utf-8")
 
-    cur.execute("CREATE INDEX IF NOT EXISTS idx_hash ON fingerprints(hash)")
-    cur.execute("CREATE INDEX IF NOT EXISTS idx_track ON fingerprints(track_id)")
+def fp_key(fp_u64: int, track_id_u64: int, t1: int) -> bytes:
+    # Prefix is fp_u64 (8 bytes) => efficient prefix scans by fingerprint.
+    return u64be(fp_u64) + u64be(track_id_u64) + u32be(t1)
 
-    conn.commit()
-    conn.close()
+@dataclass(frozen=True)
+class FingerprintResult:
+    track_name: str
+    track_id_u64: int
+    fps: list[tuple[int, int]]  # (fp_u64, t1)
+    err: str | None
 
-def open_db(db_file: str) -> sqlite3.Connection:
-    # Single writer connection (main process). Workers should NOT open SQLite.
-    conn = sqlite3.connect(db_file, timeout=30)
-    conn.execute("PRAGMA journal_mode=WAL")
-    # We only require the DB to be consistent at the end (or Ctrl+C), so favor speed.
-    # If you prefer more durability, change to NORMAL.
-    conn.execute("PRAGMA synchronous=OFF")
-    conn.execute("PRAGMA wal_autocheckpoint=1000")
-    conn.execute("PRAGMA temp_store=MEMORY")
-    # Negative cache_size = KB. Adjust to your RAM budget.
-    conn.execute("PRAGMA cache_size=-200000")  # ~200MB
-    return conn
+def open_rocks(db_dir: str):
+    """
+    Opens RocksDB with two column families using rocksdict in raw (bytes-only) mode.
+    """
+    from rocksdict import Rdict, Options
 
+    os.makedirs(db_dir, exist_ok=True)
 
-def checkpoint_db(db_file: str, mode: str = "PASSIVE") -> None:
-    conn = sqlite3.connect(db_file)
-    conn.execute(f"PRAGMA wal_checkpoint({mode})")
-    conn.close()
+    opt = Options(raw_mode=True)
+    opt.create_if_missing(True)
+    opt.create_missing_column_families(True)
+    # Let RocksDB use more background threads (compaction/flush).
+    # (You can tune this further if you want.)
+    try:
+        opt.set_max_background_jobs(max(4, os.cpu_count() or 4))
+    except Exception:
+        pass
 
+    # Column family options
+    cf_tracks_opt = Options()
+    cf_fp_opt = Options()
+    # fp keys begin with an 8-byte fingerprint prefix
+    try:
+        from rocksdict import SliceTransform
+        cf_fp_opt.set_prefix_extractor(SliceTransform.create_max_len_prefix(8))
+    except Exception:
+        pass
 
-def create_indexes(db_file: str) -> None:
-    conn = sqlite3.connect(db_file)
-    cur = conn.cursor()
+    cfs = {CF_TRACKS: cf_tracks_opt, CF_FP: cf_fp_opt}
 
-    cur.execute(
-        "CREATE INDEX IF NOT EXISTS idx_fingerprints_hash "
-        "ON fingerprints(hash)"
-    )
-    cur.execute(
-        "CREATE INDEX IF NOT EXISTS idx_fingerprints_track "
-        "ON fingerprints(track_id)"
-    )
-    cur.execute(
-        "CREATE UNIQUE INDEX IF NOT EXISTS idx_tracks_name "
-        "ON tracks(name)"
-    )
+    db = Rdict(db_dir, options=opt, column_families=cfs)
+    cf_tracks = db.get_column_family(CF_TRACKS)
+    cf_fp = db.get_column_family(CF_FP)
+    return db, cf_tracks, cf_fp
 
-    conn.commit()
-    conn.close()
-
-
-def load_existing_track_names(conn: sqlite3.Connection) -> set[str]:
-    """Snapshot of existing track names at script start."""
-    cur = conn.cursor()
-    cur.execute("SELECT name FROM tracks")
-    return {row[0] for row in cur.fetchall()}
-
-
-def insert_track_and_hashes(conn: sqlite3.Connection, track_name: str, hashes) -> int:
-    """Insert one track + its fingerprints (single-writer). Returns number of hashes inserted."""
-    cur = conn.cursor()
-
-    # Safe if the track already exists (unique index on tracks.name).
-    cur.execute(
-        "INSERT INTO tracks(name) VALUES (?) "
-        "ON CONFLICT(name) DO NOTHING",
-        (track_name,),
-    )
-
-    cur.execute("SELECT id FROM tracks WHERE name=?", (track_name,))
-    row = cur.fetchone()
-    if row is None:
-        raise RuntimeError(f"Could not resolve track id for {track_name}")
-    track_id = row[0]
-
-    cur.executemany(
-        "INSERT INTO fingerprints VALUES (?, ?, ?)",
-        ((h, track_id, t) for (h, t) in hashes),
-    )
-    return len(hashes)
-
+def load_existing_track_names(cf_tracks) -> set[str]:
+    """
+    Snapshot existing track names by scanning keys with prefix b"n:".
+    """
+    existing = set()
+    prefix = b"n:"
+    # rocksdict iterates keys in order; filter by prefix
+    for k in cf_tracks.keys():
+        if isinstance(k, memoryview):
+            k = k.tobytes()
+        if not k.startswith(prefix):
+            continue
+        existing.add(k[len(prefix):].decode("utf-8", errors="replace"))
+    return existing
 
 # ---------------- WORKER ----------------
 
-def fingerprint_worker(args):
-    """CPU-only fingerprinting. No SQLite access to avoid lock contention."""
-    path, track_name = args
+def fingerprint_worker(path: str, track_name: str) -> FingerprintResult:
     try:
         y = load_audio(path)
         y = suppress_vocals(y)
         S = spectrogram(y)
         peaks = find_peaks(S)
-        hashes = generate_hashes(peaks)
-        return track_name, hashes, None
+        fps = generate_hashes(peaks)
+        tid = stable_track_id_u64(track_name)
+        return FingerprintResult(track_name=track_name, track_id_u64=tid, fps=fps, err=None)
     except Exception as e:
-        return track_name, None, str(e)
-
+        return FingerprintResult(track_name=track_name, track_id_u64=0, fps=[], err=str(e))
 
 # ---------------- FILE COLLECTION ----------------
 
@@ -212,15 +203,34 @@ def collect_audio_files(root: str):
 
     return files
 
-
 # ---------------- INDEXING ----------------
 
-def index_album() -> None:
-    # Single-writer connection in the main process
-    conn = open_db(DB_FILE)
+def insert_track_and_fps(db, cf_tracks, cf_fp, res: FingerprintResult) -> int:
+    """
+    One atomic write batch:
+      - track name -> track_id
+      - all fp postings as keys with empty values
+    """
+    from rocksdict import WriteBatch
 
-    existing = load_existing_track_names(conn)
-    # Prevent duplicate scheduling within this run
+    wb = WriteBatch(raw_mode=True)
+
+    # 1) track mapping (id is stable, so overwriting is OK)
+    wb.put(track_key(res.track_name), u64be(res.track_id_u64), db.get_column_family_handle(CF_TRACKS))
+
+    # 2) fingerprints
+    cf_handle_fp = db.get_column_family_handle(CF_FP)
+    empty = b""
+    for fp_u64, t1 in res.fps:
+        wb.put(fp_key(fp_u64, res.track_id_u64, t1), empty, cf_handle_fp)
+
+    db.write(wb)
+    return len(res.fps)
+
+def index_album() -> None:
+    db, cf_tracks, cf_fp = open_rocks(DB_DIR)
+
+    existing = load_existing_track_names(cf_tracks)
     scheduled_or_done = set(existing)
 
     files = collect_audio_files(ALBUM_DIR)
@@ -231,13 +241,13 @@ def index_album() -> None:
     completed = 0
     skipped = 0
     failed = 0
-    inserted = 0
 
     files_iter = iter(files)
 
-    with ProcessPoolExecutor(max_workers=MAX_WORKERS) as pool:
-        # Batched inserts: one transaction spanning many tracks
-        conn.execute("BEGIN")
+    # Threaded approach:
+    # - librosa/numpy/scipy do lots in native code (often releasing the GIL)
+    # - RocksDB supports concurrent writes from multiple threads when each has its own WriteBatch
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as pool:
         try:
             while True:
                 while len(pending) < MAX_IN_FLIGHT:
@@ -252,7 +262,7 @@ def index_album() -> None:
                         continue
 
                     scheduled_or_done.add(name)
-                    pending.add(pool.submit(fingerprint_worker, (path, name)))
+                    pending.add(pool.submit(fingerprint_worker, path, name))
 
                 if not pending:
                     break
@@ -261,51 +271,38 @@ def index_album() -> None:
 
                 for fut in done:
                     try:
-                        track, hashes, err = fut.result(timeout=FUTURE_TIMEOUT)
+                        res = fut.result(timeout=FUTURE_TIMEOUT)
                     except Exception as e:
                         failed += 1
-                        print(f"[HARD FAIL] {e}")
                         completed += 1
+                        print(f"[HARD FAIL] {e}")
                         continue
 
                     completed += 1
 
-                    if err:
+                    if res.err:
                         failed += 1
-                        print(f"[ERROR] {track}: {err}")
+                        print(f"[ERROR] {res.track_name}: {res.err}")
                         continue
 
                     try:
-                        count = insert_track_and_hashes(conn, track, hashes)
-                        inserted += 1
+                        count = insert_track_and_fps(db, cf_tracks, cf_fp, res)
+                        print(f"[OK] {res.track_name} — {count} hashes ({completed}/{total})")
                     except Exception as e:
                         failed += 1
-                        print(f"[DB ERROR] {track}: {e}")
-                        continue
-
-                    print(f"[OK] {track} — {count} hashes ({completed}/{total})")
-
-                    if inserted and (inserted % COMMIT_EVERY == 0):
-                        conn.commit()
-                        conn.execute("BEGIN")
+                        print(f"[DB ERROR] {res.track_name}: {e}")
 
         except KeyboardInterrupt:
-            print("\nCtrl+C — finalizing DB (commit + checkpoint)...")
-            pool.shutdown(wait=False, cancel_futures=True)
-            try:
-                conn.commit()
-            finally:
-                checkpoint_db(DB_FILE, mode="TRUNCATE")
-                conn.close()
+            print("\nCtrl+C — closing DB...")
+            # Let threads wind down; RocksDB will flush on close.
             raise
         finally:
             try:
-                conn.commit()
+                cf_fp.close()
+                cf_tracks.close()
+                db.close()
             except Exception:
                 pass
-            conn.close()
-
-    checkpoint_db(DB_FILE, mode="TRUNCATE")
 
     print(
         f"\nDone.\n"
@@ -315,25 +312,13 @@ def index_album() -> None:
         f"Total:     {total}"
     )
 
-
 # ---------------- MAIN ----------------
 
 def main():
-    db_existed = os.path.exists(DB_FILE)
-
-    init_db(DB_FILE)
-
-    print("Building fingerprint database...")
+    print("Building fingerprint database (RocksDB)...")
     start = time.time()
     index_album()
-
-    # For a new DB, build indexes AFTER bulk insert (much faster ingest).
-    if not db_existed:
-        print("New database detected — creating indexes (post-ingest)...")
-        create_indexes(DB_FILE)
-
     print(f"Finished in {time.time() - start:.1f}s")
-
 
 if __name__ == "__main__":
     main()
