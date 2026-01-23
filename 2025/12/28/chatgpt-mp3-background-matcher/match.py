@@ -1,317 +1,184 @@
-from __future__ import annotations
+#!/usr/bin/env python3
+"""
+matcher_rocksdb_parallel_threads.py
+
+Parallel audio fingerprint matcher for a RocksDB (.rocks) fingerprint database.
+Uses THREADS (not processes) to safely utilize all CPU cores without DB locks.
+
+Usage:
+  python match.py <db_dir> <query_file_or_dir>
+"""
 
 import os
+import sys
 import struct
-from sys import argv
-from typing import Dict, Iterable, Iterator, Tuple
+from collections import Counter
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from multiprocessing import cpu_count
 
-from fingerprint import (
-    load_audio,
-    suppress_vocals,
-    spectrogram,
-    find_peaks,
-    generate_hashes,
-    HOP,
-    SR,
-)
+import librosa
+import numpy as np
+from scipy.ndimage import maximum_filter
+from rocksdict import Rdict, Options
 
 # ---------------- CONFIG ----------------
-# Usage:
-#   python matcher_rocksdb.py /path/to/fingerprints.rocks /path/to/query_audio_or_dir
-#
-# Example:
-#   python matcher_rocksdb.py ./fingerprints.rocks ./query.wav
-#   python matcher_rocksdb.py ./fingerprints.rocks ./queries_dir/
 
-DB_DIR = argv[1]
-QUERY_PATH = argv[2]
-CONFIDENCE_THRESHOLD = 50
+AUDIO_EXTS = (".mp3", ".wav", ".flac", ".ogg", ".m4a", ".aac")
+
+SR = 22050
+FFT_SIZE = 4096
+HOP = 512
+
+PEAK_NEIGHBORHOOD = 20
+AMP_MIN = -35
+FAN_VALUE = 15
+MIN_DT = 1
+MAX_DT = 200
 
 CF_TRACKS = "tracks"
 CF_FP = "fp"
 
-AUDIO_EXTS = (".mp3", ".wav", ".flac", ".ogg", ".m4a", ".aac")
+# ---------------- AUDIO / FINGERPRINT ----------------
 
-# ---------------- FINGERPRINT ----------------
+def load_audio(path: str) -> np.ndarray:
+    y, _ = librosa.load(path, sr=SR, mono=True)
+    return y
 
-def fingerprint(path: str):
-    y = load_audio(path)
-    y = suppress_vocals(y)
-    S = spectrogram(y)
-    peaks = find_peaks(S)
-    return generate_hashes(peaks)
+def spectrogram(y: np.ndarray) -> np.ndarray:
+    S = np.abs(librosa.stft(y, n_fft=FFT_SIZE, hop_length=HOP))
+    return librosa.amplitude_to_db(S, ref=np.max)
 
-# ---------------- ROCKSDB HELPERS ----------------
+def find_peaks(S: np.ndarray) -> np.ndarray:
+    local_max = maximum_filter(S, size=PEAK_NEIGHBORHOOD)
+    return np.argwhere((S == local_max) & (S > AMP_MIN))
 
-def _to_bytes(x) -> bytes:
-    if isinstance(x, bytes):
-        return x
-    if isinstance(x, memoryview):
-        return x.tobytes()
-    return bytes(x)
+def generate_hashes(peaks: np.ndarray):
+    peaks = sorted(peaks, key=lambda x: x[1])
+    out = []
+    for i in range(len(peaks)):
+        f1, t1 = int(peaks[i][0]), int(peaks[i][1])
+        for j in range(1, FAN_VALUE):
+            if i + j >= len(peaks):
+                break
+            f2, t2 = int(peaks[i + j][0]), int(peaks[i + j][1])
+            dt = t2 - t1
+            if MIN_DT <= dt <= MAX_DT:
+                fp = ((f1 & 0xFFF) << (12 + 9)) | ((f2 & 0xFFF) << 9) | (dt & 0x1FF)
+                out.append((fp, t1))
+    return out
+
+# ---------------- DB / FILE HELPERS ----------------
 
 def u64be(x: int) -> bytes:
     return struct.pack(">Q", x)
 
-def open_rocks(db_dir: str):
-    """
-    Open an existing RocksDB database created by the fingerprinting script.
-
-    Requires:
-      pip install rocksdict
-    """
-    try:
-        from rocksdict import Rdict, Options
-    except Exception as e:
-        raise SystemExit(
-            "Missing dependency 'rocksdict'. Install with:\n"
-            "  pip install rocksdict\n\n"
-            f"Original import error: {e}"
-        )
-
-    if not os.path.isdir(db_dir):
-        raise SystemExit(f"DB path does not exist or is not a directory: {db_dir}")
-
-    opt = Options(raw_mode=True)
-    # Do not silently create a new empty DB by accident.
-    try:
-        opt.create_if_missing(False)
-    except Exception:
-        pass
-
-    # Open with the two expected column families.
-    # If the DB was created with these CF names, this will succeed.
-    db = Rdict(db_dir, options=opt, column_families={CF_TRACKS: Options(), CF_FP: Options()})
-    cf_tracks = db.get_column_family(CF_TRACKS)
-    cf_fp = db.get_column_family(CF_FP)
-    return db, cf_tracks, cf_fp
-
-def iter_prefix(cf, prefix: bytes) -> Iterator[Tuple[bytes, bytes]]:
-    """
-    Yield (key, value) for all records whose key starts with prefix.
-    Tries efficient seek-based iteration first; falls back to full scan if needed.
-    """
-    # Fast path: seek iteration (API varies by rocksdict version).
-    for method_name in ("iter", "iterator", "items"):
-        it = getattr(cf, method_name, None)
-        if it is None:
-            continue
-
-        # Try range iteration forms
-        for kwargs in (
-                {"from_key": prefix},
-                {"start": prefix},
-                {"seek": prefix},
-                {},
-        ):
-            try:
-                obj = it(**kwargs)  # type: ignore[misc]
-            except TypeError:
-                continue
-            except Exception:
-                continue
-
-            try:
-                for k, v in obj:
-                    k = _to_bytes(k)
-                    if not k.startswith(prefix):
-                        break
-                    yield k, _to_bytes(v)
-                return
-            except Exception:
-                # If the iterator object isn't an iterator of pairs, keep trying.
-                pass
-
-    # Slow fallback: full scan
-    try:
-        for k, v in cf.items():  # type: ignore[attr-defined]
-            k = _to_bytes(k)
-            if k.startswith(prefix):
-                yield k, _to_bytes(v)
-    except Exception:
-        # Last resort: keys() then get()
-        for k in cf.keys():  # type: ignore[attr-defined]
-            kb = _to_bytes(k)
-            if kb.startswith(prefix):
-                yield kb, _to_bytes(cf.get(k))  # type: ignore[attr-defined]
-
-def load_id_to_name(cf_tracks) -> Dict[int, str]:
-    """
-    Build reverse mapping {track_id_u64: track_name} by scanning tracks CF.
-    The fingerprinting DB stores name->id under keys: b"n:" + utf8(name)
-    """
-    prefix = b"n:"
-    out: Dict[int, str] = {}
-    try:
-        for k, v in iter_prefix(cf_tracks, prefix):
-            name = k[len(prefix):].decode("utf-8", errors="replace")
-            if len(v) == 8:
-                tid = struct.unpack(">Q", v)[0]
-                out[tid] = name
-    except Exception as e:
-        raise SystemExit(f"Failed to read tracks column family: {e}")
+def collect_audio_files(path: str):
+    if os.path.isfile(path):
+        return [path]
+    out = []
+    for root, _, files in os.walk(path):
+        for f in files:
+            if f.lower().endswith(AUDIO_EXTS):
+                out.append(os.path.join(root, f))
     return out
 
+def load_track_map(cf_tracks) -> dict[int, str]:
+    """
+    tracks CF layout: key=b"n:"+track_name_utf8, value=track_id_u64 (big-endian)
+    """
+    mapping: dict[int, str] = {}
+    for k, v in cf_tracks.items():
+        if isinstance(k, memoryview):
+            k = k.tobytes()
+        if isinstance(v, memoryview):
+            v = v.tobytes()
+        if k.startswith(b"n:") and len(v) == 8:
+            track_id = struct.unpack(">Q", v)[0]
+            mapping[track_id] = k[2:].decode("utf-8", "replace")
+    return mapping
+
+def iter_keys_with_prefix(cf, prefix: bytes):
+    """
+    Iterate keys in `cf` starting at `prefix` and stop once keys no longer match the prefix.
+
+    rocksdict supports:
+      - cf.keys(from_key=...)
+      - cf.items(from_key=...)
+
+    We use keys() to avoid decoding values.
+    """
+    for k in cf.keys(from_key=prefix):
+        if isinstance(k, memoryview):
+            k = k.tobytes()
+        # Stop as soon as the ordered keyspace exits the prefix region.
+        if not k.startswith(prefix):
+            break
+        yield k
 
 # ---------------- MATCHING ----------------
 
-def parse_fp_key(k: bytes) -> Tuple[int, int, int]:
+def match_one(path: str, cf_fp, track_map: dict[int, str]):
     """
-    Key layout:
-      fp_u64(8) + track_id_u64(8) + t_db(4)
+    fp CF layout:
+      key = fp_u64(8) + track_id_u64(8) + t1_u32(4)
+      value = b""
+    We scan by fp_u64 prefix and vote on (track_id, delta).
     """
-    if len(k) < 20:
-        raise ValueError(f"Unexpected fp key length: {len(k)}")
-    fp = struct.unpack(">Q", k[0:8])[0]
-    tid = struct.unpack(">Q", k[8:16])[0]
-    t_db = struct.unpack(">I", k[16:20])[0]
-    return fp, tid, t_db
+    y = load_audio(path)
+    S = spectrogram(y)
+    peaks = find_peaks(S)
+    fps = generate_hashes(peaks)
 
-def match_hashes(cf_fp, id_to_name: Dict[int, str], query_hashes):
-    """
-    Match a single query's hashes against the RocksDB fp column family.
-    Returns (track_name, score, best_offset_frames).
-    """
-    offset_counts: Dict[Tuple[int, int], int] = {}
+    votes = Counter()
 
-    for h, t_query in query_hashes:
-        # Expect int fingerprints (packed u64). If not, attempt best-effort conversion.
-        if isinstance(h, (bytes, bytearray, memoryview)):
-            hb = _to_bytes(h)
-            if len(hb) == 8:
-                fp_prefix = hb
-            else:
-                fp_prefix = struct.pack(">Q", (hash(hb) & ((1 << 64) - 1)))
-        else:
-            fp_prefix = u64be(int(h))
+    for fp_u64, t_query in fps:
+        prefix = u64be(fp_u64)
+        for k in iter_keys_with_prefix(cf_fp, prefix):
+            track_id = struct.unpack(">Q", k[8:16])[0]
+            t_db = struct.unpack(">I", k[16:20])[0]
+            votes[(track_id, t_db - t_query)] += 1
 
-        for k, _v in iter_prefix(cf_fp, fp_prefix):
-            try:
-                _fp, track_id, t_db = parse_fp_key(k)
-            except Exception:
-                continue
+    if not votes:
+        return path, None, 0
 
-            offset = int(t_db) - int(t_query)
-            key = (track_id, offset)
-            offset_counts[key] = offset_counts.get(key, 0) + 1
-
-    if not offset_counts:
-        return None, 0, None
-
-    (track_id, best_offset), score = max(offset_counts.items(), key=lambda x: x[1])
-    track_name = id_to_name.get(track_id, f"<unknown track id {track_id}>")
-
-    return track_name, score, best_offset
-
-def collect_audio_files(path: str) -> list[tuple[str, str]]:
-    """
-    Returns list of (full_path, display_name). If path is a file, list has one item.
-    If path is a directory, recurse and collect supported audio extensions.
-    """
-    if os.path.isfile(path):
-        if path.lower().endswith(AUDIO_EXTS):
-            return [(path, os.path.basename(path))]
-        return []
-
-    out: list[tuple[str, str]] = []
-    for dirpath, _, filenames in os.walk(path):
-        for f in filenames:
-            if not f.lower().endswith(AUDIO_EXTS):
-                continue
-            full = os.path.join(dirpath, f)
-            rel = os.path.relpath(full, path)
-            out.append((full, rel))
-    return sorted(out, key=lambda x: x[1])
-
-# ---------------- MM:SS HELPER ----------------
-
-def format_mmss(seconds: float) -> str:
-    minutes = int(seconds) // 60
-    secs = int(seconds) % 60
-    return f"{minutes}:{secs:02d}"
+    (track_id, _delta), score = votes.most_common(1)[0]
+    return path, track_map.get(track_id, "<unknown>"), score
 
 # ---------------- MAIN ----------------
 
-
 def main():
-    print("Opening RocksDB...")
-    db, cf_tracks, cf_fp = open_rocks(DB_DIR)
-    try:
-        id_to_name = load_id_to_name(cf_tracks)
+    if len(sys.argv) != 3:
+        print("Usage: match.py <db_dir> <query_file_or_dir>")
+        sys.exit(1)
 
-        if os.path.isdir(QUERY_PATH):
-            files = collect_audio_files(QUERY_PATH)
-            if not files:
-                raise SystemExit(f"No supported audio files found under: {QUERY_PATH}")
+    db_dir, query_path = sys.argv[1], sys.argv[2]
 
-            print(f"Found {len(files)} query files under directory.")
-            high = 0
+    # IMPORTANT: raw_mode=True because our .rocks DB stores bytes keys/values.
+    opts = Options(raw_mode=True)
 
-            for full, rel in files:
-                print("\n" + "=" * 60)
-                print(f"QUERY: {rel}")
-                try:
-                    q_hashes = fingerprint(full)
-                except Exception as e:
-                    print(f"[ERROR] Failed to fingerprint {rel}: {e}")
-                    continue
+    # Open DB with explicit column families.
+    # (If your DB was created externally, newer rocksdict versions can auto-load CFs;
+    # but this explicit form works reliably for DBs created with our indexer.)
+    db = Rdict(db_dir, options=opts, column_families={CF_TRACKS: Options(), CF_FP: Options()})
+    cf_tracks = db.get_column_family(CF_TRACKS)
+    cf_fp = db.get_column_family(CF_FP)
 
-                track, score, offset = match_hashes(cf_fp, id_to_name, q_hashes)
+    track_map = load_track_map(cf_tracks)
+    files = collect_audio_files(query_path)
 
-                if offset is not None:
-                    match_time_sec = offset * HOP / SR
-                else:
-                    match_time_sec = None
+    workers = cpu_count()
+    print(f"Matching {len(files)} files using {workers} threads...")
 
-                print("RESULT")
-                print("Track:", track)
-                print("Score:", score)
-
-                if match_time_sec is not None:
-                    mmss = format_mmss(match_time_sec)
-                    print(f"Match time: {mmss}")
-                    print('mpv "%s" --start=%s' % (track, mmss))
-
-                if score >= CONFIDENCE_THRESHOLD:
-                    print("Confidence: HIGH ✅")
-                    high += 1
-                else:
-                    print("Confidence: LOW ⚠️")
-
-            print("\n" + "-" * 60)
-            print(f"High-confidence matches: {high}/{len(files)}")
-        else:
-            print("Fingerprinting query...")
-            query_hashes = fingerprint(QUERY_PATH)
-
-            print("Matching (RocksDB)...")
-            track, score, offset = match_hashes(cf_fp, id_to_name, query_hashes)
-
-            if offset is not None:
-                match_time_sec = offset * HOP / SR
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        futures = [pool.submit(match_one, f, cf_fp, track_map) for f in files]
+        for fut in as_completed(futures):
+            path, match, score = fut.result()
+            if match:
+                print(f"[MATCH] {path} -> {match} ({score})")
             else:
-                match_time_sec = None
+                print(f"[NO MATCH] {path}")
 
-            print("RESULT")
-            print("Track:", track)
-            print("Score:", score)
-
-            if match_time_sec is not None:
-                mmss = format_mmss(match_time_sec)
-                print(f"Match time: {mmss}")
-                print('mpv "%s" --start=%s' % (track, mmss))
-
-            if score >= CONFIDENCE_THRESHOLD:
-                print("Confidence: HIGH ✅")
-            else:
-                print("Confidence: LOW ⚠️")
-    finally:
-        try:
-            cf_fp.close()
-            cf_tracks.close()
-            db.close()
-        except Exception:
-            pass
+    db.close()
 
 if __name__ == "__main__":
     main()
