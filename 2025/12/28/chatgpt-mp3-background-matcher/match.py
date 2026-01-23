@@ -187,7 +187,7 @@ def main():
         for fut in as_completed(futures):
             path, match, score, offset = fut.result()
             if match:
-                print(f"[MATCH] {path} -> {match} @ {offset} ({score})")
+                print(f"[MATCH] ({score}) {path} -> {match} @ {offset}")
                 print('mpv "%s" --start=%s' % (match, offset))
                 if score >= CONFIDENCE_THRESHOLD:
                     print("Confidence: HIGH ✅")
