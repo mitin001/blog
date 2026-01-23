@@ -1,6 +1,6 @@
 import sqlite3
 from sys import argv
-from base import load_audio, suppress_vocals, spectrogram, find_peaks, generate_hashes, init_db, HOP, SR
+from fingerprint import load_audio, suppress_vocals, spectrogram, find_peaks, generate_hashes, init_db, HOP, SR
 
 # ---------------- CONFIG ----------------
 
