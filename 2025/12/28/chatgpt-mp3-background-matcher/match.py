@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-matcher_rocksdb_parallel_threads.py
+match.py
 
 Parallel audio fingerprint matcher for a RocksDB (.rocks) fingerprint database.
 Uses THREADS (not processes) to safely utilize all CPU cores without DB locks.
@@ -34,6 +34,7 @@ AMP_MIN = -35
 FAN_VALUE = 15
 MIN_DT = 1
 MAX_DT = 200
+CONFIDENCE_THRESHOLD = 50
 
 CF_TRACKS = "tracks"
 CF_FP = "fp"
@@ -117,6 +118,15 @@ def iter_keys_with_prefix(cf, prefix: bytes):
 
 # ---------------- MATCHING ----------------
 
+def format_offset_mmss(seconds: float) -> str:
+    """Format an offset in seconds as [+/-]mm:ss."""
+    sign = "-" if seconds < 0 else ""
+    total = int(round(abs(seconds)))
+    mm = total // 60
+    ss = total % 60
+    return f"{sign}{mm:02d}:{ss:02d}"
+
+
 def match_one(path: str, cf_fp, track_map: dict[int, str]):
     """
     fp CF layout:
@@ -139,10 +149,13 @@ def match_one(path: str, cf_fp, track_map: dict[int, str]):
             votes[(track_id, t_db - t_query)] += 1
 
     if not votes:
-        return path, None, 0
+        return path, None, 0, None
 
-    (track_id, _delta), score = votes.most_common(1)[0]
-    return path, track_map.get(track_id, "<unknown>"), score
+    (track_id, delta), score = votes.most_common(1)[0]
+    # delta is in spectrogram frames; convert to seconds using hop length and sample rate.
+    offset_seconds = (delta * HOP) / SR
+    offset_mmss = format_offset_mmss(offset_seconds)
+    return path, track_map.get(track_id, "<unknown>"), score, offset_mmss
 
 # ---------------- MAIN ----------------
 
@@ -172,9 +185,14 @@ def main():
     with ThreadPoolExecutor(max_workers=workers) as pool:
         futures = [pool.submit(match_one, f, cf_fp, track_map) for f in files]
         for fut in as_completed(futures):
-            path, match, score = fut.result()
+            path, match, score, offset = fut.result()
             if match:
-                print(f"[MATCH] {path} -> {match} ({score})")
+                print(f"[MATCH] {path} -> {match} @ {offset} ({score})")
+                print('mpv "%s" --start=%s' % (match, offset))
+                if score >= CONFIDENCE_THRESHOLD:
+                    print("Confidence: HIGH ✅")
+                else:
+                    print("Confidence: LOW ⚠️")
             else:
                 print(f"[NO MATCH] {path}")
 
