@@ -1,0 +1,13 @@
+# [The Beauty Episode 2 Recap](https://decider.com/2026/01/22/the-beauty-episode-2-recap/)
+
+My new year's resolution for 2026 was resistance to morbid curiosity, but of course I haven't made it past the first month. Ryan Murphy's _The Beauty_ premiered in January. I swore not to watch anything that I knew would disturb me, but I couldn't resist my curiosity. The more I learned about it, the more I knew it was a bad idea to give it any more thought, the more curious I was getting. _The Beauty_ is a gruesomely gory spectacle full of sex. Both of these things disturb me. But Ryan Murphy is a genius. His work is highly polarizing, and yet, it grabs the attention of the masses. I can understand this hate-watch duality the world is feeling. I am very much polarized by his work myself, and yet, I can't help myself from taking a peek at it. How do I heal that part of my soul that gets so unsettled by seeing sex and violence on the screen? Ryan Murphy's work is so unhinged when it comes to these two themes that it might just answer this question for me some day. But that day is not today because today a Decider piece responding to a small part of his work answered a question about the conflict between sex and religion.
+
+## Why are some religions so anti-sex?
+
+Because they fear that sex could distract people from their religion. We fear that sex can be better than religion.
+
+> It offers both transcendence and grounding, the way religion is supposed to do.
+
+A properly sexed individual could feel so content in their life that they wouldn't need religion. So cue in morality tales about how one's body is no substitute for one's soul. Choose the pleasures of the flesh, and you will pass up on the pleasures of the soul (which are supposed to be taking place in the afterlife). It takes some heavy emotional blackmail to convince a human being to denounce something so intrinsic to their biology as the desire for sex, but religion has seen some success in this. Religion would have us believe that we must not seek the meaning of life for ourselves but instead rely on religion to tell us what it is. This is how religion can wield its power and influence over the populace. Those of us who haven't bought into the authority of religion on the matters of the soul have realized that the meaning of life can be sought in other people. We must not be afraid to bare our souls to one another, and, whatever religion may say about this, there's no shame in baring our bodies to one another either. One can be a gateway to the other, as we often see in some of our favorite protagonists. 
+
+> Even if they’ve only bared their bodies to one another before, they’re baring their souls now.
