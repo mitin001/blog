@@ -1,6 +1,6 @@
 # [Post-Truth Politics](https://www.niskanencenter.org/authoritarianism-post-truth-politics/)
 
-This article was referenced by [an article on totalitarian propaganda tactics](https://www.openculture.com/2017/01/hannah-arendt-explains-how-propaganda-uses-lies-to-erode-all-truth-morality.html), which, in turn, was referenced by [an article on resilience to misinformation](../../../2025/11/03/edsurge-recalibrating-our-approach-to-misinformation.md). It answered three questions about bullshitters.
+This article was referenced by [an article on totalitarian propaganda tactics](../../../2026/01/30/openculture-hannah-arendt-explains-how-propaganda-uses-lies-to-erode-all-truth-morality.md). It answered three questions about bullshitters.
 
 ## What is the difference between a liar and a bullshitter?
 
@@ -18,7 +18,7 @@ Now we expect everyone to be talking themselves up to a sickening degree, and we
 
 ## Why does Trump lie about trivial, verifiable things like his crowd sizes?
 
-Because that's his litmus test for who will defend him no matter what he does. That's how he identifies enablers.
+Because that's his litmus test for who will defend him, no matter what he does. That's how he identifies enablers.
 
 > A leader with authoritarian tendencies will lie in order to make others repeat his lie both as a way to demonstrate and strengthen his power over them. Saying something obviously untrue, and making your subordinates repeat it with a straight face in their own voice, is a particularly startling display of power over them.
 
