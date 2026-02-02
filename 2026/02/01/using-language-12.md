@@ -1,6 +1,6 @@
 # 12. Layering
 
-This chapter of [Using Language](../../../2025/12/14/using-language.md) answered five questions about what one can do with a language, especially when it comes to showing one's politeness.
+This chapter of [Using Language](../../../2025/12/14/using-language.md) answered five questions about what one can do with language, especially when it comes to going out of one's way to treat people with politeness.
 
 ## When we pick the next movie or book to enjoy, how do we choose its genre?
 
