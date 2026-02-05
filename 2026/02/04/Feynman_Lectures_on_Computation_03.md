@@ -43,7 +43,7 @@ Simply have it respond with _no_ on any input.
 
 > If y is big enough, the odds are in my favor that I am right: to be precise, the odds are 1 in y that a randomly chosen number is divisible by y. The principle here is that you can know a lot more than you can prove! Unfortunately, it is also possible to think you know a lot more than you actually know. Hence the frequent need for proof.
 
-## How to quickly decide whether a number (with a small number of digits) is prime?
+## How to quickly determine whether a number (with a small number of digits) is prime?
 
 > An effective procedure for this might involve taking all prime numbers up to n^1/2 and seeing if any divide n; if not, n is prime.
 
