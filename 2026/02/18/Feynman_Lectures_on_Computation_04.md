@@ -77,7 +77,7 @@ Then, divide your text into these substrings and remap them to chunks of bits wi
 
 The assignments to bit chunks can be done by constructing a Huffman coding tree: write down the probabilities in descending order in the first row, combine the lowest two probabilities, re-sort into the next row, etc. When assigning the code to a symbol, retrace its combine actions: at any row, if the symbol's combined probability was the lowest at that row, add 0 to the resulting Huffman code; for second-lowest, add 1; otherwise, ignore the row and proceed to the next one. 
 
-F3
+<img width="656" height="291" alt="17714790201519202225316292736477" src="https://github.com/user-attachments/assets/f43f4421-3836-4a28-8237-47b22b3f0130" />
 
 ```
 00100001101010 (= ANOTHER)
