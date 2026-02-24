@@ -24,7 +24,7 @@ Thus, the best algorithm for memory allocation is first fit.
 
 Because this way, the math the MMU must do to compute the memory location of the page in physical memory is does not involve carry operations. It is simply a replacement of a prefix in a memory address.
 
-F10
+<img width="863" height="956" alt="17719122999446115723990988736065" src="https://github.com/user-attachments/assets/22a86fc9-6154-432c-acaa-63dd0e6cc77a" />
 
 The higher-order bits determine the new page starting location (they are mapped to the page start in the physical memory by the page table), and the rest of the bits are the offset from the starting location, which are the same because the page size in virtual memory matches the page size in physical memory. 
 
@@ -36,11 +36,11 @@ Because it falls back on FIFO, which always terminates.
 
 If at time 20, the program needs to evict a page and finds that page A, which has been loaded at time 0, has its R bit set (indicating that it was recently used), A is moved to the top of the list, before the most recently used page (H), but with its R bit cleared. This way, if the algorithm goes through the rest of the pages and all of them have their R bits set as well, it will eventually run into A again, but this time, its R bit would show up as cleared, and so it will be evicted by the algorithm.
 
-F15
+<img width="864" height="305" alt="17719123388521653306020029841681" src="https://github.com/user-attachments/assets/bc7fa0cc-c0b4-4c35-81d2-97c6237bce8d" />
 
 The second-chance algorithm does not even need the overhead of moving pages in a list if it incorporates the clock metaphor: on page fault, the hand of the clock moves through pages and clears their R bits until it finds one the R bit of which is already 0, at which point it evicts that page. This is called the clock page replacement algorithm.
 
-F16
+<img width="864" height="454" alt="17719123544221703660357791275596" src="https://github.com/user-attachments/assets/c2bb3c8c-76bd-4aef-b2c3-a9452315a3b8" />
 
 ## Is LRU the optimal page replacement algorithm? 
 
