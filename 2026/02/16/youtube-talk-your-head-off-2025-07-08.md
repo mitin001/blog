@@ -9,3 +9,7 @@ Because when you put yourself in an unusual circumstance, it becomes one more ex
 > Part of wanting to be an actress is you try to immerse yourself in as many situations as you can so you can bring that to the role.
 
 This is how Kathy Griffin found herself being questioned for suspected witness tampering in a serial killer trial.
+
+# Next
+
+* [YouTube](../../../2025/10/17/youtube.md)

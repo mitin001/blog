@@ -90,3 +90,7 @@ Number(undefined); // -> NaN
 Because JS treats a period after a number as a decimal. At the decimal, you haven't finished specifying a number yet, so a call to one of its member methods is invalid there. 
 
 > The . character presents an ambiguity. It can be understood to be the member operator, or a decimal, depending on its placement. The specification's interpretation of the . character in that particular position is that it will be a decimal.
+
+# Next
+
+* [In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet](../../../2025/12/06/arstechnica-javascript-turns-30.md)

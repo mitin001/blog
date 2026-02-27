@@ -83,3 +83,7 @@ On the other hand, asking for directions explicitly skips a step in the traditio
 Because someone introduces ostensibility into an interaction, they must have a reason to do so, and so it is more polite to play along. The person is giving you a face-saving out in case you can't answer their question, so do your part to show your appreciation for this.
 
 > “Could you tell me what time you close?” is judged as more polite than “What time do you close?” The manager also realizes that Susan has offered him the option of being polite in return. All he has to do is answer her ostensible question first with “yes,” and that is face-saving for her to do too. Indeed, for pro forma pre-requests like “Could you tell me,” the response “Yes, we close at six” is judged to be more polite than “We close at six.”
+
+# Next
+
+* [Using Language](../../../2025/12/14/using-language.md)

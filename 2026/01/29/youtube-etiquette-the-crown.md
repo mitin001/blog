@@ -9,3 +9,7 @@ Because of tradition. It was impolite in the past because it was impolite to sme
 > They were daggers that were used away from the table for other things such as catching the beast, whatever was being eaten. And so they had traces of blood on them and you didn't want to get blood on anything that did not already have blood on it. And so the etiquette of the Middle Ages, and it's something that is still with us today, became that you break bread in two or break it into small pieces before you eat it. Fine to use the knife on meat, but anything basically that wasn't meat, you broke with your hands.
 
 In the modern times, there's little danger in the use of anyone's knife resulting in blood being smeared on bread, and yet, this tradition is hard to shake off in polite circles.
+
+# Next
+
+* [YouTube](../../../2025/10/17/youtube.md)

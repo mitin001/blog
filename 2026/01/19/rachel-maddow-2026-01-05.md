@@ -7,3 +7,7 @@ This episode of [Rachel Maddow](../../../2025/11/01/rachel-maddow.md) answered a
 We are to believe that Trump's actions are too important for congressional oversight. For example, when Trump sent American troops to arrest the President of Venezuela, he explained that he did so without seeking the approval of Congress because his actions required secrecy.
 
 > He said he couldn't and didn't consult with Congress on this action because they might leak.
+
+# Next
+
+* [The Rachel Maddow Show](../../../2025/11/01/rachel-maddow.md)

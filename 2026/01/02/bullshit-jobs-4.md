@@ -147,3 +147,7 @@ The cruel system has made us into instruments with which it carries out the crue
 As more people get recruited into the instrumentation of the monstrous system that's emerged out of greed and cynicism, is it any wonder that this level of cruelty to the most vulnerable populations has become popular along the populace itself? Just think about how older people, whose lives have been largely socialized, look down upon the struggling younger people, to whom such benefits have been denied as the policy priorities shift further and further away from the common man.
 
 > Older people who grew up with cradle-to-grave welfare state protections mocking young people for thinking they might be entitled to the same thing.
+
+# Next
+
+* [Bullshit Jobs](../../../2025/12/13/bullshit-jobs.md)

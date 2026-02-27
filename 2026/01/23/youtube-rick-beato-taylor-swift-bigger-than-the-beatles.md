@@ -9,3 +9,7 @@ Not musically.
 > The Beatles not only innovated melodically, lyrically, harmonically, meaning the chords changes and things like that, they created much of the vocabulary of music that came after it. Taylor's innovations are in commerce or reinventing herself.
 
 Taylor Swift will be studied in marketing schools, not in music schools. Conflating music and marketing only widens the divide between these two disciplines.
+
+# Next
+
+* [YouTube](../../../2025/10/17/youtube.md)

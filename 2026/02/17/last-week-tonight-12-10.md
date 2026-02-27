@@ -11,3 +11,7 @@ Perhaps it was when a professional sports team almost called itself the Jerkoffs
 Either the Spanish speakers in the know didn't feel like they could question the authority of their non-Spanish speaking counterparts or they just wanted to watch the circus unfold.
 
 > The Rancho Cucamonga Quakes tried to pay tribute to the look of a mariachi jacket by rebranding as the Chaquetas, only to run into a small problem. When the team launched the rebrand in March, General Manager Grant Riddle says they didn't realize that the Spanish word for "jackets" also has another meaning, "slang for masturbation."
+
+# Next
+
+* [Last Week Tonight](../../../2025/10/13/last-week-tonight.md)

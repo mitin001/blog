@@ -39,3 +39,7 @@ Because we live in a society where there is no scarcity, a reader notes.
 We don't have to ration the basics anymore, so why not ensure everyone has access to the basics?
 
 > Money is after all a rationing ticket, and in an ideal world, one would presumably wish to do as little rationing as possible.
+
+# Next
+
+* [Bullshit Jobs](../../../2025/12/13/bullshit-jobs.md)

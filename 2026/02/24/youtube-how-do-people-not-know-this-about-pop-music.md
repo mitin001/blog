@@ -17,3 +17,7 @@ Because said freeloaders give the song their platform, without which no one woul
 > In order to get your song cut by a huge star, you have to give them a piece of the song, even if they wrote nothing.
 
 A song written by Jack Antonoff won't be a hit unless he adds Taylor Swift or Sabrina Carpenter on it as a songwriter.
+
+# Next
+
+* [YouTube](../../../2025/10/17/youtube.md)

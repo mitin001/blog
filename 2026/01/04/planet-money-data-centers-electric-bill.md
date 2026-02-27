@@ -17,3 +17,7 @@ Infrastructure improvements are a valid justification for price hikes (or, at le
 > The primary reason they're allowed to raise rates is because they've invested in their infrastructure, upgrading their power lines, or building new lines and substations when they need to.
 
 However, this isn't even the costliest part. The part that needs modernizing the most isn't infrastructure but rather the system of incentives that was set up for power plants. The electricity system is beholden to the capacity market where power plants are incentivized to be able to supply peak demand, and data centers are generating a need for incentives that are far outside residential needs (but since the residents are in the same grid as the data centers, they have to pinch in their part in creating these outsized incentives).
+
+# Next
+
+* [Planet Money](../../../2025/10/23/planet-money.md)

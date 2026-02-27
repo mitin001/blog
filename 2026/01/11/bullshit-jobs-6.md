@@ -99,3 +99,7 @@ Obviously, the author disagrees.
 > One cannot, of course, really argue that a CEO who makes a thousand times more than a bus driver is working a thousand times harder, so you slip in “smarter”—which implies “more productive” but, in fact, here just seems to be “in a way for which you’re paid much more.” All that saves this statement from absolutely meaningless circularity (they’re smart because they’re rich because they’re smart, and on and on) is that it emphasizes that (most of) the very rich do have jobs.
 
 Since those in this stratum of the privileged have never found themselves in a situation where they had to rely on unemployment programs, they are, by definition, more adept at being employable, to the point where their sole employment amounts to living out their lavish lifestyle and calling it _business meetings_.
+
+# Next
+
+* [Bullshit Jobs](../../../2025/12/13/bullshit-jobs.md)

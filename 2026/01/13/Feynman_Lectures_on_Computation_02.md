@@ -73,3 +73,7 @@ We can design a logic circuit that satisfies this truth table.
 <img width="1776" height="825" alt="17683754332067897193342813138018" src="https://github.com/user-attachments/assets/d2c9996c-e8a2-4feb-b1d1-91ddf9751234" />
 
 This is a flip-flop circuit. 
+
+# Next
+
+* [Feynman Lectures on Computation](../../../2025/12/05/Feynman_Lectures_on_Computation.md)

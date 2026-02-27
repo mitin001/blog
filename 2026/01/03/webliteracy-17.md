@@ -11,3 +11,7 @@ Because its members will try to match this standards, but only if they're truly 
 However, this only works if the other members care about adherence to said standards. If an alternative set of standards emerges where reviewers are supposed to toe the line and not call each other out on the bullshit, stopping a bullshit article from going into the journal will earn one a reputation of being uncooperative, especially if moneyed interests are involved.
 
 > Aim is defined by what the publication, author, or media source is attempting to accomplish. Aims are complex. Respected scientific journals, for example, aim for prestige within the scientific community, but must also have a business model.
+
+# Next
+
+* [Web Literacy for Student Fact Checkers](../../../2025/12/04/webliteracy.md)
