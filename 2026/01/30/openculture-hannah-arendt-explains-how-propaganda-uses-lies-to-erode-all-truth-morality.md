@@ -15,8 +15,3 @@ Arendt observed that authoritarians know how to manipulate a cynic's belief syst
 In _Truth and Politics_, Hannah Arendt argued that the firehose of falsehood we see in the media from time to time is there for exactly the reason that would benefit an up-and-coming authoritarian: to turn our society into a bunch of cynics aching to join the very first cult of personality dangled in front of them.
 
 > The result of a consistent and total substitution of lies for factual truth is not that the lie will now be accepted as truth and truth be defamed as a lie, but that the sense by which we take our bearings in the real world—and the category of truth versus falsehood is among the mental means to this end—is being destroyed.
-
-# Next
-
-* [Recalibrating Our Approach to Misinformation](../../../2025/11/03/edsurge-recalibrating-our-approach-to-misinformation.md)
-* [Post-Truth Politics](../../../2025/11/12/niskanencenter-post-truth-politics.md)

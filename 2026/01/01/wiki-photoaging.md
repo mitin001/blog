@@ -21,7 +21,3 @@ It's an open question in biology, but one proposed explanation is the body's mod
 > The body is attempting to suppress an autoimmune response to inflammatory products resulting from UV damage.
 
 Just as the UV-induced kinks in the DNA molecule prompt the initiation of tumor-suppressive mechanisms, the UV-induced inflammation prompts the up-regulation of endogenous anti-inflammatory factors.
-
-# Next
-
-* [Non-ionizing radiation](../../../2025/12/01/wikipedia_non-ionizing_radiation.md)

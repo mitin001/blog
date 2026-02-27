@@ -13,7 +13,3 @@ The pronouncements may seem dramatic, but they are not inappropriate for the mom
 > We have the Episcopal bishop in New Hampshire explaining that his clergy need to have their wills written and their affairs in order because they may be called to stand up against tyranny in the United States right now to the point of dangerousness, to the point where their lives may be at risk, to the point where he is talking about martyrdom in his church.
 
 Rachel tells the story of Jonathan Daniels, an episcopal seminarian, who in 1965 shielded two black girls from the bullets of a racist who attempted to execute them. Trump has brought America back to a place where executions in the streets are once again conducted with impunity. Where there is carnage, there is martyrdom. Giving power to a tyrant comes with a terrible price. 
-
-# Next
-
-* [The Rachel Maddow Show](../../../2025/11/01/rachel-maddow.md)

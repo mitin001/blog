@@ -13,7 +13,3 @@ In aggregate, yes. But don't take conclusions from any one study as definitive.
 Go on to another article. In an information-rich ecosystem of the Internet, it's not worth it to waste any of your time on a source that's already raising a red flag. Find a better source.
 
 > It’s better to err on the side of moving onto the next article than to invest time in an article that displays warning signs regarding either expertise or accuracy.
-
-# Next
-
-* [Web Literacy for Student Fact Checkers](../../../2025/12/04/webliteracy.md)

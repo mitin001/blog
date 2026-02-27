@@ -29,7 +29,3 @@ Yes, the Computer Fraud and Abuse Act makes it so.
 This law is enforced selectively. If you dig through someone's Internet history, it's easy to find a violation of the terms of use of some website, and prosecutors make use of this to come after their targets.
 
 > If you violate the terms of service of an app or a website, that means you exceeded your authorized access or used the site in a way that you weren’t authorized to do. That means you just committed a federal offense. So, that lie you put on your dating profile — it’s against the terms of service to lie on there, which means you’re using the site in an unauthorized manner. Your company issued you a computer for work? It’s for business use only. If you check Facebook on it, that’s not authorized activity. Sharing your Netflix or Spotify password with a friend? That’s unauthorized use of the service.
-
-# Next
-
-* [Darknet Diaries](../../../2025/10/22/darknet-diaries.md)

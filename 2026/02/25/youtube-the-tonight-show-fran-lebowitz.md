@@ -13,7 +13,3 @@ As a last resort, says Fran Lebowitz.
 No, it makes people look surgical.
 
 > There's not a lot of choices in life like you think there are, okay? There's three ways to look: young, old, or surgical.
-
-# Next
-
-* [YouTube](../../../2025/10/17/youtube.md)

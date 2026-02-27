@@ -29,7 +29,3 @@ The proper term is _incarceration_, not _relocation_. The great many people who 
 We owe it to them to at least get the words right.
 
 > One of the signs of growing up is becoming intolerant of euphemism.
-
-# Next
-
-* [The Rachel Maddow Show](../../../2025/11/01/rachel-maddow.md)

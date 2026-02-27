@@ -87,7 +87,3 @@ Monitoring for whether your addressee is monitoring you is crucial in a conversa
 > Bob must present evidence about his mental states at just those moments he believes Ann is monitoring for it, and Ann, knowing this, should monitor him closely at these points.
 
 When we fail to monitor the people with whom we're speaking, we have to make cruder assumptions about their mental states. Different assumptions lead to different decision, e.g., whether we decide to restart our turns when speaking.
-
-# Next
-
-* [Using Language](../../../2025/12/14/using-language.md)

@@ -159,7 +159,3 @@ Conversations take effort, so people want to reduce the effort through efficienc
 _Pattern 3_ refers to a conversation pattern where the adressee picks up on the insinuation of the speaker and acts on it.
 
 > A initiates a sequence in such a way that he or she is construed as making the request too—an elective construal.
-
-# Next
-
-* [Using Language](../../../2025/12/14/using-language.md)

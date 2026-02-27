@@ -7,7 +7,3 @@ This episode of [Last Week Tonight](../../../2025/10/13/last-week-tonight.md) an
 They focus above all on trying to discredit the Palestinians.
 
 > A few adult junior detectives squinting at each photo of a skeletal child to figure out if they're the right kind of dying.
-
-# Next
-
-* [Last Week Tonight](../../../2025/10/13/last-week-tonight.md)

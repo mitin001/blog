@@ -11,7 +11,3 @@ Because news are supposed to report on new information, news reports of scientif
 The public perception of science suffers from such mischaracterizations. Instead of informing the lay person on the progress science has made in advancing a given discipline, the news media will inadvertently make them question whether science has any value at all (since it seems to be contradicting itself all the time). The bottom line is that reading the news won't inform you much on the state of a given scientific theory. Neither will reading the individual studies themselves. You need secondary sources where experts place a cluster of studies within their proper context.
 
 > Without an expert’s background, it can be challenging to place new research in the context of old.
-
-# Next
-
-* [Web Literacy for Student Fact Checkers](../../../2025/12/04/webliteracy.md)

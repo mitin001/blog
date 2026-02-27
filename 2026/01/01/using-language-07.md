@@ -37,7 +37,3 @@ A respondent can clarify their construal by signaling their uptake of the speake
 If a misconstrual occurs, it can be detected and corrected immediately (or the speaker can just go along with it, and the conversation can shift in a direction where the miscontrual becomes the joint construal).
 
 > Suppose Jack utters “Sit here” intending it to be a request, but Kate replies “What a good idea!” Jack has two choices. He can consider Kate’s construal to be incorrect and correct it: “I’m not just advising you to sit here—I’m asking you to.” Or he could leave her construal unchanged and revise his own intentions—change his mind about what he is to be taken as doing. He might reason: “So what if Kate doesn’t interpret my utterance as a request. She is still going to sit down, and that is my goal.” He might then answer “Good,” laying down a shared basis for the mutual belief that his action is to be taken as an advisory. As far as Kate is concerned, that may be all he ever intended, and he knows that.
-
-# Next
-
-* [Using Language](../../../2025/12/14/using-language.md)

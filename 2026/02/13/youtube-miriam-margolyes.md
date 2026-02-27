@@ -9,7 +9,3 @@ Absolutely not, says Miriam Margolyes.
 > It's gambling with your happiness.
 
 Just as you wouldn't gamble with your life savings, you shouldn't be gambling away the life you've built with your partner. The house always wins. The truth always comes out.
-
-# Next
-
-* [YouTube](../../../2025/10/17/youtube.md)

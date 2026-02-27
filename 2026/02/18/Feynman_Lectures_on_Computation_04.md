@@ -98,7 +98,3 @@ Predictive coding relies on this property. If we have a predictor that accuratel
 > You can get pretty close to Shannon’s limit using compres­sion of this sort.
 
 Therefore, if you can find a nearly perfect predictor, it is straightforward to construct a nearly perfect compression algorithm from that.
-
-# Next
-
-* [Feynman Lectures on Computation](../../../2025/12/05/Feynman_Lectures_on_Computation.md)

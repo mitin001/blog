@@ -48,7 +48,3 @@ Simply have it respond with _no_ on any input.
 > An effective procedure for this might involve taking all prime numbers up to n^1/2 and seeing if any divide n; if not, n is prime.
 
 For example, we can quickly see that 167 is prime because it is not divisible by 2, 3, 5, 7, or 11. The next prime number is 13, and there's no point in checking that because 167 < 13^2.
-
-# Next
-
-* [Feynman Lectures on Computation](../../../2025/12/05/Feynman_Lectures_on_Computation.md)

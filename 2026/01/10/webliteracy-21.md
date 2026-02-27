@@ -15,7 +15,3 @@ If a journal published 500 articles in the past two years and they have been cit
 "You have the whole Internet at your fingertips, and you choose _that_ as your source?"
 
 > In a world where information is plentiful, we can be a bit demanding about what counts as evidence.
-
-# Next
-
-* [Web Literacy for Student Fact Checkers](../../../2025/12/04/webliteracy.md)

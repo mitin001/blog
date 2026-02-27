@@ -97,7 +97,3 @@ However, as the world noticed that some of this technology was promising, a sudd
 So, now there may indeed be an AI renaissance that could bring us some truly exciting technology, or at least something we could find useful at a later time. Much of the present-day infrastructure of fiber-optic cables are a vestige of the dot-com bubble, and we make use of it now to improve our Internet speeds.
 
 > During the dot-com bubble, there was all this internet hype. So companies spent billions of dollars putting fiber-optic cables into the ground, you know, to transfer people's data. After the dot-com bubble popped, a lot of that fiber just sat there unused. It was called dark fiber. But that didn't turn out to be a total waste of money. Eventually, companies did start using that so-called dark fiber. It arguably catapulted us into the era of broadband. A lot of that fiber is now carrying all the streaming video we're watching these days.
-
-# Next
-
-* [Planet Money](../../../2025/10/23/planet-money.md)
