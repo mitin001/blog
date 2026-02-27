@@ -33,3 +33,7 @@ Even though the practice of a litmus test is a well-researched, well-documented 
 Trump's enablers have no political future. They will never reach as far as he has. Their blind desire to be on the inside is a clear display of their powerlessness.
 
 > Making his surrogates repeat the lies compromised them; that tied them to him. And it degraded them, and made clear where power lay.
+
+# Next
+
+* [Recalibrating Our Approach to Misinformation](../../../2025/11/03/edsurge-recalibrating-our-approach-to-misinformation.md)

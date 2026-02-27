@@ -29,3 +29,5 @@ Sunlight is the main source of ultraviolet radiation, and yet, it is only 3% ult
 * [Cellphones Do Not Give You Brain Cancer](../../../2025/12/12/fivethirtyeight-cellphones-do-not-give-you-brain-cancer.md)
 * [Static Electric and Magnetic Fields and Human Health](../../../2025/12/12/mcw-radiationoncology-static-fields.md)
 * [Non-Ionizing Radiation (NIR) Safety Manual](../../../2025/12/27/washington.edu-ehs_nir_safety_manual.md)
+* [Non-Ionizing Radiations – Sources, Biological Effects, Emissions and Exposures](../../../2025/12/29/emfsurvey-non-ionizing-emf-radiation-biological-effects-safety.md)
+* [Pyrimidine dimer](../../../2025/12/31/wiki-pyrimidine_dimer.md)
