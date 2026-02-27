@@ -35,3 +35,7 @@ To concede that Internet Explorer could've made JavaScript go extinct is unthink
 The name of JavaScript in the open-source community. Oracle, which acquired Sun Microsystems, owns the name _JavaScript_, despite not doing anything with it.
 
 > There can be no “JavaScript Conference” or “JavaScript Specification,” forcing community organizations to use awkward workarounds like “JSConf.” Eich himself wrote in 2006 that “ECMAScript,” the official name for the language standard, “was always an unwanted trade name that sounds like a skin disease.”
+
+# Next
+
+* [Funny and tricky JavaScript examples](../../../2026/02/12/github-wtfjs.md)

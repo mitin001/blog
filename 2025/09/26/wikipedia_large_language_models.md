@@ -33,3 +33,4 @@ AI will never contradict the prompt, and it will fit the words from its training
 # Next
 
 * [Chatbot comments in discussions](../../../2025/10/07/wikipedia_chatbot_comments_in_discussions.md)
+* [How to Win Friends and Influence People](../../../2026/01/19/how-to-win-friends.md)

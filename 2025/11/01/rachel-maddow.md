@@ -15,3 +15,7 @@ Rachel was right to be skeptical about Trump. In his second term in office, she 
 * [The Rachel Maddow Show: 9/22/2025. Kamala Harris](../../../2025/09/24/maddow-2025-09-22.md)
 * [The Rachel Maddow Show: 11/11/2025](../../../2025/12/25/rachel-maddow-2025-11-11.md)
 * [The Rachel Maddow Show: 12/15/2025](../../../2025/12/26/rachel-maddow-2025-12-15.md)
+* [Live community event: Rachel Maddow Presents: Burn Order: 12/29/2025](../../../2026/01/16/rachel-maddow-2025-12-29.md)
+* [The Rachel Maddow Show: 1/5/2026](../../../2026/01/19/rachel-maddow-2026-01-05.md)
+* [The Rachel Maddow Show: 1/20/2026](../../../2026/02/02/rachel-maddow-2026-01-20.md)
+* [The Rachel Maddow Show: 1/27/2026](../../../2026/02/08/rachel-maddow-2026-01-27.md)

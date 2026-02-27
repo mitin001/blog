@@ -15,3 +15,4 @@ This book was referenced by [an episode of On with Kara Swisher](../../../2025/0
 * [8. What Are We Wearing This Summer?](../../../2025/12/07/algospeak-08.md)
 * [9. OK Boomer](../../../2025/12/09/algospeak-09.md)
 * [10. Are We Cooked?](../../../2025/12/13/algospeak-10.md)
+* [How Social Media Is Changing How You Talk: Adam Aleksic](../../../2026/01/22/tedx-how-social-media-is-changing-how-you-talk-adam-aleksic.md)

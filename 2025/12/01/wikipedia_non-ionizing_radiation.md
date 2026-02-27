@@ -31,3 +31,4 @@ Sunlight is the main source of ultraviolet radiation, and yet, it is only 3% ult
 * [Non-Ionizing Radiation (NIR) Safety Manual](../../../2025/12/27/washington.edu-ehs_nir_safety_manual.md)
 * [Non-Ionizing Radiations – Sources, Biological Effects, Emissions and Exposures](../../../2025/12/29/emfsurvey-non-ionizing-emf-radiation-biological-effects-safety.md)
 * [Pyrimidine dimer](../../../2025/12/31/wiki-pyrimidine_dimer.md)
+* [Photoaging](../../../2026/01/01/wiki-photoaging.md)
