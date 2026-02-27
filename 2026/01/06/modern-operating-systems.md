@@ -1,3 +1,10 @@
 # [Modern Operating Systems](https://www.google.com/books/edition/Modern_Operating_Systems_Global_Edition/cHa2EAAAQBAJ)
 
 Andrew Tanenbaum's books have gotten me through college. He has a rare talent for injecting humor into what would otherwise be a dry exploration of highly technical topics like algorithms and protocols. It's tricky to do that without detracting from the discussion at hand, but he manages to get away with it every time. When he talks about the division of labor between an operating system and hardware, he's quick to point out that "an _annoying_ amount of the complexity is foisted onto the operating system." When he introduces Windows Vista in his discussion of NT, he is quick to quip, "_It bombed_." When I saw that there was a new edition of _Modern Operating Systems_, I couldn't resist the desire to read it, to learn and to laugh.
+
+# Next
+
+* [Preface](../../../2026/01/06/modern-operating-systems-preface.md)
+* [1. Introduction](../../../2026/01/21/modern-operating-systems-01.md)
+* [2. Processes and Threads](../../../2026/02/15/modern-operating-systems-02.md)
+* [3. Memory Management](../../../2026/02/23/modern-operating-systems-03.md)
