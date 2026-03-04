@@ -4,6 +4,7 @@ When you read, do you ever clip out quotes you like and write comments alongside
 * [Feynman Lectures on Computation](2025/12/05/Feynman_Lectures_on_Computation.md)
 * [Wikipedians discuss simple summaries](2025/09/25/wikipedians-discuss-simple-summaries.md)
 * [How Lady Gaga Found Herself Again](2025/12/09/rollingstone-lady-gaga-mayhem-tour-grammys-cover-story-interview.md)
+* [Modern Operating Systems](2026/01/06/modern-operating-systems.md)
 
 I also scribble notes as I watch or listen to things.
 
@@ -11,6 +12,7 @@ I also scribble notes as I watch or listen to things.
 * [Pivot](2025/10/14/pivot.md)
 * [Real Time with Bill Maher](2025/10/16/real-time.md)
 * [YouTube](2025/10/17/youtube.md)
+* [TED Talks Daily](2026/01/08/ted-talks-daily.md)
 * [Darknet Diaries](2025/10/22/darknet-diaries.md)
 * [Planet Money](2025/10/23/planet-money.md)
 * [The Rachel Maddow Show](2025/11/01/rachel-maddow.md)

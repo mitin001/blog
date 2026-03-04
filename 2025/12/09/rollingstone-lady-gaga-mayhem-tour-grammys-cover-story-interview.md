@@ -68,7 +68,7 @@ _Chromatica_ didn't capture the truth that's required to make others relate to t
 
 She had to bullshit through the press tour for the album.
 
-> She was about to do _Chro­matica_ interviews explaining what a great place she was in, but in reality, “I was as great as I could be for someone that smoked weed all day, knocked back a couple bottles of wine, and passed out.”
+> She was about to do _Chromatica_ interviews explaining what a great place she was in, but in reality, “I was as great as I could be for someone that smoked weed all day, knocked back a couple bottles of wine, and passed out.”
 
 # Next
 
