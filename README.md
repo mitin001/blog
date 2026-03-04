@@ -1,10 +1,11 @@
 When you read, do you ever clip out quotes you like and write comments alongside them? What do you do with them afterwards? I decided to just publish mine on this blog.
 
-* [When to Rob a Bank](2025/10/07/freakonomics-2015-when-to-rob-a-bank.md)
+* [Modern Operating Systems](2026/01/06/modern-operating-systems.md)
 * [Feynman Lectures on Computation](2025/12/05/Feynman_Lectures_on_Computation.md)
+* [When to Rob a Bank](2025/10/07/freakonomics-2015-when-to-rob-a-bank.md)
 * [Wikipedians discuss simple summaries](2025/09/25/wikipedians-discuss-simple-summaries.md)
 * [How Lady Gaga Found Herself Again](2025/12/09/rollingstone-lady-gaga-mayhem-tour-grammys-cover-story-interview.md)
-* [Modern Operating Systems](2026/01/06/modern-operating-systems.md)
+* [The Beauty](2026/01/24/decider-the-beauty-episode-2-recap.md)
 
 I also scribble notes as I watch or listen to things.
 
