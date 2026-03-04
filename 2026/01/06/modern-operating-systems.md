@@ -6,6 +6,7 @@ Andrew Tanenbaum's books have gotten me through college. He has a rare talent fo
 
 * "Inexpensive personal computers can even be replaced within an hour by just going to a computer store (except at universities, where issuing a purchase order takes three committees, five signatures, and 90 days)."
 * "Most people do not think making backups of their files is worth the time and effort—until one fine day their disk abruptly dies, at which time most of them undergo an instantaneous change of heart."
+* "Backups are generally made to handle one of two potential problems: 1. Recover from disaster. 2. Recover from user mistakes. The first one covers getting the computer running again after a disk crash, fire, flood, or some other natural catastrophe. In practice, these things do not happen very often, which is why many people do not bother with backups. These people also tend not to have fire insurance on their houses for the same reason."
 
 # Next
 
