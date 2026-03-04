@@ -21,3 +21,5 @@ In the parlance of *Infinite Jest*, YouTube is *the entertainment*, a never-endi
 * [How Kathy Nearly Ruined the Night Stalker Trial](../../../2026/02/16/youtube-talk-your-head-off-2025-07-08.md)
 * [How Do People NOT Know This About Pop Music?](../../../2026/02/24/youtube-how-do-people-not-know-this-about-pop-music.md)
 * [Fran Lebowitz on The Tonight Show](../../../2026/02/25/youtube-the-tonight-show-fran-lebowitz.md)
+* [Chemist Answers Chemistry Questions From Twitter](../../../2026/03/02/youtube-wired-chemistry-questions.md)
+* [James O'Brien meets Miriam Margolyes](../../../2026/03/03/youtube-james-obrien-miriam-margolyes.md)
