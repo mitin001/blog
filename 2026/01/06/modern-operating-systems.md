@@ -4,7 +4,7 @@ Andrew Tanenbaum's books have gotten me through college. He has a rare talent fo
 
 † More Tanenbaum quips:
 
-* "Inexpensive personal computers can even be replaced within an hour by just going to a computer store (except at universities, where issuing a purchase order takes three committees, fiv e signatures, and 90 days)."
+* "Inexpensive personal computers can even be replaced within an hour by just going to a computer store (except at universities, where issuing a purchase order takes three committees, five signatures, and 90 days)."
 * "Most people do not think making backups of their files is worth the time and effort—until one fine day their disk abruptly dies, at which time most of them undergo an instantaneous change of heart."
 
 # Next
