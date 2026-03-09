@@ -10,7 +10,7 @@ A hard link is created with the _link_ system call.
 
 In a way, every file is a hard link. Once you unlink a file with only one entry remaining in its i-node, the file is deleted. Meanwhile, a symbolic link (shortcut, alias) is just a text file containing the location of another file. 
 
-> Instead of having two names point to the same internal data structure representing a file, a name can be created that points to a tiny file naming another file. When the first file is used, for example, opened, the file system fol- lows the path and finds the name at the end. Then it starts the lookup process all over using the new name. Symbolic links have the advantage that they can cross disk boundaries and even name files on remote computers.
+> Instead of having two names point to the same internal data structure representing a file, a name can be created that points to a tiny file naming another file. When the first file is used, for example, opened, the file system follows the path and finds the name at the end. Then it starts the lookup process all over using the new name. Symbolic links have the advantage that they can cross disk boundaries and even name files on remote computers.
 
 ## What happens when a computer starts up?
 
@@ -20,11 +20,11 @@ Depends on the partition scheme of the hard drive connected to it. If the BIOS (
 
 The boot block contains the OS bootloader, which initializes the kernel, which will later rely on the information from the superblock to initialize the OS file system.
 
-F10
+<img width="500" alt="Screenshot_20260308-235204" src="https://github.com/user-attachments/assets/ab8e4e84-edcb-44b9-b981-87b514f5e11b" />
 
 If sector 0 is not MBR, then it assumes GPT and proceeds to sector 1. Of course, this only works on the firmware that supports GPT, which is UEFI (Unified Extensible Firmware Interface).
 
-F11
+<img width="700" alt="Screenshot_20260308-235538" src="https://github.com/user-attachments/assets/6badb7de-87af-4cca-993d-df3bd383ab63" />
 
 UEFI can mount an EFI boot partition from a GPT drive and boot an OS from that.
 
