@@ -27,7 +27,6 @@ Visually similar to [a trailer for Tetsuo II](https://www.youtube.com/watch?v=nU
 
 [Stingray.](https://en.wikipedia.org/wiki/Stingray)
 
-<img src="https://s3.amazonaws.com/writecomments.com/youtube/[1eiOIkd4igo].mp4/00_00_52.360 frame=1309.jpg" height=150>
 <img src="https://s3.amazonaws.com/writecomments.com/youtube/[1eiOIkd4igo].mp4/00_00_55.680 frame=1392.jpg" height=150>
 <img src="https://s3.amazonaws.com/writecomments.com/youtube/[1eiOIkd4igo].mp4/00_01_13.680 frame=1842.jpg" height=150>
 
@@ -107,7 +106,7 @@ One of the [heart valves](https://ecampusontario.pressbooks.pub/hhnp4/chapter/19
 <img src="https://s3.amazonaws.com/writecomments.com/youtube/[1eiOIkd4igo].mp4/00_04_12.360 frame=6309.jpg" height=150>
 <img src="https://s3.amazonaws.com/writecomments.com/youtube/[1eiOIkd4igo].mp4/00_03_49.200 frame=5730.jpg" height=150>
 
-.
+[The macrophage cannot extend itself sufficiently to enclose long asbestos or long nanotubes, resulting in incomplete or frustrated phagocytosis, which leads to inflammation](https://www.researchgate.net/figure/The-frustrated-phagocytosis-paradigm-as-it-relates-to-long-and-short-fibres-of-asbestos_fig2_42388291) - is this what's happening here?
 
 <img src="https://s3.amazonaws.com/writecomments.com/youtube/[1eiOIkd4igo].mp4/00_04_13.800 frame=6345.jpg" height=150>
 <img src="https://s3.amazonaws.com/writecomments.com/youtube/[1eiOIkd4igo].mp4/00_04_21.640 frame=6541.jpg" height=150>
@@ -122,16 +121,14 @@ One of the [heart valves](https://ecampusontario.pressbooks.pub/hhnp4/chapter/19
 [White and red blood cells.](https://www.youtube.com/watch?v=V61n8a6dpOo)
 
 <img src="https://s3.amazonaws.com/writecomments.com/youtube/[1eiOIkd4igo].mp4/00_04_43.080 frame=7077.jpg" height=150>
-<img src="https://s3.amazonaws.com/writecomments.com/youtube/[1eiOIkd4igo].mp4/00_04_46.640 frame=7166.jpg" height=150>
 <img src="https://s3.amazonaws.com/writecomments.com/youtube/[1eiOIkd4igo].mp4/00_04_46.680 frame=7167.jpg" height=150>
 
-.
+[Head switching noise.](https://forum.videohelp.com/threads/352509-Which-passthrough-devices-straighten-out-the-bottom-of-VHS-signals)
 
 <img src="https://s3.amazonaws.com/writecomments.com/youtube/[1eiOIkd4igo].mp4/00_04_46.840 frame=7171.jpg" height=150>
 <img src="https://s3.amazonaws.com/writecomments.com/youtube/[1eiOIkd4igo].mp4/00_04_47.280 frame=7182.jpg" height=150>
-<img src="https://s3.amazonaws.com/writecomments.com/youtube/[1eiOIkd4igo].mp4/00_04_49.000 frame=7225.jpg" height=150>
 
-.
+[Microsurgery.](https://www.youtube.com/watch?v=TQbRb3c1wEk)
 
 <img src="https://s3.amazonaws.com/writecomments.com/youtube/[1eiOIkd4igo].mp4/00_04_54.880 frame=7372.jpg" height=150>
 
@@ -141,7 +138,9 @@ One of the [heart valves](https://ecampusontario.pressbooks.pub/hhnp4/chapter/19
 <img src="https://s3.amazonaws.com/writecomments.com/youtube/[1eiOIkd4igo].mp4/00_04_58.720 frame=7468.jpg" height=150>
 <img src="https://s3.amazonaws.com/writecomments.com/youtube/[1eiOIkd4igo].mp4/00_05_00.320 frame=7508.jpg" height=150>
 
-.
+[Dissection.](https://www.sciencedirect.com/science/article/pii/S2666166722003112)
 
 <img src="https://s3.amazonaws.com/writecomments.com/youtube/[1eiOIkd4igo].mp4/00_05_02.120 frame=7553.jpg" height=150>
 <img src="https://s3.amazonaws.com/writecomments.com/youtube/[1eiOIkd4igo].mp4/00_05_15.880 frame=7897.jpg" height=150>
+
+Excised tissue?
