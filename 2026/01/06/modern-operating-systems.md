@@ -10,6 +10,7 @@ Andrew Tanenbaum's books have gotten me through college. He has a rare talent fo
 * "The operating system defines a set of functions that the driver must supply. For a disk these would naturally include read and write, but also turning the power on and off, formatting, and other *disky* things."
 * "Old fogeys may still use optical disks (DVDs and Blu-ray), but these are rapidly going out of fashion and will not be discussed in this (undeniably fashionable) book."
 * "The disk capacity of the old floppy disk was 360 KB, or about one third of the capacity needed to store the PDF of just this chapter. In contrast, the IronWolf packs as much as 18 TB—an increase of give or take 8 orders of magnitude. The authors solemnly promise never to make the chapter that big."
+* "Patterson et al. defined RAID as Redundant Array of Inexpensive Disks, but industry redefined the I to be ‘‘Independent’’ rather than ‘‘Inexpensive’’ (maybe so they could charge more?)."
 
 # Next
 
