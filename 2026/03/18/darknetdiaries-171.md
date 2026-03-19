@@ -2,7 +2,7 @@
 
 This episode of [Darknet Diaries](../../../2025/10/22/darknet-diaries.md) (also transcribed [here](https://writecomments.com/transcripts/?md5=63c25cd0d52679f30d98c8d91b7a0b00)) answered three questions about fraudulently inflating one's numbers on social media and streaming services.
 
-## What is greyhat and blackhat marketing? 
+## What are greyhat and blackhat marketing? 
 
 Blackhat marketing is breaking the law to promote your product; grayhat marketing is breaking the terms of service to promote your product. An example of the latter would be disguising the like button on Facebook as the play button of a popular video. People think they click to play the video, but behind the scenes, they are unwittingly participating in astroturfing a Facebook post they've never seen.
 
