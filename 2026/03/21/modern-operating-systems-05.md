@@ -16,7 +16,7 @@ Hardware interrupts are not really traps so we refer to them as simply hardware 
 
 Until it has to do an imprecise interrupt, at which point it discovers that the last n instructions are in various states of incompletion, so it must do the work of saving and then restoring the large, complex state describing the incomplete instructions and thus appear slower than it is.
 
-F6
+<img width="300" alt="17740701472904104349620473241662" src="https://github.com/user-attachments/assets/1400d057-7910-45b4-82c2-089b504161c4" />
 
 > Machines with imprecise interrupts usually vomit a large amount of internal state onto the stack to give the operating system the possibility of figuring out what was going on. The code necessary to restart the machine is typically exceedingly complicated. Also, saving a large amount of information to memory on every interrupt makes interrupts slow and recovery even worse. This leads to the ironic situation of having very fast superscalar CPUs sometimes being unsuitable for real-time work due to slow interrupts.
 
@@ -62,7 +62,8 @@ The network controller ensures the packet gets onto the network at a uniform spe
 
 Had main memory put the packet onto the wire directly, the cycle stealing by everything else sharing the main memory bus would make it impossible for the receiver to decode it. The network controller effectively filters out (absorbs, buffers) the stutters and pauses in the transmitted data at the cost of the time taken to sequentially copy the data from the kernel space onto the controller and then from the controller onto the wire. Before the data in the user space of one host gets into the user space of another through the network, it must be copied at last five times: into the sender's kernel space buffer, the sender's controller buffer, the receiver's controller buffer, the receiver's kernel space buffer, and finally the receiver's user space buffer.
 
-F16
+
+<img width="400" alt="17740702071721631643988491817250" src="https://github.com/user-attachments/assets/75a9cea3-2698-46ff-94d7-a1bae9175333" />
 
 The sender's kernel space buffers the data from the user space to protect the controller from transmitting the data actively being modified by the user (transmitting mid-write could result in the transmission of garbled data), whereas the receiver's kernel space buffers the data from the controller to ensure it's not lost in case the receiver's user process is not ready to receive the data (its memory is paged out, etc).
 
@@ -78,7 +79,7 @@ The spooler process is written specifically to send a file to the printer as soo
 
 Use the shortest seek first (SSF) algorithm: when multiple floors are waiting for the elevator, always go to the closest one.
 
-F22
+<img width="864" height="283" alt="17740702387365230334225926133921" src="https://github.com/user-attachments/assets/4e1326f0-692c-49fb-af49-a0673773e11e" />
 
 However, efficiency is not the only goal for a building elevator. It must also be fair. The rotational disk suffers from the same problem: with SSF, just as the disk arm will stay in the middle most of the time, starving out the requests at the edges, so will the elevator spend most of its time on the middle floors, rarely reaching the ground or the top floor.
 
@@ -90,7 +91,7 @@ The algorithm that optimizes for fairness, first-come first-served, is inefficie
 
 The elevator algorithm successfully balances efficiency and fairness for rotational disks and building elevators alike. 
 
-F23
+<img width="864" height="309" alt="17740702603193835068103346981714" src="https://github.com/user-attachments/assets/2858e542-400b-4b83-ad33-e8df82c97010" />
 
 ## What is a device driver? 
 
