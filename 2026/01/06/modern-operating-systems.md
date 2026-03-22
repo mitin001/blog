@@ -14,7 +14,7 @@ Andrew Tanenbaum's books have gotten me through college. He has a rare talent fo
 * "The use of redundant information that has no actual value is common in Windows."
 * "Having multiple calls that do almost the same thing is characteristic of Windows."
 * On Chromebooks: "A system that runs a full Linux stack, and a Chrome browser, is not exactly anorexic."
-* "Four strategies are used for dealing with deadlocks. 1. Just ignore the problem. Maybe if you ignore it, it will ignore you."
+* "Four strategies are used for dealing with deadlocks. 1. Just ignore the problem. Maybe if you ignore it, it will ignore you. ... The simplest approach is the ostrich algorithm: stick your head in the sand and pretend there is no problem."
 
 # Next
 
