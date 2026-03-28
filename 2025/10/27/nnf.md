@@ -15,6 +15,6 @@ A Russian television series full of fragments of other films and cool background
 * [Необъяснимо, но факт: 7. Свидание с призраком](../../../2025/11/09/nnf-007.md)
 * [Необъяснимо, но факт: 8. Люди-маугли](../../../2025/11/22/nnf-008.md)
 * [Необъяснимо, но факт: 9. Святые чудеса](../../../2025/12/17/nnf-009.md)
+* [Необъяснимо, но факт: 10. Гиблое место](../../../2026/03/28/nnf-010.md)
 * [Asteroids: Deadly Impact](../../../2026/03/06/natgeo-asteroids-deadly-impact.md)
 * [Creepy music videos](../../../2026/03/09/creepy-music-videos.md)
-* [Необъяснимо, но факт: 10. Гиблое место](../../../2026/03/28/nnf-010.md)
