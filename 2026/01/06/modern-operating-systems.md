@@ -15,6 +15,7 @@ Andrew Tanenbaum's books have gotten me through college. He has a rare talent fo
 * "Having multiple calls that do almost the same thing is characteristic of Windows."
 * On Chromebooks: "A system that runs a full Linux stack, and a Chrome browser, is not exactly anorexic."
 * "Four strategies are used for dealing with deadlocks. 1. Just ignore the problem. Maybe if you ignore it, it will ignore you. ... The simplest approach is the ostrich algorithm: stick your head in the sand and pretend there is no problem."
+* "If ever there was a subject that was investigated mercilessly during the early days of operating systems (1960s and 1970s), it was deadlocks. The reason is that deadlock detection is a nice little graph-theory problem that one mathematically inclined graduate student could get his jaws around and chew on for 4 years. Many algorithms were devised, each one more exotic and less practical than the previous one. Most of that work has died out."
 
 # Next
 
