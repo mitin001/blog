@@ -22,3 +22,5 @@ Andrew Tanenbaum's books have gotten me through college. He has a rare talent fo
 * [1. Introduction](../../../2026/01/21/modern-operating-systems-01.md)
 * [2. Processes and Threads](../../../2026/02/15/modern-operating-systems-02.md)
 * [3. Memory Management](../../../2026/02/23/modern-operating-systems-03.md)
+* [4. File Systems](../../../2026/03/08/modern-operating-systems-04.md)
+* [5. Input/Output](../../../2026/03/21/modern-operating-systems-05.md)

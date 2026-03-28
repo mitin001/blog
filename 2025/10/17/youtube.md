@@ -23,3 +23,8 @@ In the parlance of *Infinite Jest*, YouTube is *the entertainment*, a never-endi
 * [Fran Lebowitz on The Tonight Show](../../../2026/02/25/youtube-the-tonight-show-fran-lebowitz.md)
 * [Chemist Answers Chemistry Questions From Twitter](../../../2026/03/02/youtube-wired-chemistry-questions.md)
 * [James O'Brien meets Miriam Margolyes](../../../2026/03/03/youtube-james-obrien-miriam-margolyes.md)
+* [Diane Warren reflects on perseverance in her career](../../../2026/03/04/youtube-cbs-diane-warren.md)
+* [Former Cult Member Answers Cult Questions](../../../2026/03/07/youtube-wired-cults.md)
+* [Fran Lebowitz at MK2 Bibliothèque, Paris, 11th March 2022](../../../2026/03/12/youtube-fran-lebowitz-mk2-paris.md)
+* [Biomedical Scientist Answers New Pseudoscience Questions](../../../2026/03/22/youtube-wired-new-biomedical-pseudoscience.md)
+* [TED. Cameron Russell: Looks aren't everything. Believe me, I'm a model](../../../2026/03/24/ted_cameron_russell_looks_aren_t_everything.md)

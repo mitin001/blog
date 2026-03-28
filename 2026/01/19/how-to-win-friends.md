@@ -9,3 +9,4 @@ This book was referenced by the [advice page](https://en.wikipedia.org/wiki/Wiki
 * [Part One. Fundamental Techniques in Handling People](../../../2026/01/24/how-to-win-friends-1.md)
 * [Part Two. Six Ways to Make People Like You](../../../2026/01/31/how-to-win-friends-2.md)
 * [Part Three. How to Win People to Your Way of Thinking](../../../2026/02/22/how-to-win-friends-3.md)
+* [Part Four. Be a Leader: How to Change People Without Giving Offense or Arousing Resentment](../../../2026/03/13/how-to-win-friends-4.md)
