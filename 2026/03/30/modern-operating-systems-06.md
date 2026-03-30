@@ -20,7 +20,11 @@ As another example, if there are two free instances of a resource, and only one 
 
 <img width="300" alt="17748532806173693259202628552436" src="https://github.com/user-attachments/assets/17108d93-00ba-48fd-8a53-40478eabbdcf" />
 
-Of course, a process could release some of its resources well before it exits, but we can't count on that if we want to guarantee deadlock avoidance. Note also that this algorithm (Dijkstra's banker's algorithm) relies on assumptions that in many situations are unrealistic, which means deadlock avoidance isn't always possible.
+Of course, a process could release some of its resources well before it exits, but we can't count on that if we want to guarantee deadlock avoidance. On the other hand, some situations guarantee the impossibility of deadlocks because there is no possible resource allocation that would lead to an unsafe state.
+
+> A system has two processes and three identical resources. Each process needs a maximum of two resources.
+
+In general, if there are p processes each requiring at most m resources to complete, then as long as there are more than p(m-1) resources available, deadlocks are impossible. In the worst case, each process will be in an incomplete state holding m-1 resources, but since there will still be at least one more resource available than this total, the allocation will lead to one of the processes completing, which will ensure there are, once again, enough resources for the others to complete. However, note that situations like this, and this algorithm in general (Dijkstra's banker's algorithm), rely on assumptions that, in many situations, are unrealistic, which means deadlock avoidance isn't always possible.
 
 > Few authors have had the audacity to point out that although in theory the algorithm is wonderful, in practice it is essentially useless because processes rarely know in advance what their maximum resource needs will be. In addition, the number of processes is not fixed, but dynamically varying as new users log in and out. Furthermore, resources that were thought to be available can suddenly vanish (tape drives can break). Thus, in practice, few, if any, existing systems use the banker’s algorithm for avoiding deadlocks. Some systems, however, use heuristics similar to those of the banker’s algorithm to prevent deadlock. For instance, networks may throttle traffic when buffer utilization reaches higher than, say, 70%—estimating that the remaining 30% will be sufficient for current users to complete their service and return their resources.
 
