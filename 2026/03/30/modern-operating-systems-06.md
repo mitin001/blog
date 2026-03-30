@@ -14,11 +14,11 @@ Why waste time looking for a problem when, most of the time, you wouldn't find o
 
 Have the operating systems look at resource allocations across processes every time a process requests a resource. If granting the request leads to an unsafe state, suspend the process until satisfying the request no longer leads to an unsafe state. For example, when process A crosses time point I1, it requests and is granted the printer; when process B requests a plotter at time point I5, it should only be granted this resource after process A has passed time point I4, at which point it has released both of the resources. If process B is granted access to the plotter at time t, before A releases its resources, it will enter an unsafe state where advancing either process brings it toward the impossible situation of mutual exclusion (where both processes would be using the same resource).
 
-F11
+![17748532421183375633640541988780](https://github.com/user-attachments/assets/ab59a8fa-c9ec-460f-9edf-06a9796b423f)
 
 As another example, if there are two free instances of a resource, and only one of the processes would complete (and thus release its resources) if these are granted to it (process C), then the only way to avoid an unsafe state is to grant the resources to this process. Giving them to another process would lead to a situation where we have zero resources left and no process that can finish (thereby releasing all of its resources).
 
-F14b
+<img width="300" alt="17748532806173693259202628552436" src="https://github.com/user-attachments/assets/17108d93-00ba-48fd-8a53-40478eabbdcf" />
 
 Of course, a process could release some of its resources well before it exits, but we can't count on that if we want to guarantee deadlock avoidance. Note also that this algorithm (Dijkstra's banker's algorithm) relies on assumptions that in many situations are unrealistic, which means deadlock avoidance isn't always possible.
 
@@ -30,7 +30,7 @@ If deadlock avoidance is impossible, the next best thing is deadlock prevention:
 
 Since four conditions are necessary for creating a deadlock, a deadlock prevention algorithm works by simply restricting the system from allowing one or more of such conditions. 
 
-F17
+<img width="400" alt="17748533003663503272064275332233" src="https://github.com/user-attachments/assets/50c247ad-bd45-45e0-ad0c-8d575c8a85fe" />
 
 For example, if a process holding resource A is not allowed to wait for another resource (the hold-and-wait condition), then it will definitely not be waiting for a resource, say resource B, that could only be freed by a process waiting for resource A.
 
@@ -42,7 +42,7 @@ New York City eliminates the hold-and-wait condition by not allowing a car to ho
 
 Gridlocks are not just a vulnerability of a city. It can occur in any graph with a cycle. This is why routers don't accept an incoming packet if doing so would fill up its buffer.
 
-F18
+<img width="500" alt="17748533214048749201108838368639" src="https://github.com/user-attachments/assets/b7e90688-7a66-4236-b245-6281c5bc8983" />
 
 ## How to convert a non-preemptible resource into a preemptible one?
 
