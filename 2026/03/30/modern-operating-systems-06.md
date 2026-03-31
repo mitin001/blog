@@ -48,6 +48,12 @@ Gridlocks are not just a vulnerability of a city. It can occur in any graph with
 
 <img width="500" alt="17748533214048749201108838368639" src="https://github.com/user-attachments/assets/b7e90688-7a66-4236-b245-6281c5bc8983" />
 
+Ordering resources numerically also avoids curcular waits. This is how deadlocks can be avoided in electronic funds transfer systems.
+
+> Each process reads an input line specifying an amount of money, the account to be credited, and the account to be debited. Then it locks both accounts and transfers the money, releasing the locks when done. With many processes running in parallel, there is a very real danger that a process having locked account x will be unable to lock y because y has been locked by a process now waiting for x.
+
+If every process always locks accounts in the same order (e.g., low-numbered account first and high-numbered account second), then there is no circular wait, and deadlicks are avoided.
+
 ## How to convert a non-preemptible resource into a preemptible one?
 
 Virtualize it, if possible. For example, instead of writing directly to a printer, write to a file (_virtual printer_) and have a dedicated non-preemptible process feed the data from the virtual file to the physical printer. That way, you're not starting another non-preemptible process. The fewer non-preemptible processes, the less likely the system is to deadlock.
