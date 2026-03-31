@@ -52,7 +52,7 @@ Ordering resources numerically also avoids curcular waits. This is how deadlocks
 
 > Each process reads an input line specifying an amount of money, the account to be credited, and the account to be debited. Then it locks both accounts and transfers the money, releasing the locks when done. With many processes running in parallel, there is a very real danger that a process having locked account x will be unable to lock y because y has been locked by a process now waiting for x.
 
-If every process always locks accounts in the same order (e.g., low-numbered account first and high-numbered account second), then there is no circular wait, and deadlicks are avoided.
+If every process always locks accounts in the same order (e.g., low-numbered account first and high-numbered account second), then there is no circular wait, and deadlocks are avoided.
 
 ## How to convert a non-preemptible resource into a preemptible one?
 
