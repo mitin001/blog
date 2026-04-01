@@ -48,7 +48,11 @@ Gridlocks are not just a vulnerability of a city. It can occur in any graph with
 
 <img width="500" alt="17748533214048749201108838368639" src="https://github.com/user-attachments/assets/b7e90688-7a66-4236-b245-6281c5bc8983" />
 
-Ordering resources numerically also avoids curcular waits. This is how deadlocks can be avoided in electronic funds transfer systems.
+In the context of operating systems, targeting the hold-and-wait condition could mean disallowing partial allocations of resources: a process either gets all the resources it will ever need upfront or it must give all of its allocations up if it ever finds itself in a situation where it needs to request more. The former is a better idea than the latter. Releasing resources half-way means potentially abandoning the progress made with them up to that point. This could make for a thrashing process.
+
+> It may get the new resource but lose some of the existing ones to competing processes.
+
+Ordering resources numerically is another idea for avoiding curcular waits. This is how deadlocks are commonly avoided in electronic funds transfer systems.
 
 > Each process reads an input line specifying an amount of money, the account to be credited, and the account to be debited. Then it locks both accounts and transfers the money, releasing the locks when done. With many processes running in parallel, there is a very real danger that a process having locked account x will be unable to lock y because y has been locked by a process now waiting for x.
 
