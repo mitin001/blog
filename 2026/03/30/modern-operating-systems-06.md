@@ -52,7 +52,7 @@ In the context of operating systems, targeting the hold-and-wait condition could
 
 > It may get the new resource but lose some of the existing ones to competing processes.
 
-Ordering resources numerically is another idea for avoiding curcular waits. This is how deadlocks are commonly avoided in electronic funds transfer systems.
+Ordering resources numerically is another idea for ensuring there are no curcular waits. This is how deadlocks are commonly prevented in electronic funds transfer systems.
 
 > Each process reads an input line specifying an amount of money, the account to be credited, and the account to be debited. Then it locks both accounts and transfers the money, releasing the locks when done. With many processes running in parallel, there is a very real danger that a process having locked account x will be unable to lock y because y has been locked by a process now waiting for x.
 
