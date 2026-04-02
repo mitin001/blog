@@ -82,6 +82,10 @@ Just as timeouts resolve communication deadlocks, a persist timer solves the TCP
 
 ## What is a livelock?
 
+It's when two processes are not making any progress even as they are live and executing instructions.
+
+> Assume two processes are issuing a seek command to reposition the mechanism to access the disk and enable a read command. Each process is interrupted before executing its read, and discovers that the other has moved the disk arm. Each then reissues the seek command, but is again interrupted by the other. This sequence continually repeats.
+
 It's when two people bump into each other and both try to yield to the other, and no one is moving as a result.
 
 > The situation of two people trying to pass each other on the street when both of them politely step aside, and yet no progress is possible, because they keep stepping the same way at the same time.
