@@ -26,7 +26,7 @@ Have the operating systems look at resource allocations across processes every t
 
 As another example, if there are two free instances of a resource, and only one of the processes would complete (and thus release its resources) if these are granted to it (process C), then the only way to avoid an unsafe state is to grant the resources to this process. Giving them to another process would lead to a situation where we have zero resources left and no process that can finish (thereby releasing all of its resources).
 
-<img width="300" alt="17748532806173693259202628552436" src="https://github.com/user-attachments/assets/17108d93-00ba-48fd-8a53-40478eabbdcf" />
+<img width="200" alt="17748532806173693259202628552436" src="https://github.com/user-attachments/assets/17108d93-00ba-48fd-8a53-40478eabbdcf" />
 
 Of course, a process could release some of its resources well before it exits, but we can't count on that if we want to guarantee deadlock avoidance. On the other hand, some situations guarantee the impossibility of deadlocks because there is no possible resource allocation that would lead to an unsafe state.
 
