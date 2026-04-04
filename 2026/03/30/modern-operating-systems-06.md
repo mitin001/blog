@@ -1,6 +1,6 @@
 # 6. Deadlocks
 
-This chapter of [Modern Operating Systems](../../../2026/01/06/modern-operating-systems.md) answered five questions about situations where two processes are stuck waiting for each other.
+This chapter of [Modern Operating Systems](../../../2026/01/06/modern-operating-systems.md) answered six questions about situations where two processes are stuck waiting for each other.
 
 ## When should an operating system look for deadlocks?
 
@@ -9,6 +9,14 @@ When the CPU is idle enough to be able to handle the overhead of constructing re
 > One possibility is to check every time a resource request is made. This is certain to detect them as early as possible, but it is potentially expensive in terms of CPU time. An alternative strategy is to check every k minutes, or perhaps only when the CPU utilization has dropped below some threshold. The reason for considering the CPU utilization is that if enough processes are deadlocked, there will be few runnable processes, and the CPU will often be idle.
 
 Why waste time looking for a problem when, most of the time, you wouldn't find one? On the other hand, if you have many stuck processes in the queue, then we can be reasonably sure that a problem has indeed occurred, and the time has come to solve it.
+
+## How to detect a deadlock? 
+
+By optimistic simulation. Iterate over the processes in the resource allocation matrix and check whether one of them (Ci) can finish, i.e., its row in the request matrix (Ri) can be subtracted from the array of available resources (A). If so, we assume the process will finish and recalculate A: A += Ci. We also zero out Ci and Ri. We repeat this process until C is empty (no deadlocks detected) or still contains at least one row Ci such that Ri cannot be subtracted from A. In the later case, i corresponds to a deadlocked process.
+
+<img width="400" alt="17753257004633907706458044347758" src="https://github.com/user-attachments/assets/a8f290f3-5bd9-4f1d-a4f6-3d6869ceb293" />
+
+Here, process 2 can finish: we can subtract Ri = (2 1 0 0) from A = (2 1 0 0). Then, A = (2 1 0 0) + (0 1 2 0) = (2 2 2 0). Now process 1 can finish, resulting in A = (4 2 2 1). Finally, process 0 can finish. Now that C is empty, we conclude there are no deadlocks in this system. If any of these processes had resource demands that exceeded what was available, they would be found to be deadlocked: the deadlock would involve processes (0 1 2) if process 2 needed more resources than were available, processes (0 1) if process 1 did, or just process 0 if it required more resources than were available (requested more resources than were in existence).
 
 ## How to avoid deadlocks? 
 
