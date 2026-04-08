@@ -24,11 +24,11 @@ Thanks to FreeBSD Jails, we now have the likes of Docker allowing us to create v
 
 > Jails had their own file system name spaces, their own IP addresses, their own (limited) root processes, etc. Their elegant solution was hugely influential and soon similar features appeared in other operating systems, often partitioning even more resources, such as memory or CPU usage.
 
-## How did VMware hypervisor isolate user processes from the guest OS and the guest OS from the hypervisor on x86 pre-VT?
+## How did the VMware hypervisor isolate user processes from the guest OS and the guest OS from the hypervisor on x86 pre-VT?
 
 It took advantage of the CPU's four protection rings by placing the hypervisor in ring 0, the guest OS in ring 1, and user processes in ring 3.
 
-F4
+<img width="400" alt="17756184475496951795741403299588" src="https://github.com/user-attachments/assets/f1ea7e88-fb16-4092-9310-9dd3999c1523" />
 
 Whereas a regular OS kernel has privileged access to hardware and allows user processes to trap into the kernel when needed, an OS running on a hypervisor needs to propagate kernel traps another layer—into the hypervisor ring. For each basic block (sequence of instructions) in the guest OS kernel, VMware hypervisor detects any that would behave differently if ran in the true privileged mode on the hardware (sensitive instructions) and replaces them with hypervisor procedures through binary translation.
 
