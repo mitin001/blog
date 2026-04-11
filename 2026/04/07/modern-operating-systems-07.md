@@ -66,7 +66,7 @@ This is a tricky problem because an OS maps physical memory pages to its virtual
 
 > Keep track of which page in the guest’s virtual memory contains the top-level page table. It can get this information the first time the guest attempts to load the hardware register that points to it because this instruction is sensitive and traps. The hypervisor can create a shadow page table at this point and also map the top-level page table and the page tables it points to as read only. A subsequent attempts by the guest operating system to modify any of them will cause a page fault and thus give control to the hypervisor, which can analyze the instruction stream, figure out what the guest OS is trying to do, and update the shadow page tables accordingly.
 
-This design adds overhead to each page table modification, which significantly reduces performance of the guest OS. For this reason, as long as there is hardware support for them, nested page tables are the preferred way of isolating guest OS memory.
+This design adds overhead to each page table modification, which significantly reduces performance of the guest OS. For this reason, as long as there is hardware support for them, nested page tables are the preferred way of isolating guest OS memory. Let's not forget also that without nested page tables the hypervisor has to maintain shadow page tables that translate the guest-virtual→guest-physical mappings the guest operating systems have in their page tables to host-physical mappings for every memory access.
 
 ## How does the hypervisor reclaim memory from one guest OS to give to another?
 
