@@ -10,8 +10,8 @@ The direction of the RNA polymerase's movement depends on the concentration of i
 
 The cell keeps the concentration of the RNA polymerization products low: the pyrophosphates are quickly removed by hydrolysis.
 
-<img width="1360" height="745" alt="17765330417172994898304767676262" src="https://github.com/user-attachments/assets/ebf8ed0c-e50a-4d20-9ad6-922774d4cc0e" />
+<img width="800" alt="17765330417172994898304767676262" src="https://github.com/user-attachments/assets/ebf8ed0c-e50a-4d20-9ad6-922774d4cc0e" />
 
 The reaction goes in the direction of a greater availability of states.
 
-<img width="864" height="296" alt="17765331583234481701853438429266" src="https://github.com/user-attachments/assets/bbf0d4b1-4a48-4598-a17d-ae1b4cab00e7" />
+<img width="300" alt="17765331583234481701853438429266" src="https://github.com/user-attachments/assets/bbf0d4b1-4a48-4598-a17d-ae1b4cab00e7" />
