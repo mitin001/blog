@@ -9,3 +9,4 @@ Prior to the 2016 election, *Last Week Tonight* ran a deep dive on Trump, which 
 * [Last Week Tonight: 12.21. August 17, 2025](../../../2025/10/13/last-week-tonight-12-21.md)
 * [Last Week Tonight: 13.02. February 22, 2026](../../../2026/03/20/last-week-tonight-13-02.md)
 * [Last Week Tonight: 13.03. March 1, 2026](../../../2026/03/15/last-week-tonight-13-03.md)
+* [Last Week Tonight: 12.27. October 26, 2025](../../../2026/04/10/last-week-tonight-12-27.md)

@@ -12,3 +12,4 @@ Google Podcasts recommended this podcast to me a few years ago. It made me reali
 * [The summer I turned binge-y](../../../2025/12/26/planet-money-binge-worthy-tv.md)
 * [What AI data centers are doing to your electric bill](../../../2026/01/04/planet-money-data-centers-electric-bill.md)
 * [An AI bubble](../../../2026/01/12/planet-money-ai-bubble.md)
+* [Bookstore Economics](../../../2026/04/18/planet-money-bookstore.md)

@@ -5,3 +5,4 @@ Sometimes, to [get more out of a computer](../../../2025/12/05/getting-more-out-
 # Next
 
 * [MP3 Background Matcher](../../../2025/12/28/chatgpt-mp3-background-matcher.md)
+* [Indoor Humidity Estimate](../../../2026/04/12/chatgpt-indoor-humidity.md)

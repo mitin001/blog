@@ -27,3 +27,5 @@ Andrew Tanenbaum's books have gotten me through college. He has a rare talent fo
 * [3. Memory Management](../../../2026/02/23/modern-operating-systems-03.md)
 * [4. File Systems](../../../2026/03/08/modern-operating-systems-04.md)
 * [5. Input/Output](../../../2026/03/21/modern-operating-systems-05.md)
+* [6. Deadlocks](../../../2026/03/30/modern-operating-systems-06.md)
+* [7. Virtualization and the Cloud](../../../2026/04/07/modern-operating-systems-07.md)
